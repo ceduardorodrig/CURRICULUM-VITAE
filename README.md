@@ -72,6 +72,7 @@ Today I'm a **hybrid**: data and product architect with an anthropologist's soul
 - **Phone / WhatsApp:** +55 (61) 9-9803-3546
 - **LinkedIn:** [linkedin.com/in/c-eduardo-rodrigues](https://linkedin.com/in/c-eduardo-rodrigues)
 - **GitHub:** [github.com/ceduardorodrig](https://github.com/ceduardorodrig)
+- **Sumaenima:** [sumaenima.chimaera-heptatonic.ts.net](https://sumaenima.chimaera-heptatonic.ts.net)
 - **Location:** Brasília-DF, Brazil
 
 ---

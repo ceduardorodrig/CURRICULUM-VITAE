@@ -1,115 +1,121 @@
-# Carlos Eduardo Rodrigues
+# 👤 Carlos Eduardo Rodrigues
 
 **Antropólogo & Arquiteto de Soluções Tech-Socioambientais**
 
 [ceduardorodrig@gmail.com](mailto:ceduardorodrig@gmail.com) | +55 (61) 9-9803-3546 | Brasília-DF
 
-[linkedin.com/in/c-eduardo-rodrigues](https://linkedin.com/in/c-eduardo-rodrigues) | [github.com/ceduardorodrig](https://github.com/ceduardorodrig)
+[linkedin.com/in/c-eduardo-rodrigues](https://linkedin.com/in/c-eduardo-rodrigues) | [github.com/ceduardorodrig](https://github.com/ceduardorodrig) | [sumaenima.chimaera-heptatonic.ts.net](https://sumaenima.chimaera-heptatonic.ts.net)
 
 ---
 
-## Perfil
+## 👤 Perfil
 
-Profissional híbrido que une tecnologia open-source local, dados e antropologia para amplificar causas socioambientais. Quase uma década construindo pontes entre pesquisa etnográfica, comunicação estratégica e arquitetura de sistemas de IA — com resultados que vão de 2+ milhões de pessoas alcançadas a plataformas nacionais de automapecimento integradas ao Ministério Público Federal. Acredito que tecnologia útil, acessível e soberana é ferramenta de justiça social e ambiental.
+Profissional híbrido que une tecnologia open-source local, dados e antropologia para amplificar causas socioambientais. Quase uma década construindo pontes entre pesquisa etnográfica, comunicação estratégica e arquitetura de sistemas de IA — com resultados que vão de 2+ milhões de pessoas alcançadas a plataformas nacionais de automapecimento integradas ao Ministério Público Federal e artigos científicos submetidos a periódicos internacionais. Acredito que tecnologia útil, acessível e soberana é ferramenta de justiça social e ambiental.
 
 ---
 
-## Experiência
+## 💼 Experiência
 
-### Sumaenima — Founder & Product Owner
+### 🚀 Sumaenima — Fundador & Product Owner
 *2016 — presente · Brasília-DF / Remoto*
 
-Sumaenima é meu projeto de vida. Existe há quase 10 anos como entidade criativa independente, atravessando toda minha carreira em paralelo aos empregos formais. O que me mantém é o sonho de um dia captar recursos para ter equipe e construir um Bureau de Dados com alma antropológica.
+Sumaenima é meu projeto de vida. Existe há quase 10 anos como entidade criativa independente, atravessando toda minha carreira em paralelo aos empregos formais. Nasceu da convicção de que dados sensíveis de comunidades tradicionais não podem depender de big tech. O sonho é construir um **Bureau de Dados** com alma antropológica: projetos como o Tô no Mapa, visualizações de dados e pesquisa etnográfica em escala.
 
-**StênioBOT** (2024–presente): a primeira plataforma de etnografia com IA 100% local e privada. Quatro módulos integrados para pesquisa qualitativa — transcrição em tempo real (Whisper), scanner de workshops com visão computacional, mineração semântica e visualização de dados. A premissa: dados sensíveis de comunidades não podem depender de infraestrutura de big tech. Stack: FastAPI + React + PostgreSQL + Docker Swarm em cluster multi-nó caseiro.
+**StênioBOT** (2024–presente): plataforma de etnografia com IA 100% local e privada. Quatro módulos — transcrição em tempo real (Whisper), scanner de workshops com visão computacional, mineração semântica e visualização de dados. Stack: FastAPI + React + PostgreSQL + Docker Swarm. Tudo offline, sem envio de dados para cloud.
 
-Outras entregas: documentário etnográfico "RUA PARA QUE(M)?" (2020) e projetos independentes de design, vídeo e dados sob a marca Sumaenima.
+**Relatoria & Sistematização de Dados** (paralelo à StênioBOT):
+- **3º Encontro Nacional da Juventude das Populações Extrativistas e Tradicionais** — Semana da Sociobiodiversidade 2025 (IEB/CNS/MCM/CONFREM). Sistematização das formulações de dezenas de jovens de povos e comunidades tradicionais de todo o Brasil, resultando em diagnóstico estratégico para organizações do setor.
+- **Módulo II — "Formar Protagonistas"** (IEB/APAFE/Rainforest Trust). Imersão de 39 lideranças da FLONA de Tefé em Brasília. Relatoria com abordagem etnográfica: observação participante, análise de fontes primárias e produção de relatório de incidência política.
+- **Planejamento Estratégico do IPEA** (2026). Sistematização de dados e facilitação.
+- Pipeline de extração e visualização de **linhas do tempo contratadas pelo IEB** (projeto agentic-ai).
 
-### IPAM — Amazon Environmental Research Institute
+### 🌳 IPAM — Instituto de Pesquisa Ambiental da Amazônia
 *2022 — 2025 · Brasília-DF*
 
-**Communication Analyst** (2024–2025) · **Communication Assistant** (2023–2024) · **Trainee** (2022–2023)
+**Analista de Comunicação** (2024–2025) · **Assistente de Comunicação** (2023–2024) · **Estagiário** (2022–2023)
 
 - Liderança digital de um dos principais institutos de pesquisa climática da Amazônia
 - Alcance consolidado de **2+ milhões de usuários** no gerenciamento de 5 redes sociais
-- **Prêmio Mercosul de Jornalismo e Divulgação Científica — 1º lugar em Redes Sociais** (2024), reconhecendo a qualidade da comunicação científica sobre mudanças climáticas
-- Codiretor do documentário **"Manaus Extrema"** sobre os impactos das mudanças climáticas na capital amazônica (estreia no INPA / PROTEJA Talks 2024)
-- Implementação de Agile/Scrum na equipe de comunicação como Scrum Master, melhorando previsibilidade e entrega de campanhas
+- **Prêmio Mercosul de Jornalismo e Divulgação Científica — 1º lugar em Redes Sociais** (2024)
+- Codiretor do documentário **"Manaus Extrema"** (estreia no INPA / PROTEJA Talks 2024)
+- Implementação de Agile/Scrum como Scrum Master, melhorando previsibilidade e entrega de campanhas
 - Gestão de Google Ad Grants (US$ 10K/mês) e Meta Ads com segmentação baseada em dados
 - Presidi a CIPA por dois mandatos consecutivos
 
-### ISPN — Institute for Society, Population and Nature
+### 🗺️ ISPN — Instituto Sociedade, População e Natureza
 *2017 — 2021 · Brasília-DF*
 
-**Junior Technical Advisor** (2019–2021) · **Trainee** (2017–2019)
+**Assessor Técnico Júnior** (2019–2021) · **Estagiário** (2017–2019)
 
 #### Tô no Mapa — Projeto de Destaque
 
-Este projeto **define quem eu sou profissionalmente**. Comecei como pesquisador etnográfico em campo, realizando entrevistas e observação participante com comunidades tradicionais no Cerrado para entender suas necessidades de mapeamento territorial. Contribuí para transformar uma modesta iniciativa de coleta de dados na **Plataforma Tô no Mapa**, hoje uma ferramenta nacional integrada ao **Ministério Público Federal**, que empodera milhares de comunidades a automapecar seus territórios — fortalecendo a luta por direitos humanos, territoriais e proteção ambiental. Foi aqui que nasceu meu híbrido antropologia-tech.
+Este projeto **define quem sou profissionalmente**. Comecei como pesquisador etnográfico em campo, realizando entrevistas e observação participante com comunidades tradicionais do Cerrado para entender suas necessidades de mapeamento territorial. Contribuí para transformar uma modesta iniciativa de coleta de dados na **Plataforma Tô no Mapa**, hoje integrada ao **Ministério Público Federal**, empoderando milhares de comunidades a automapear seus territórios — fortalecendo a luta por direitos humanos, territoriais e proteção ambiental. Foi aqui que nasceu meu híbrido antropologia-tech.
 
 Outras contribuições:
 - Criação da primeira estratégia de comunicação pública do Instituto em anos
 - Produção de mapas temáticos (QGIS), cobertura fotográfica em campo e materiais editoriais
-- Organização de eventos de grande porte: Acampamento Terra Livre, Encontro e Feira dos Povos do Cerrado, VI Congresso Latino-Americano de Agroecologia
+- Apoio técnico a eventos de grande porte: Acampamento Terra Livre, Encontro e Feira dos Povos do Cerrado, Congresso Latino-Americano de Agroecologia
 
-### Participatory Fauna Monitoring Network (Rede de Monitoria)
+### 🦎 Rede de Monitoria Participativa da Fauna
 *2020 — 2022 · Cavalcante-GO*
 
-**Communications Specialist**
+**Especialista em Comunicação**
 
-- Articulação com **World Bank** (senior natural resources manager) para estruturar corredor ecológico entre o Parque Nacional da Chapada dos Veadeiros e o Sítio Histórico Kalunga
-- Organização e facilitação da reunião inaugural da rede, reunindo ICMBio, UnB, ONGs, proprietários rurais e movimentos sociais
-- Produção de relatório executivo completo (concepção, redação, fotografia, diagramação)
+Trabalhei diretamente com **André Rodrigues de Aquino** (Lead Environmental Specialist do World Bank, então gerente sênior de recursos naturais) e **Daniel** (diplomata do Itamaraty), proprietários da **Reserva Natural Veredas dos Buritis** — que fica **dentro** da Fazenda Canadá, área do meu TCC. Apoiei a facilitação da reunião inaugural da Rede de Monitoria, que buscava criar um corredor ecológico entre o Parque Nacional da Chapada dos Veadeiros e o Sítio Histórico Kalunga, reunindo ICMBio, UnB, ONGs e proprietários rurais. Produzi relatório executivo completo.
 
-### APIB — Articulation of Indigenous Peoples of Brazil
-*2020 · Voluntário · Remoto*
+### ⚖️ APIB — Articulação dos Povos Indígenas do Brasil
+*2020 · Remoto*
 
 Suporte inicial à gestão de dados e comunicação durante a emergência COVID-19 no contexto indígena.
 
-### Reserva Natural Veredas dos Buritis
+### 🌿 Reserva Natural Veredas dos Buritis
 *2020 — presente · Cavalcante-GO*
 
-**Communications Advisor** (voluntário) — Gestão de mídias sociais e articulação de atores locais na região da Chapada dos Veadeiros.
+**Assessor de Comunicação** — Gestão de mídias sociais, produção de conteúdo e articulação local na região da Chapada dos Veadeiros.
 
 ---
 
-## Formação
+## 🎓 Formação
 
 **Universidade de Brasília (UnB)** — Bacharelado em Ciências Sociais / Antropologia (2016–2023)
 
-- **Monografia:** *"Uma Assemblage de Projetos de Vida: mudanças organizacionais na Fazenda Canadá, Cavalcante-GO"* (2023). Orientação: Prof. Henyo Trindade Barretto Filho. Etnografia sobre o fracionamento de terras, memória e projetos de vida na Chapada dos Veadeiros.
-- Direção do documentário "RUA PARA QUE(M)?" (85min), etnografia visual do movimento neo-fanfarrista de Brasília. Colaboração com Departamento de Antropologia, Núcleo de Estudos Amazônicos (NEAz-UnB) e HONK! BSB.
+- **Monografia:** *"Uma Assemblage de Projetos de Vida: mudanças organizacionais na Fazenda Canadá, Cavalcante-GO"* (2023). Orientação: Prof. Henyo Trindade Barretto Filho. Etnografia sobre o fracionamento de terras, memória e projetos de vida na Chapada dos Veadeiros. A pesquisa foi realizada na mesma região da Reserva Veredas dos Buritis e da Rede de Monitoria — tudo interligado.
+
+**Mestrado em Antropologia (interrompido)** — Universidade de Brasília (2024–2025)
+Dois semestres concluídos, interrompido por greve. Escolhi abandonar o mestrado para me dedicar integralmente a dados, design de produto e arquitetura de sistemas. Esta decisão definiu minha transição de carreira.
 
 ---
 
-## Publicações & Produção Acadêmica
+## 📡 Infraestrutura — Sumaenima & Mnemocine
 
-- **Coautor** — Moser, P.; de Castro Silva, I.; Benedetti Figueiredo, I.; Favilla, K.; Bustamante, M.; Macedo, M.N.; de Araújo, R.F.; Shimbo, J.Z.; Varela, V.; **Rodrigues, C.E.** ; Alencar, A.A. *"Institutional Invisibility Threatens the Lands and Livelihoods of Traditional Communities in the Northern Brazilian Cerrado"* — Submetido a **Land Use Policy** (Elsevier, 2026)
-- **Documentário** — *RUA PARA QUE(M)?* (85min, 2020) — Direção, fotografia, edição. Publicado pela Sumaenima. Registro etnográfico do movimento de ocupação dos espaços públicos em Brasília.
-- **Documentário** — *Manaus Extrema* (2024) — Codireção. Documentário sobre mudanças climáticas na Amazônia urbana. Estreia no INPA / PROTEJA Talks.
+O **Homelab Mnemocine** É a infraestrutura da **Sumaenima**: 4 servidores rodando software livre, projetados para processamento local de dados sensíveis com zero dependência de nuvem comercial.
 
----
+| Nó | Hardware | Papel |
+|----|----------|-------|
+| **psicopompo** 🧠 | Dell Frankenstein · Xeon 6C/12T · RTX 5050 · 46GB RAM · Arch Linux | Core — IA, banco. **Dados sensíveis ficam aqui.** |
+| **ybyra** 🌐 | Oracle Cloud · 1GB RAM | Edge primário — nginx, SPA |
+| **ybytu** ☁️ | Oracle Cloud · 1GB RAM | DNS, dashboard, sincronização |
+| **kuaray** ♻️ | Dell notebook reaproveitado · 6GB RAM · Linux Mint | Edge standby — porque tecnologia útil não se descarta |
 
-## Infraestrutura & Tecnologia
-
-Fundador e operador do **Homelab Mnemocine**: 4 servidores rodando software livre e orquestrados via Docker Swarm, projetado para processamento local de dados sensíveis sem dependência de nuvem. Destaques:
-
-- **psicopompo**: Workstation Dell Frankenstein — Xeon 6C/12T, RTX 5050, 46GB RAM, Arch Linux — servidor principal de IA
-- **kuaray**: Notebook Dell reaproveitado rodando Linux — porque tecnologia útil não se descarta
-- **2 nós cloud** (Oracle) para borda e DNS
-- Rede mesh Tailscale, monitoramento Grafana/Loki, 30+ containers em produção
-- Desktop principal: Arch Linux (CachyOS)
-
-Esta infraestrutura é a prova de conceito de que é possível fazer IA de ponta sem depender de big tech — alinhado à missão de soberania tecnológica para comunidades e instituições do Sul Global.
+> 🔒 **Soberania de dados**: nós Oracle rodam **apenas** serviços de borda não-sensíveis (nginx, DNS, analytics). Inferência de IA e armazenamento são 100% locais.
 
 ---
 
-## Skills
+## 📚 Publicações
+
+- **Coautor** — Moser, P.; de Castro Silva, I.; Benedetti Figueiredo, I.; Favilla, K.; Bustamante, M.; Macedo, M.N.; de Araújo, R.F.; Shimbo, J.Z.; Varela, V.; **Rodrigues, C.E.**; Alencar, A.A. *"Institutional Invisibility Threatens the Lands and Livelihoods of Traditional Communities in the Northern Brazilian Cerrado"* — Submetido a **Land Use Policy** (Elsevier, 2026). A pesquisa de campo foi realizada durante a graduação em Antropologia na UnB.
+- **Documentário** — *RUA PARA QUE(M)?* (85min, 2020) — Direção, fotografia, edição. Publicado pela Sumaenima.
+- **Documentário** — *Manaus Extrema* (2024) — Codireção.
+
+---
+
+## 🛠️ Habilidades
 
 | Categoria | Competências |
 |-----------|-------------|
 | **Pesquisa** | Etnografia, observação participante, entrevistas em profundidade, pesquisa qualitativa, UX Research |
 | **Estratégia** | Comunicação estratégica, facilitação de workshops, articulação multi-stakeholder, gestão de projetos |
+| **Relatoria** | Sistematização de dados qualitativos, relatórios de incidência política, documentação de eventos |
 | **Tecnologia** | Docker/Podman, Linux, Tailscale, Git, QGIS, Google Earth Engine |
 | **Dados** | Google Analytics, Meta Business Suite, Google Ad Grants, visualização de dados, métricas de audiência |
 | **Produção** | Adobe Creative Suite (Premiere, After Effects, Audition, Illustrator, InDesign, Photoshop, Lightroom) |
@@ -118,7 +124,7 @@ Esta infraestrutura é a prova de conceito de que é possível fazer IA de ponta
 
 ---
 
-## Prêmios
+## 🏆 Prêmios
 
 - **VII Prêmio Mercosul de Jornalismo e Divulgação Científica — 1º lugar, categoria Redes Sociais** (2024)
   Reconhecimento pelo trabalho de comunicação científica sobre mudanças climáticas no IPAM.
