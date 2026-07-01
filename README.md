@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/logo-sumaenima.svg" width="300" alt="Sumænimá Logo" />
-</p>
-
 # 📋 Carlos Eduardo Rodrigues — Currículo / Resume
 
 > **"Uso tecnologia open-source local de maneira engenhosa para unir antropologia, dados, ciência e comunicação."**
