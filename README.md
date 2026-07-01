@@ -10,6 +10,8 @@ Este repositório contém meu currículo em **3 versões** para diferentes públ
 
 This repository contains my resume in **3 versions** for different audiences, each in **English (US)** and **Português (BR)**.
 
+Os projetos descritos aqui totalizam **~8M+ linhas e crescendo** — distribuídas em 1.227+ arquivos, construídos ao longo de 10 anos como projeto de vida.
+
 The projects described here total **~8M+ lines and growing** — across 1,227+ files, built over 10 years as a life project.
 
 ---
