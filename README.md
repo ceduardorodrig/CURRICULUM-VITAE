@@ -236,6 +236,13 @@ Este repositório inclui o **cvcheck**, uma versão reduzida e portátil do Stê
 
 ---
 
+## 📜 License
+
+- **Code** (cvcheck, scripts, tooling): [MIT](LICENSE.md)
+- **Content** (CVs, README, documentation): [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)
+
+---
+
 ## 📬 Contato / Contact
 
 - 📧 **Email:** [ceduardorodrig@gmail.com](mailto:ceduardorodrig@gmail.com)
