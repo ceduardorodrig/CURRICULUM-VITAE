@@ -238,7 +238,7 @@ Today I'm a **hybrid**: data and product architect with an anthropologist's soul
 
 | | | |
 |:-:|:-:|:-:|
-| <img src="assets/foto-oficina-tonomapa-2019.png" width="280" /> | <img src="assets/foto-encontro-povos-cerrado-2019.jpg" width="280" /> | <img src="assets/foto-cnpct-planalto.jpg" width="280" /> |
+| <img src="assets/foto-oficina-tonomapa-2019.jpg" width="280" /> | <img src="assets/foto-encontro-povos-cerrado-2019.jpg" width="280" /> | <img src="assets/foto-cnpct-planalto.jpg" width="280" /> |
 | Oficina Tô no Mapa — UFT 2019 | Encontro dos Povos do Cerrado — 2019 | CNPCT — Palácio do Planalto |
 | <img src="assets/foto-fazenda-canada-portao.jpg" width="280" /> | <img src="assets/foto-atl-2018-indigena.jpg" width="280" /> | <img src="assets/foto-sertao-mg-quilombola.jpg" width="280" /> |
 | Porteira da Fazenda Canadá — Chapada dos Veadeiros | Acampamento Terra Livre — 2018 | Sertão MG — Comunidade Quilombola |

@@ -10,10 +10,11 @@
   "drivers/spell_en.py": "cc1b0018232d507fd3144e0efeb1c6120bb88d8b8f5a47e9d645b9d8afbfd6b0",
   "drivers/sec_bypass_guard.py": "37fdb9dc3c54bf60f1f1c80c2a5b4b05ec980f25373dc46393d72021ea5419ed",
   "drivers/sec_scope_guard.py": "0df2468a8d6cfcf5a673e1bc919f31e14ad527c7a4d4fca50ca370b7eb657222",
-  "drivers/gov_immutability.py": "b484ef01bccd35a47bf64a1dee43d66aa46c6abf84ebd7f53b87f13cd4ba158c",
+  "drivers/gov_immutability.py": "b4cbc5db5e8adce56e1140659905ed80a2ef5e5baef4aeb6652227ba847bb63e",
   "drivers/gov_glossary.py": "62c4152e2eaf59d91f26a8cb66820552509020fc44aa353fc91fafc78d5ef00b",
   "drivers/gov_acronyms.py": "0afae42724da301cdc4e846de92d65bb9962b26fd34d419f24fcc2e3d0421bc9",
   "drivers/gov_bilingual.py": "e20d1e5d4775a09eec815db3e3b69e12f446c9688a63afb32afae1a4bc581d0e",
   "drivers/gov_self_audit.py": "e0be2b72d45170d777d8e09e09d0d9ddcbbca62afe3fa81973ba9aad36e3fd14",
-  "drivers/gov_consistency.py": "38513ec96f995f527f1be203a4f416d9ab57868d2b9c6c5ac21cdd357c73f3f3"
+  "drivers/gov_consistency.py": "38513ec96f995f527f1be203a4f416d9ab57868d2b9c6c5ac21cdd357c73f3f3",
+  "drivers/gov_image_assets.py": "f68e7de7b662e71add76596eb8857720ceb5321cf5e8ddfd418157fd283deb95"
 }
