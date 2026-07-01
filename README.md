@@ -65,11 +65,11 @@ The projects described here total **~8M+ lines and growing** — across 1,227+ f
 
 Minha carreira parece não linear até que você percebe o padrão: **sempre usei tecnologia para aproximar mundos**.
 
-Comecei como estagiário no **ISPN** (2017), onde fiz pesquisa etnográfica com comunidades tradicionais do Cerrado. O que eu aprendi em campo — que dados não são só números, mas territórios, memórias e lutas — me levou a co-criar a **Plataforma Tô no Mapa**, hoje integrada ao Ministério Público Federal.
+Comecei como estagiário no [**ISPN**](https://ispn.org.br/) (2017), onde fiz pesquisa etnográfica com comunidades tradicionais do Cerrado. O que eu aprendi em campo — que dados não são só números, mas territórios, memórias e lutas — me levou a co-criar a [**Plataforma Tô no Mapa**](https://tonomapa.org.br/), hoje integrada ao Ministério Público Federal.
 
-No **IPAM** (2022–2025), passei de estagiário a analista, implementei Agile/Scrum como Scrum Master, gerenciei dados de audiência que alcançaram **2+ milhões de pessoas**, codirigi um documentário sobre mudanças climáticas e ganhei um prêmio Mercosul de jornalismo científico. Mas também descobri o que **não** queria: comunicação institucional para terceiros. O burnout veio junto com a clareza.
+No [**IPAM**](https://ipam.org.br/pt/) (2022–2025), passei de estagiário a analista, implementei Agile/Scrum como Scrum Master, gerenciei dados de audiência que alcançaram **2+ milhões de pessoas**, codirigi um documentário sobre mudanças climáticas e ganhei um prêmio Mercosul de jornalismo científico. Mas também descobri o que **não** queria: comunicação institucional para terceiros. O burnout veio junto com a clareza.
 
-A virada veio em 2024, quando comecei a construir o **StênioBOT** — a plataforma de captura de dados com IA local da **Sumænimá**, meu projeto de vida que já existia como entidade criativa independente desde 2016. Juntei tudo que aprendi: antropologia, dados, tecnologia. Dados sensíveis de comunidades não deveriam depender de big tech. Essa é a tese.
+A virada veio em 2024, quando comecei a construir o **StênioBOT** — a plataforma de captura de dados com IA local da [**Sumænimá**](https://sumaenima.chimaera-heptatonic.ts.net), meu projeto de vida que já existia como entidade criativa independente desde 2016. Juntei tudo que aprendi: antropologia, dados, tecnologia. Dados sensíveis de comunidades não deveriam depender de big tech. Essa é a tese.
 
 Em paralelo, construí o **Homelab Mnemocine**: 4 servidores (incluindo um Dell Frankenstein com Arch Linux (I Use Arch BTW) e RTX 5050 e um notebook velho reaproveitado), orquestrados em Docker Swarm com Tailscale, porque acredito que tecnologia útil não se descarta — e que é possível fazer IA de ponta sem depender de nuvem.
 
@@ -83,11 +83,11 @@ Hoje sou um **híbrido**: arquiteto de dados e produtos com alma de antropólogo
 
 My career looks nonlinear until you see the pattern: **I've always used technology to bridge worlds**.
 
-I started as an intern at **ISPN** (2017), doing ethnographic research with traditional Cerrado communities. What I learned in the field — that data isn't just numbers, but territories, memories, and struggles — led me to co-create the **Tô no Mapa Platform**, now integrated with Brazil's Federal Public Ministry.
+I started as an intern at [**ISPN**](https://ispn.org.br/) (2017), doing ethnographic research with traditional Cerrado communities. What I learned in the field — that data isn't just numbers, but territories, memories, and struggles — led me to co-create the [**Tô no Mapa Platform**](https://tonomapa.org.br/), now integrated with Brazil's Federal Public Ministry.
 
-At **IPAM** (2022–2025), I went from intern to analyst, implemented Agile/Scrum as Scrum Master, managed audience data reaching **2+ million people**, co-directed a climate change documentary, and won a Mercosur science journalism award. I also discovered what I **didn't** want: institutional communication for others. Burnout came with clarity.
+At [**IPAM**](https://ipam.org.br/pt/) (2022–2025), I went from intern to analyst, implemented Agile/Scrum as Scrum Master, managed audience data reaching **2+ million people**, co-directed a climate change documentary, and won a Mercosur science journalism award. I also discovered what I **didn't** want: institutional communication for others. Burnout came with clarity.
 
-The turning point came in 2024, when I started building **StênioBOT** — the local-AI data capture platform under **Sumænimá**, my life project that had already existed as an independent creative entity since 2016. I brought everything together: anthropology, data, technology. Sensitive community data shouldn't depend on big tech. That's the thesis.
+The turning point came in 2024, when I started building **StênioBOT** — the local-AI data capture platform under [**Sumænimá**](https://sumaenima.chimaera-heptatonic.ts.net), my life project that had already existed as an independent creative entity since 2016. I brought everything together: anthropology, data, technology. Sensitive community data shouldn't depend on big tech. That's the thesis.
 
 In parallel, I built the **Mnemocine Homelab**: 4 servers (including a Dell Frankenstein running Arch Linux (I Use Arch BTW) with an RTX 5050 and a repurposed old laptop), orchestrated with Docker Swarm and Tailscale — because useful technology shouldn't be discarded, and because cutting-edge AI shouldn't require cloud dependency.
 
