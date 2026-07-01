@@ -36,6 +36,7 @@ Stack: FastAPI + React + PostgreSQL + Docker Swarm. Processamento local, privado
 - **3º Encontro Nacional da Juventude das Populações Extrativistas e Tradicionais** — Semana da Sociobiodiversidade 2025 (IEB/CNS/MCM/CONFREM). Sistematização das formulações de dezenas de jovens de povos e comunidades tradicionais de todo o Brasil, resultando em diagnóstico estratégico para organizações do setor. Realizada com **Stênio v1** — primeira versão operacional da plataforma em produção.
 - **Módulo II — "Formar Protagonistas"** (IEB/APAFE/Rainforest Trust). Imersão de 39 lideranças da FLONA de Tefé em Brasília. Relatoria com abordagem etnográfica: observação participante, análise de fontes primárias e produção de relatório de incidência política.
 - **Planejamento Estratégico do IPEA** (2026). Sistematização de dados e facilitação.
+- **22ª Reunião Ordinária do CNPCT** (mar/2026). Relatoria com transcrição em tempo real via StênioREC da devolutiva do Decreto de Regularização Fundiária no Palácio do Planalto, incluindo a fala de abertura da Ministra Marina Silva.
 
 
 ### 🗺️ ISPN — Instituto Sociedade, População e Natureza

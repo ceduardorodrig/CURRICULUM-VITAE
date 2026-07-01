@@ -36,6 +36,7 @@ Stack: FastAPI + React + PostgreSQL + Docker Swarm. Local processing, private.
 - **3rd National Youth Meeting of Extractive and Traditional Populations** — Sociobiodiversity Week 2025 (IEB/CNS/MCM/CONFREM). Systematization of formulations from dozens of youth leaders from traditional communities across Brazil. Produced with **Stênio v1** — the first operational version of the platform in production.
 - **Module II — "Formar Protagonistas"** (IEB/APAFE/Rainforest Trust). Immersion of 39 leadership members from FLONA de Tefé in Brasília. Ethnographic reporting with participant observation and primary source analysis.
 - **IPEA Strategic Planning** (2026). Data systematization and facilitation.
+- **22nd Ordinary Meeting of the CNPCT** (mar/2026). Reporting with real-time transcription via StênioREC of the Land Regularization Decree hearing at the Palácio do Planalto, including the opening speech by Minister Marina Silva.
 
 
 ### 🗺️ ISPN — Institute for Society, Population and Nature

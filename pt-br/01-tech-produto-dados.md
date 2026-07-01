@@ -44,6 +44,7 @@ Stack: FastAPI (async) + React 19 + TypeScript 6 + PostgreSQL 16 + Valkey 8 + Do
 - Relatoria do **3º Encontro Nacional da Juventude das Populações Extrativistas e Tradicionais** — Semana da Sociobiodiversidade 2025 (IEB/CNS/MCM/CONFREM). Realizada com **Stênio v1** — primeira versão operacional da plataforma em produção
 - Relatoria do **Módulo II — "Formar Protagonistas"** (IEB/APAFE/Rainforest Trust): imersão de 39 lideranças da FLONA de Tefé em Brasília
 - **Planejamento Estratégico do IPEA** (2026) — relatoria e sistematização
+- **22ª Reunião Ordinária do CNPCT** (mar/2026) — relatoria com transcrição em tempo real via StênioREC da devolutiva do Decreto de Regularização Fundiária no Palácio do Planalto, incluindo a fala de abertura da Ministra Marina Silva
 
 ### 🗺️ ISPN — Instituto Sociedade, População e Natureza
 *2017 — 2021 · Brasília-DF*

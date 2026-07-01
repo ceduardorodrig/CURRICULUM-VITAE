@@ -44,6 +44,7 @@ Stack: FastAPI (async) + React 19 + TypeScript 6 + PostgreSQL 16 + Valkey 8 + Do
 - **3rd National Youth Meeting of Extractive and Traditional Populations** — Sociobiodiversity Week 2025 (IEB/CNS/MCM/CONFREM). Produced with **Stênio v1** — the first operational version of the platform in production
 - **Module II — "Formar Protagonistas"** (IEB/APAFE/Rainforest Trust): 39 leadership members from FLONA de Tefé in Brasília
 - **IPEA Strategic Planning** (2026) — reporting and systematization
+- **22nd Ordinary Meeting of the CNPCT** (mar/2026) — real-time transcription via StênioREC of the Land Regularization Decree hearing at the Palácio do Planalto, including the opening speech by Minister Marina Silva
 
 ### 🗺️ ISPN — Institute for Society, Population and Nature
 *2017 — 2021 · Brasília-DF, Brazil*

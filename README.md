@@ -72,6 +72,13 @@ The projects described here total **~8M+ lines and growing** (includes source co
 - 📱 Wake Lock API — gravação não suspende no celular
 - ⚡ Descarrega VRAM automaticamente ao destravar contexto
 
+**📋 Validação em Campo:**
+
+- 🏛️ **Palácio do Planalto** (mar/2026) — transcrição em tempo real da devolutiva do **Decreto de Regularização Fundiária** do CNPCT, incluindo a fala de abertura da Ministra **Marina Silva**
+- 🌱 **Semana da Sociobiodiversidade** (2025) — relatoria do **3º Encontro Nacional da Juventude das Populações Extrativistas e Tradicionais** (IEB/CNS/MCM/CONFREM) com **Stênio v1**
+- 🏫 **FLONA de Tefé** (2025) — imersão de 39 lideranças no **Módulo II — "Formar Protagonistas"** (IEB/APAFE/Rainforest Trust)
+- 📊 **IPEA** (2026) — planejamento estratégico com relatoria e sistematização via StênioBOT
+
 **🎯 Para:** Relatoria etnográfica, entrevistas qualitativas, audiências públicas, atas corporativas.
 
 ---
@@ -191,6 +198,8 @@ No [**IPAM**](https://ipam.org.br/pt/) (2022–2025), passei de estagiário a an
 
 A virada veio em 2024, quando comecei a construir o **StênioBOT** — a plataforma de captura de dados com IA local da [**Sumænimá**](https://sumaenima.chimaera-heptatonic.ts.net), meu projeto de vida que já existia como entidade criativa independente desde 2016. Juntei tudo que aprendi: antropologia, dados, tecnologia. Dados sensíveis de comunidades não deveriam depender de big tech. Essa é a tese.
 
+Em março de 2026, o **StênioREC** esteve no **Palácio do Planalto** capturando em tempo real a devolutiva do **Decreto de Regularização Fundiária** na 22ª Reunião Ordinária do **CNPCT** (Conselho Nacional dos Povos e Comunidades Tradicionais) — validação em instância máxima de governo, com a fala de abertura da Ministra **Marina Silva**.
+
 Em paralelo, construí o **Homelab Mnemocine**: 4 servidores (incluindo um Dell Frankenstein com Arch Linux (I Use Arch BTW) e RTX 5050 e um notebook velho reaproveitado), orquestrados em Docker Swarm com Tailscale, porque acredito que tecnologia útil não se descarta — e que é possível fazer IA de ponta com dependência mínima de nuvem.
 
 Mas o trabalho mais profundo é invisível: o **StênioKernel** — um Kernel proprietário de Governança para Agentes de IA (21.435 linhas, 132 drivers, 10 camadas anti-bypass) que governa todos os agentes de IA trabalhando na Sumænimá. Ele aplica criptograficamente regras de governança, tenta corrigir violações automaticamente com rollback e é projetado para impedir que agentes burlem a governança. É o sistema operacional que torna a IA confiável, auditável e responsável.
@@ -208,6 +217,8 @@ I started as an intern at [**ISPN**](https://ispn.org.br/) (2017), doing ethnogr
 At [**IPAM**](https://ipam.org.br/pt/) (2022–2025), I went from intern to analyst, implemented Agile/Scrum as Scrum Master, managed audience data reaching **2+ million**, co-directed a climate change documentary, and won a Mercosur science journalism award. I also discovered what I **didn't** want: institutional communication for others. Burnout came with clarity.
 
 The turning point came in 2024, when I started building **StênioBOT** — the local-AI data capture platform under [**Sumænimá**](https://sumaenima.chimaera-heptatonic.ts.net), my life project that had already existed as an independent creative entity since 2016. I brought everything together: anthropology, data, technology. Sensitive community data shouldn't depend on big tech. That's the thesis.
+
+In March 2026, **StênioREC** was at the **Palácio do Planalto** capturing in real time the **Land Regularization Decree** hearing at the 22nd Ordinary Meeting of the **CNPCT** (National Council of Traditional Peoples and Communities) — validation at the highest level of government, including the opening speech by Minister **Marina Silva**.
 
 In parallel, I built the **Mnemocine Homelab**: 4 servers (including a Dell Frankenstein running Arch Linux (I Use Arch BTW) with an RTX 5050 and a repurposed old laptop), orchestrated with Docker Swarm and Tailscale — because useful technology shouldn't be discarded, and because cutting-edge AI can work with minimal cloud dependency.
 
