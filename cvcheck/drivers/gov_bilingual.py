@@ -4,6 +4,7 @@ import re
 from dataclasses import dataclass
 from pathlib import Path
 
+from cvcheck.include.registry import Registry
 from cvcheck.include.types import CheckResult
 
 CHECK_METADATA = {
@@ -157,6 +158,44 @@ def check() -> CheckResult:
                 details.append(f"{en_path}: Secao '{en_sec.heading}' existe em EN mas nao em PT")
 
     if details:
-        return CheckResult.warn("gov_bilingual", f"{len(details)} divergencia(s) bilingue", details)
+        result = CheckResult.warn("gov_bilingual", f"{len(details)} divergencia(s) bilingue", details)
+        result._fix_fn = _make_fix_fn({"pairs": PAIRS})
+        return result
 
     return CheckResult.pass_("gov_bilingual", f"{len(PAIRS)} pares conferidos, densidade de conteudo ok")
+
+
+def _make_fix_fn(ctx: dict) -> callable:
+    def _fix() -> None:
+        registry = Registry()
+        PAIRS = ctx["pairs"]
+        for pt_path, en_path in PAIRS:
+            en_file = CVROOT / en_path
+            if not en_file.exists():
+                continue
+            content = en_file.read_text(encoding="utf-8")
+            en_secs = _parse_sections(content)
+            en_secs_map = {_strip_emoji(s.heading): s for s in en_secs}
+            if not en_secs:
+                continue
+            pt_secs = _parse_sections((CVROOT / pt_path).read_text(encoding="utf-8"))
+            made_changes = False
+            for pt_sec in pt_secs:
+                pt_clean = _strip_emoji(pt_sec.heading)
+                if pt_clean in {_strip_emoji(h) for h in IGNORE_HEADINGS}:
+                    continue
+                en_sec_match = _match(pt_sec.heading, en_secs)
+                if en_sec_match is None:
+                    continue
+                pt_chars = _meaningful_chars(pt_sec.body)
+                en_chars = _meaningful_chars(en_sec_match.body)
+                if pt_chars > en_chars * 1.5:
+                    todo = f"<!-- TODO: traduzir '{pt_sec.heading}' do PT para EN -->\n"
+                    if todo not in content:
+                        content = content.replace(en_sec_match.body, todo + en_sec_match.body)
+                        made_changes = True
+                        note = f"TODO inserido em {en_path}: {pt_clean}"
+                        registry.record_permanent("gov_bilingual", note)
+            if made_changes:
+                en_file.write_text(content, encoding="utf-8")
+    return _fix

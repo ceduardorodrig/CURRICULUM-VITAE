@@ -21,6 +21,8 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 
 from cvcheck.kernel.module import discover_drivers, run_single, CVROOT
+from cvcheck.include.history import load_history, record_result, trend
+from cvcheck.include.registry import Registry
 
 STATUS_ICONS = {
     "PASS": "✅", "FAIL": "❌", "WARN": "⚠️", "ERROR": "💥", "SKIP": "⏭️",
@@ -107,6 +109,9 @@ def _run_all(drivers: dict, quiet: bool) -> list:
                 for d in result.details[:3]:
                     print(f"    · {d}")
 
+    for r in results:
+        record_result(r.name, r.status.value, r.duration_ms)
+
     elapsed = time.perf_counter() - start
     if not quiet:
         print(f"\n  ⏱️  {elapsed:.2f}s")
@@ -144,15 +149,25 @@ def _run_blame(results: list) -> None:
 
 def _run_fix(results: list) -> None:
     print("\n🔧 AUTO-FIX:")
+    registry = Registry()
     fixed = 0
     for r in results:
-        if r.status.value in ("FAIL", "ERROR") and hasattr(r, "_fix_fn"):
+        if r.status.value in ("FAIL", "ERROR", "WARN") and hasattr(r, "_fix_fn"):
             try:
                 r._fix_fn()
+                registry.record_permanent(r.name, "auto-fix applied")
                 print(f"  ✅ {r.name}: corrigido")
                 fixed += 1
             except Exception as e:
+                registry.record_negative(r.name, f"auto-fix failed: {e}")
                 print(f"  ❌ {r.name}: erro na correcao: {e}")
+
+    reg_summary = registry.summary()
+    if reg_summary:
+        print(f"\n  📊 Registry:")
+        for line in reg_summary:
+            print(f"    {line}")
+
     if fixed == 0:
         print("  Nenhuma correcao automatica disponivel para as falhas encontradas.")
     print()
@@ -167,6 +182,8 @@ def _self_test() -> int:
         ("Import dos modulos", _test_imports),
         ("CheckResult interface", _test_checkresult),
         ("Hashes do kernel", _test_hashes),
+        ("Registry integridade", _test_registry),
+        ("History integridade", _test_history),
     ]
 
     for name, fn in tests:
@@ -214,6 +231,26 @@ def _test_hashes() -> None:
     assert len(hashes) > 0, "Nenhum hash registrado"
 
 
+def _test_registry() -> None:
+    from cvcheck.include.registry import Registry
+    r = Registry()
+    assert r is not None
+    assert hasattr(r, "permanent")
+    assert hasattr(r, "negative")
+
+
+def _test_history() -> None:
+    from cvcheck.include.history import load_history, record_result, trend
+    h = load_history()
+    assert isinstance(h, dict)
+    prev = len(h.get("gov_self_audit", []))
+    record_result("gov_self_audit", "PASS", 1.0)
+    h2 = load_history()
+    assert len(h2.get("gov_self_audit", [])) == prev + 1
+    t_icon, t_desc = trend("gov_self_audit", h2)
+    assert t_icon in ("✅", "📈", "📉", "⚠️", "➖", "❌")
+
+
 def _health_check() -> int:
     print("\n🏥 DASHBOARD DE SAUDE DO REPOSITORIO:\n")
 
@@ -236,6 +273,26 @@ def _health_check() -> int:
 
     cvcheck_size = sum(p.stat().st_size for p in CVROOT.rglob("*.py") if "cvcheck" in str(p))
     print(f"  ⚙️  Tamanho total cvcheck: {cvcheck_size / 1024:.1f} KB")
+
+    registry = Registry()
+    reg_summary = registry.summary()
+    if reg_summary:
+        print(f"\n  📊 Registry de Fixes:")
+        for line in reg_summary:
+            print(f"    {line}")
+
+    history = load_history()
+    if history:
+        print(f"\n  📈 Tendencias por driver:")
+        drivers = discover_drivers()
+        for name in sorted(history):
+            if name not in drivers:
+                continue
+            t_icon, t_desc = trend(name, history)
+            entries = history[name]
+            last_result = entries[-1]["result"] if entries else "?"
+            icon = STATUS_ICONS.get(last_result, "❓")
+            print(f"    {icon} {name:25s} {t_icon} {t_desc}")
 
     print()
     return 0

@@ -30,6 +30,8 @@ CRITICAL_FILES = [
     "drivers/gov_immutability.py",
     "drivers/gov_glossary.py",
     "drivers/gov_acronyms.py",
+    "drivers/gov_bilingual.py",
+    "drivers/gov_self_audit.py",
 ]
 
 

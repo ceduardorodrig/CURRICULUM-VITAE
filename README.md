@@ -230,9 +230,9 @@ Today I'm a **hybrid**: data and product architect with an anthropologist's soul
 
 ## 🔍 cvcheck — Miniatura do StênioKernel
 
-[![cvcheck](https://github.com/ceduardorodrig/CURRICULUM-VITAE/actions/workflows/ci.yml/badge.svg)](https://github.com/ceduardorodrig/CURRICULUM-VITAE/actions/)
+[![cvcheck](https://github.com/ceduardorodrig/CURRICULUM-VITAE/actions/workflows/ci.yml/badge.svg)](https://github.com/ceduardorodrig/CURRICULUM-VITAE/actions/workflows/ci.yml)
 
-Este repositório inclui o **cvcheck**, uma versão reduzida e portátil do StênioKernel que valida e governa este currículo com checks automatizados, verificação de imutabilidade e integridade de dados. Uma demonstração funcional dos mesmos princípios que o StênioKernel aplica em escala no ecossistema Sumænimá.
+Este repositório inclui o **cvcheck**, uma versão reduzida e portátil do StênioKernel que valida e governa este currículo com checks automatizados, verificação de imutabilidade, auto-auditoria, tendências históricas e um sistema de registro de reparos (permanent/negative registry). Uma demonstração funcional dos mesmos princípios que o StênioKernel aplica em escala no ecossistema Sumænimá.
 
 ---
 
