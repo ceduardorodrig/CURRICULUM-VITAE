@@ -51,7 +51,7 @@ Stack: FastAPI (async) + React 19 + TypeScript 6 + PostgreSQL 16 + Valkey 8 + Do
 
 **Assessor Técnico Júnior** (2019–2021) · **Estagiário** (2017–2019)
 
-- **Tô no Mapa**: o projeto que definiu minha trajetória híbrida. Comecei como pesquisador etnográfico em campo com comunidades tradicionais do Cerrado e ajudei a transformar uma iniciativa de coleta de dados na **Plataforma Tô no Mapa** — hoje integrada ao **Ministério Público Federal**, empoderando comunidades tradicionais a automapear seus territórios
+- **Tô no Mapa**: Dados oficiais do governo representavam apenas 28% das comunidades tradicionais no Cerrado — uma lacuna crítica que as tornava "invisíveis". Participei da pesquisa etnográfica em campo e da fase de discovery do produto, ajudando a definir o problema central e as necessidades dos usuários. O resultado foi a **Plataforma Tô no Mapa** — um aplicativo de automapeamento que hoje está integrada ao **Ministério Público Federal**, empoderando milhares de comunidades tradicionais a gerar seus próprios dados e se colocar no mapa
 - Criei a primeira estratégia de comunicação pública do Instituto em anos
 - Produzi mapas (QGIS), relatórios e cobertura fotográfica em expedições de campo
 - Apoio técnico a eventos socioambientais de grande porte: Acampamento Terra Livre, Encontro e Feira dos Povos do Cerrado, Congresso Latino-Americano de Agroecologia
@@ -68,9 +68,18 @@ Trabalhei diretamente com **André Rodrigues de Aquino** (Lead Environmental Spe
 
 **Analista de Comunicação** (2024–2025) · **Assistente de Comunicação** (2023–2024) · **Estagiário** (2022–2023)
 
-- Implementei Agile/Scrum como Scrum Master na equipe de comunicação, estruturando sprints, rituais e métricas de entrega
-- Gerenciei dados de audiência de 5 redes sociais: **alcance de 2+ milhões de usuários**
-- Administrei Google Ad Grants (US$ 10K/mês) e Meta Ads com segmentação, testes A/B e otimização contínua
+**Case: Scaling Digital Engagement — +143% de crescimento em comunicação científica climática**
+
+Tratei os canais sociais do IPAM como produtos digitais: segmentei audiências (Instagram: público jovem; Facebook: audiência consolidada), testei formatos como features (infográficos, storytelling visual, posts interativos) e integrei campanhas orgânicas e pagas.
+
+**📈 Resultados:**
+- **+143,3%** de seguidores no Facebook, **+100%** no Instagram
+- **2+ milhões** de alcance consolidado (1,6M nos canais principais)
+- **66,7K** interações no Instagram — canal validado como principal para engajamento de alto valor
+
+Outras entregas:
+- Implementei Agile/Scrum como Scrum Master, estruturando sprints e métricas de entrega
+- Gerenciei Google Ad Grants (US$ 10K/mês) e Meta Ads com segmentação e otimização contínua
 - Codiretor do documentário **"Manaus Extrema"** — publicado pelo IPAM. Estreia no INPA / PROTEJA Talks 2024
 - **Prêmio Mercosul de Jornalismo e Divulgação Científica — 1º lugar, categoria Redes Sociais** (2024)
 - Presidi a CIPA por dois mandatos

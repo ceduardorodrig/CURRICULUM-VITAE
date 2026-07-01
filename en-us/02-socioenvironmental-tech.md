@@ -46,7 +46,9 @@ Stack: FastAPI + React + PostgreSQL + Docker Swarm. Local processing, private.
 
 #### Tô no Mapa — Featured Project
 
-This project **defines who I am professionally**. I started as an ethnographic field researcher, conducting interviews and participant observation with traditional Cerrado communities to understand their territorial mapping needs. I helped transform a modest data-gathering initiative into the **Tô no Mapa Platform**, now integrated with Brazil's **Federal Public Ministry** (MPF), empowering traditional communities to self-map their territories — strengthening the fight for human rights, land rights, and environmental protection. This is where my anthropology-tech hybrid was born.
+Official government data represented only **28%** of traditional communities in the Cerrado — a critical gap that rendered them invisible to public policy and vulnerable to land conflicts.
+
+This project **defines who I am professionally**. I started as an ethnographic field researcher, conducting interviews and participant observation with traditional Cerrado communities to understand their territorial mapping needs. I contributed to the product discovery phase, helping translate ethnographic findings into functional requirements. I helped transform a modest data-gathering initiative into the **Tô no Mapa Platform**, now integrated with Brazil's **Federal Public Ministry** (MPF), empowering traditional communities to self-map their territories — strengthening the fight for human rights, land rights, and environmental protection. This is where my anthropology-tech hybrid was born.
 
 Other contributions:
 - Created the Institute's first public-facing communications strategy in years
@@ -65,8 +67,8 @@ Worked directly with **André Rodrigues de Aquino** (Lead Environmental Speciali
 
 **Communication Analyst** (2024–2025) · **Communication Assistant** (2023–2024) · **Trainee** (2022–2023)
 
-- Led digital presence for one of the Amazon's leading climate research institutes
-- Combined **2+ million reach** across 5 social media networks
+- Led digital presence for one of the Amazon's leading climate research institutes: **+143.3% Facebook, +100% Instagram, 2+ million reach, 66.7K interactions**
+- Combined **2+ million reach** (1.6M core channels) across 5 social media networks
 - **Mercosur Scientific Journalism Award — 1st place, Social Networks** (2024)
 - Co-directed **"Manaus Extrema"** documentary — published by IPAM. Premiered at INPA / 2024 PROTEJA Talks
 - Implemented Agile/Scrum as Scrum Master, improving campaign predictability
@@ -76,7 +78,9 @@ Worked directly with **André Rodrigues de Aquino** (Lead Environmental Speciali
 ### ⚖️ APIB — Articulation of Indigenous Peoples of Brazil
 *2020 · Remote*
 
-Initial data management and communications support during the COVID-19 emergency within Indigenous territories.
+**Volunteer — Data Specialist**
+
+Supported the centralization and systematization of data on COVID-19 among Indigenous Peoples in Brazil, in collaboration with APIB, amidst the dismantling of public health command and control mechanisms during the pandemic.
 
 ### 🌿 Reserva Natural Veredas dos Buritis
 *2020 — 2022 · Cavalcante-GO, Brazil*

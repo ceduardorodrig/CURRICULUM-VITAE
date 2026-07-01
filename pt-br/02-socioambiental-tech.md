@@ -46,7 +46,9 @@ Stack: FastAPI + React + PostgreSQL + Docker Swarm. Processamento local, privado
 
 #### Tô no Mapa — Projeto de Destaque
 
-Este projeto **define quem sou profissionalmente**. Comecei como pesquisador etnográfico em campo, realizando entrevistas e observação participante com comunidades tradicionais do Cerrado para entender suas necessidades de mapeamento territorial. Contribuí para transformar uma modesta iniciativa de coleta de dados na **Plataforma Tô no Mapa**, hoje integrada ao **Ministério Público Federal**, empoderando comunidades tradicionais a automapear seus territórios — fortalecendo a luta por direitos humanos, territoriais e proteção ambiental. Foi aqui que nasceu meu híbrido antropologia-tech.
+Os dados oficiais do governo representavam apenas **28%** das comunidades tradicionais no Cerrado — uma lacuna crítica que as tornava invisíveis para políticas públicas e as deixava vulneráveis a conflitos fundiários.
+
+Este projeto **define quem sou profissionalmente**. Comecei como pesquisador etnográfico em campo, realizando entrevistas e observação participante com comunidades tradicionais do Cerrado para entender suas necessidades de mapeamento territorial. Participei da fase de discovery do produto, ajudando a traduzir os achados etnográficos em requisitos funcionais. Contribuí para transformar uma modesta iniciativa de coleta de dados na **Plataforma Tô no Mapa**, hoje integrada ao **Ministério Público Federal**, empoderando comunidades tradicionais a automapear seus territórios — fortalecendo a luta por direitos humanos, territoriais e proteção ambiental. Foi aqui que nasceu meu híbrido antropologia-tech.
 
 Outras contribuições:
 - Criação da primeira estratégia de comunicação pública do Instituto em anos
@@ -65,8 +67,8 @@ Trabalhei diretamente com **André Rodrigues de Aquino** (Lead Environmental Spe
 
 **Analista de Comunicação** (2024–2025) · **Assistente de Comunicação** (2023–2024) · **Estagiário** (2022–2023)
 
-- Liderança digital de um dos principais institutos de pesquisa climática da Amazônia
-- Alcance consolidado de **2+ milhões** no gerenciamento de 5 redes sociais
+- Liderança digital de um dos principais institutos de pesquisa climática da Amazônia: **+143,3% Facebook, +100% Instagram, 2+ milhões de alcance, 66,7K interações**
+- Alcance consolidado de **2+ milhões** de usuários (1,6M canais principais) no gerenciamento de 5 redes sociais
 - **Prêmio Mercosul de Jornalismo e Divulgação Científica — 1º lugar em Redes Sociais** (2024)
 - Codiretor do documentário **"Manaus Extrema"** — publicado pelo IPAM. Estreia no INPA / PROTEJA Talks 2024
 - Implementação de Agile/Scrum como Scrum Master, melhorando previsibilidade e entrega de campanhas
@@ -76,7 +78,9 @@ Trabalhei diretamente com **André Rodrigues de Aquino** (Lead Environmental Spe
 ### ⚖️ APIB — Articulação dos Povos Indígenas do Brasil
 *2020 · Remoto*
 
-Suporte inicial à gestão de dados e comunicação durante a emergência COVID-19 no contexto indígena.
+**Voluntário — Especialista em Dados**
+
+Apoiei a centralização e sistematização de dados sobre COVID-19 entre Povos Indígenas no Brasil, em colaboração com a APIB, em meio ao desmonte dos mecanismos públicos de comando e controle sanitário durante a pandemia.
 
 ### 🌿 Reserva Natural Veredas dos Buritis
 *2020 — 2022 · Cavalcante-GO*

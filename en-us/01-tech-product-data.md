@@ -51,7 +51,7 @@ Stack: FastAPI (async) + React 19 + TypeScript 6 + PostgreSQL 16 + Valkey 8 + Do
 
 **Junior Technical Advisor** (2019–2021) · **Trainee** (2017–2019)
 
-- **Tô no Mapa**: the project that defined my hybrid career. Started as an ethnographic field researcher with traditional Cerrado communities and helped transform a data collection initiative into the **Tô no Mapa Platform** — now integrated with Brazil's **Federal Public Ministry**, empowering traditional communities to self-map their territories
+- **Tô no Mapa**: Official government data represented only 28% of traditional communities in the Cerrado — a critical data gap rendering entire communities "invisible." I conducted ethnographic field research and contributed to the product discovery phase, helping define the core problem and user needs. The result was the **Tô no Mapa Platform** — a self-mapping app now integrated with Brazil's **Federal Public Ministry**, empowering thousands of traditional communities to generate their own data and put themselves on the map
 - Created the Institute's first public communications strategy in years
 - Produced maps (QGIS), reports, and photographic coverage during field expeditions
 - Provided technical support for large-scale events: Acampamento Terra Livre, Encontro e Feira dos Povos do Cerrado, Latin American Agroecology Congress
@@ -68,9 +68,18 @@ Worked directly with **André Rodrigues de Aquino** (Lead Environmental Speciali
 
 **Communication Analyst** (2024–2025) · **Communication Assistant** (2023–2024) · **Trainee** (2022–2023)
 
-- Implemented Agile/Scrum as Scrum Master for the communications team
-- Managed audience data across 5 social networks: **2+ million reach**
-- Administered Google Ad Grants (US$ 10K/month) and Meta Ads with A/B testing
+**Case: Scaling Digital Engagement — Driving 143% Growth for Climate Science Communication**
+
+Treated IPAM's social channels as digital products: segmented audiences (Instagram: younger demographic; Facebook: established audience), A/B tested content formats as features (infographics, visual storytelling, interactive posts), and ran integrated organic + paid campaigns.
+
+**📈 Results:**
+- **+143.3%** follower growth on Facebook, **+100%** on Instagram
+- **2+ million** combined reach (1.6M on core channels)
+- **66.7K** interactions on Instagram — validated as primary high-value engagement channel
+
+Other contributions:
+- Implemented Agile/Scrum as Scrum Master, structuring sprints and delivery metrics
+- Managed Google Ad Grants (US$ 10K/month) and Meta Ads with data-driven optimization
 - Co-directed **"Manaus Extrema"** documentary — published by IPAM. Premiered at INPA / 2024 PROTEJA Talks
 - **Mercosur Scientific Journalism Award — 1st place, Social Networks** (2024)
 - Served as CIPA president for two terms
