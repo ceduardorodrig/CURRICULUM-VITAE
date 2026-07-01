@@ -10,7 +10,7 @@
 
 ## 👤 Perfil
 
-Arquiteto de dados e produto que constrói pontes entre tecnologia open-source e pesquisa qualitativa. Experiência comprovada em projetar pipelines de IA local (Whisper, LLMs), orquestrar clusters Docker Swarm multi-nó e gerenciar produtos de dados completos, do conceito à entrega. Uso engenhoso de hardware reaproveitado e software livre para entregar soluções de IA privadas, offline e economicamente viáveis — sem depender de infraestrutura de big tech. Projetou o StênioKernel — um Kernel proprietário de Governança para Agentes de IA (21.435 linhas, 132 drivers, 10 camadas anti-bypass) que aplica comportamento de agentes através de integridade criptográfica, auto-healing e governança preditiva. Formação em Antropologia pela UnB como base para design de produto centrado em humanos.
+Arquiteto de dados e produto que constrói pontes entre tecnologia open-source e pesquisa qualitativa. Experiência comprovada em projetar pipelines de IA local (Whisper, LLMs, GroundingDINO, SAM 2), orquestrar clusters Docker Swarm multi-nó e gerenciar produtos de dados completos, do conceito à entrega. Uso engenhoso de hardware reaproveitado e software livre para entregar soluções de IA privadas, offline e economicamente viáveis — sem depender de infraestrutura de big tech. Projetou o StênioKernel — um Kernel proprietário de Governança para Agentes de IA (21.435 linhas, 132 drivers, 10 camadas anti-bypass) que governa o comportamento de agentes através de integridade criptográfica, correção automatizada com rollback e análise de tendências. Formação em Antropologia pela UnB como base para design de produto centrado em humanos.
 
 ---
 
@@ -31,9 +31,9 @@ Sumænimá é meu projeto de vida. Existe há quase 10 anos como entidade criati
 Stack: FastAPI (async) + React 19 + TypeScript 6 + PostgreSQL 16 + Valkey 8 + Docker Swarm (3 nós). SaaS com Mercado Pago, Google OAuth, Grafana/Loki. Processamento local com sincronização sob demanda. Privado, LGPD.
 
 **StênioKernel — Kernel de Governança para Agentes de IA:**
-- Kernel proprietário (21.435 linhas, 22 módulos kernel, 132 drivers) governando todos os agentes de IA do projeto. Ecossistema total: **~8M+ linhas e crescendo**, 1.227+ arquivos, 10 anos como projeto de vida (~2 de desenvolvimento ativo)
+- Kernel proprietário (21.435 linhas, 22 módulos kernel, 132 drivers) governando todos os agentes de IA do projeto. Ecossistema total: **~8M+ linhas e crescendo** (inclui código fonte, documentação e assets), 1.227+ arquivos, 10 anos como projeto de vida (~2 de desenvolvimento ativo)
 - Arquitetura anti-bypass em 10 camadas: pre-commit gates, bypass guard, scope guard, imutabilidade do kernel, leis de agentes com assinatura criptográfica, protocolo de conhecimento, repetição→regra, jurisdição universal ("A Teia"), promoção WARN→FAIL, bloqueio de reassinatura automatizado
-- Auto-healing com negative registry, Knowledge Graph, auto-commit em correções bem-sucedidas
+- Correção automatizada com rollback via negative registry, Knowledge Graph, auto-commit em correções bem-sucedidas
 - Análise de tendências: detecção via regressão linear, auto-suppress, detecção de flakiness, promoção de canary
 - Memória e aprendizado: persistência de histórico, aprendizado contínuo (`--learn`), padrões de bug com auto-fix commands, sugestões proativas
 - Ecossistema de documentação: 185 arquivos, DocBot
@@ -125,7 +125,7 @@ O **Homelab Mnemocine** é a infraestrutura da **Sumænimá**. São indistinguí
 | **Infraestrutura** | Docker Swarm, Nginx, Tailscale, Linux (Arch), GPU passthrough |
 | **AI/ML** | Whisper (transcrição), LLMs (Gemma), GroundingDINO, SAM 2, embeddings |
 | **QA & Governança** | StênioKernel (21K linhas, 132 drivers, 22 módulos kernel), FMEA, ADRs, docs-first CI/CD |
-| **Governança de Agentes** | StênioKernel arquitetura anti-bypass (10 camadas), design de workflow para agentes, aplicação criptográfica de leis, auto-healing |
+| **Governança de Agentes** | StênioKernel arquitetura anti-bypass (10 camadas), design de workflow para agentes, aplicação criptográfica de regras, correção automatizada com rollback |
 | **Observabilidade** | Grafana, Loki, Promtail, health endpoints |
 | **Métodos** | Agile/Scrum (Scrum Master), pesquisa etnográfica, UX Research, OKRs |
 | **Ferramentas** | Git, Adobe Creative Suite, QGIS, Google Earth Engine |

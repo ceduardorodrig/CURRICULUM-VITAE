@@ -10,7 +10,7 @@
 
 ## 👤 Profile
 
-Data and product architect who bridges open-source technology and qualitative research. Proven track record designing local AI pipelines (Whisper, LLMs), orchestrating multi-node Docker Swarm clusters, and building end-to-end data products. Ingenious use of repurposed hardware and free software to deliver private, offline, cost-effective AI solutions — with zero dependency on big tech infrastructure. Designed the StênioKernel — a proprietary AI Agent Governance Kernel (21.435 lines, 132 check drivers, 10 anti-bypass layers) that enforces agent behavior through cryptographic integrity, self-healing, and predictive governance. Anthropology degree from UnB as the foundation for human-centered product design.
+Data and product architect who bridges open-source technology and qualitative research. Proven track record designing local AI pipelines (Whisper, LLMs, GroundingDINO, SAM 2), orchestrating multi-node Docker Swarm clusters, and building end-to-end data products. Ingenious use of repurposed hardware and free software to deliver private, offline, cost-effective AI solutions — with zero dependency on big tech infrastructure. Designed the StênioKernel — a proprietary AI Agent Governance Kernel (21.435 lines, 132 check drivers, 10 anti-bypass layers) that governs agent behavior through cryptographic integrity, automated repair with rollback, and trend analysis. Anthropology degree from UnB as the foundation for human-centered product design.
 
 ---
 
@@ -31,9 +31,9 @@ Sumænimá is my life project. It has existed for nearly 10 years as an independ
 Stack: FastAPI (async) + React 19 + TypeScript 6 + PostgreSQL 16 + Valkey 8 + Docker Swarm (3 nodes). SaaS with Mercado Pago billing, Google OAuth, Grafana/Loki observability. Local processing with on-demand sync. Private, LGPD-compliant.
 
 **StênioKernel — Agent Governance Kernel:**
-- Proprietary kernel (21.435 lines, 22 kernel modules, 132 check drivers) governing every AI agent on the project. Total ecosystem: **~8M+ lines and growing**, 1,227+ files, 10 years as life project (~2 active development)
+- Proprietary kernel (21.435 lines, 22 kernel modules, 132 check drivers) governing every AI agent on the project. Total ecosystem: **~8M+ lines and growing** (includes source code, documentation, and assets), 1,227+ files, 10 years as life project (~2 active development)
 - 10-layer anti-bypass architecture: pre-commit gates, bypass guard, scope guard, kernel immutability, cryptographically-signed agent laws, knowledge protocol, repetition→rule, universal file jurisdiction ("A Teia"), WARN→FAIL promotion, automated re-signing blockade
-- Self-healing with negative registry, Knowledge Graph, auto-commit on fix
+- Automated repair with rollback via negative registry, Knowledge Graph, auto-commit on fix
 - Trend analysis: detection via linear regression, auto-suppress, flakiness detection, canary promotion
 - Memory & learning: history persistence, continuous learning (`--learn`), curated bug patterns with auto-fix commands, proactive suggestions
 - Full documentation ecosystem: 185 files, DocBot
@@ -125,7 +125,7 @@ The **Mnemocine Homelab** is the **Sumænimá** infrastructure. They are indisti
 | **Infrastructure** | Docker Swarm, Nginx, Tailscale, Linux (Arch), GPU passthrough |
 | **AI/ML** | Whisper (transcription), LLMs (Gemma), GroundingDINO, SAM 2, embeddings |
 | **QA & Governance** | StênioKernel (21K lines, 132 drivers, 22 kernel modules), FMEA, ADRs, docs-first CI/CD |
-| **Agent Governance** | StênioKernel anti-bypass architecture (10 layers), agent workflow design, cryptographic agent law enforcement, self-healing governance |
+| **Agent Governance** | StênioKernel anti-bypass architecture (10 layers), agent workflow design, cryptographic rule enforcement, automated repair with rollback governance |
 | **Observability** | Grafana, Loki, Promtail, health endpoints |
 | **Methods** | Agile/Scrum (Scrum Master), ethnographic research, UX Research, OKRs |
 | **Tools** | Git, Adobe Creative Suite, QGIS, Google Earth Engine |

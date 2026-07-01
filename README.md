@@ -10,9 +10,9 @@ Este repositório contém meu currículo em **3 versões** para diferentes públ
 
 This repository contains my resume in **3 versions** for different audiences, each in **English (US)** and **Português (BR)**.
 
-Os projetos descritos aqui totalizam **~8M+ linhas e crescendo** — distribuídas em 1.227+ arquivos, construídos ao longo de 10 anos como projeto de vida.
+Os projetos descritos aqui totalizam **~8M+ linhas e crescendo** (inclui código fonte, documentação e assets) — distribuídas em 1.227+ arquivos, construídos ao longo de 10 anos como projeto de vida.
 
-The projects described here total **~8M+ lines and growing** — across 1,227+ files, built over 10 years as a life project.
+The projects described here total **~8M+ lines and growing** (includes source code, documentation, and assets) — across 1,227+ files, built over 10 years as a life project.
 
 ---
 
@@ -39,7 +39,7 @@ The projects described here total **~8M+ lines and growing** — across 1,227+ f
 ## 🚀 Sumænimá — StênioBOT
 
 **Plataforma de Captura de Dados com IA Local, Privada e Open-Source**
-**~8M+ lines · 1.227+ files · 22 kernel modules · 132 check drivers · 30+ containers · 4 nodes · 10 yr project · ~2 active dev**
+**~8M+ lines (includes source code, documentation, and assets) · 1.227+ files · 22 kernel modules · 132 check drivers · 30+ containers · 4 nodes · 10 yr project · ~2 active dev**
 
 📱 **Responsive design** — iPhone SE · iPad Pro · Desktop
 
@@ -193,7 +193,7 @@ A virada veio em 2024, quando comecei a construir o **StênioBOT** — a platafo
 
 Em paralelo, construí o **Homelab Mnemocine**: 4 servidores (incluindo um Dell Frankenstein com Arch Linux (I Use Arch BTW) e RTX 5050 e um notebook velho reaproveitado), orquestrados em Docker Swarm com Tailscale, porque acredito que tecnologia útil não se descarta — e que é possível fazer IA de ponta com dependência mínima de nuvem.
 
-Mas o trabalho mais profundo é invisível: o **StênioKernel** — um Kernel proprietário de Governança para Agentes de IA (21.435 linhas, 132 drivers, 10 camadas anti-bypass) que governa todos os agentes de IA trabalhando na Sumænimá. Ele aplica criptograficamente regras de governança, tenta corrigir violações automaticamente e é projetado para impedir que agentes burlem a governança. É o sistema operacional que torna a IA confiável, auditável e responsável.
+Mas o trabalho mais profundo é invisível: o **StênioKernel** — um Kernel proprietário de Governança para Agentes de IA (21.435 linhas, 132 drivers, 10 camadas anti-bypass) que governa todos os agentes de IA trabalhando na Sumænimá. Ele aplica criptograficamente regras de governança, tenta corrigir violações automaticamente com rollback e é projetado para impedir que agentes burlem a governança. É o sistema operacional que torna a IA confiável, auditável e responsável.
 
 Hoje sou um **híbrido**: arquiteto de dados e produtos com alma de antropólogo. Sei traduzir necessidades de pesquisa em requisitos de sistema, e arquitetura técnica em impacto socioambiental.
 
@@ -211,7 +211,7 @@ The turning point came in 2024, when I started building **StênioBOT** — the l
 
 In parallel, I built the **Mnemocine Homelab**: 4 servers (including a Dell Frankenstein running Arch Linux (I Use Arch BTW) with an RTX 5050 and a repurposed old laptop), orchestrated with Docker Swarm and Tailscale — because useful technology shouldn't be discarded, and because cutting-edge AI can work with minimal cloud dependency.
 
-But my deepest work is invisible: the **StênioKernel** — a proprietary AI Agent Governance Kernel (21.435 lines, 132 check drivers, 10 anti-bypass layers) that governs every AI agent working on Sumænimá. It cryptographically enforces governance rules, attempts automated violation repair, and is designed to prevent agents from bypassing governance. It is the operating system that makes AI reliable, auditable, and accountable.
+But my deepest work is invisible: the **StênioKernel** — a proprietary AI Agent Governance Kernel (21.435 lines, 132 check drivers, 10 anti-bypass layers) that governs every AI agent working on Sumænimá. It cryptographically enforces governance rules, attempts automated violation repair with rollback, and is designed to prevent agents from bypassing governance. It is the operating system that makes AI reliable, auditable, and accountable.
 
 Today I'm a **hybrid**: data and product architect with an anthropologist's soul. I translate research needs into system requirements, and technical architecture into socio-environmental impact.
 

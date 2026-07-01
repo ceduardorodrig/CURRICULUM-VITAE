@@ -14,11 +14,11 @@ Sumænimá is my life project. It has existed for nearly 10 years as an independ
 
 The dream is to raise resources to build a team and create a **Data Bureau** with an anthropological soul: a structure that produces projects like Tô no Mapa, data visualizations, and ethnographic research at scale — uniting science, territory, and technology in a sovereign way.
 
-But the deepest and most valuable layer of Sumænimá is invisible: the **StênioKernel** — a proprietary AI Agent Governance Kernel (21.435 lines, 22 kernel modules, 132 automated check drivers, 10 anti-bypass layers) that governs every AI agent working on the project. It cryptographically enforces governance rules, attempts automated violation repair, detects bypass attempts, and is designed to prevent agents from escaping governance. It is the operating system that makes AI reliable, auditable, and accountable.
+But the deepest and most valuable layer of Sumænimá is invisible: the **StênioKernel** — a proprietary AI Agent Governance Kernel (21.435 lines, 22 kernel modules, 132 automated check drivers, 10 anti-bypass layers) that governs every AI agent working on the project. It cryptographically enforces governance rules, attempts automated violation repair with rollback, detects bypass attempts, and is designed to prevent agents from escaping governance. It is the operating system that makes AI reliable, auditable, and accountable.
 
 **StênioBOT** is an AI-assisted data capture platform with local processing (inference on own hardware); transcripts sync to Google Docs when needed. Four integrated modules cover the complete qualitative research cycle: from field collection to analysis and visualization.
 
-The entire Sumænimá ecosystem totals **~8M+ lines and growing** — across 1,227+ files, built over 10 years as a life project.
+The entire Sumænimá ecosystem totals **~8M+ lines and growing** (includes source code, documentation, and assets) — across 1,227+ files, built over 10 years as a life project.
 
 ---
 
@@ -198,7 +198,7 @@ This is Sumænimá's deepest and most valuable asset. The StênioKernel is not a
 | 10. **Warning Promotion** | `__main__.py` promotes P0/sec WARN→FAIL | Agents dismissing critical warnings |
 | + **Re-Signing Blockade** | TTY+API-key detection | Automated agents re-signing security baselines |
 
-### 🔧 Self-Healing
+### 🔧 Automated Repair with Rollback
 
 The Healer doesn't just report violations — it autonomously fixes them:
 1. Extracts `filepath:line` from violation strings
