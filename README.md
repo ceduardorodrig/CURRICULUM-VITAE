@@ -64,7 +64,7 @@ No **IPAM** (2022–2025), passei de estagiário a analista, implementei Agile/S
 
 A virada veio em 2024, quando comecei a construir o **StênioBOT** — a plataforma de captura de dados com IA local da **Sumænimá**, meu projeto de vida que já existia como entidade criativa independente desde 2016. Juntei tudo que aprendi: antropologia, dados, tecnologia. Dados sensíveis de comunidades não deveriam depender de big tech. Essa é a tese.
 
-Em paralelo, construí o **Homelab Mnemocine**: 4 servidores (incluindo um Dell Frankenstein com Arch Linux e RTX 5050 e um notebook velho reaproveitado), orquestrados em Docker Swarm com Tailscale, porque acredito que tecnologia útil não se descarta — e que é possível fazer IA de ponta sem depender de nuvem.
+Em paralelo, construí o **Homelab Mnemocine**: 4 servidores (incluindo um Dell Frankenstein com Arch Linux (I Use Arch BTW) e RTX 5050 e um notebook velho reaproveitado), orquestrados em Docker Swarm com Tailscale, porque acredito que tecnologia útil não se descarta — e que é possível fazer IA de ponta sem depender de nuvem.
 
 Mas o trabalho mais profundo é invisível: o **StênioKernel** — um Kernel proprietário de Governança para Agentes de IA (21.435 linhas, 132 drivers, 10 camadas anti-bypass) que governa todos os agentes de IA trabalhando na Sumænimá. Ele aplica criptograficamente leis absolutas, autocorrige violações e garante que nenhum agente burle a governança. É o sistema operacional que torna a IA confiável, auditável e responsável.
 
@@ -82,7 +82,7 @@ At **IPAM** (2022–2025), I went from intern to analyst, implemented Agile/Scru
 
 The turning point came in 2024, when I started building **StênioBOT** — the local-AI data capture platform under **Sumænimá**, my life project that had already existed as an independent creative entity since 2016. I brought everything together: anthropology, data, technology. Sensitive community data shouldn't depend on big tech. That's the thesis.
 
-In parallel, I built the **Mnemocine Homelab**: 4 servers (including a Dell Frankenstein running Arch Linux with an RTX 5050 and a repurposed old laptop), orchestrated with Docker Swarm and Tailscale — because useful technology shouldn't be discarded, and because cutting-edge AI shouldn't require cloud dependency.
+In parallel, I built the **Mnemocine Homelab**: 4 servers (including a Dell Frankenstein running Arch Linux (I Use Arch BTW) with an RTX 5050 and a repurposed old laptop), orchestrated with Docker Swarm and Tailscale — because useful technology shouldn't be discarded, and because cutting-edge AI shouldn't require cloud dependency.
 
 But my deepest work is invisible: the **StênioKernel** — a proprietary AI Agent Governance Kernel (21.435 lines, 132 check drivers, 10 anti-bypass layers) that governs every AI agent working on Sumænimá. It cryptographically enforces absolute laws, self-heals violations, and ensures no agent can bypass governance. It is the operating system that makes AI reliable, auditable, and accountable.
 
