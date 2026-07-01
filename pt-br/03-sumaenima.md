@@ -296,7 +296,7 @@ Há quase 10 anos combinando pesquisa etnográfica, tecnologia e dados — com a
 
 Sua pesquisa de campo na **Fazenda Canadá** (Cavalcante-GO) o conectou com **André Aquino** (Lead Environmental Specialist, World Bank) e **Daniel Ferreira** (diplomata, Itamaraty), proprietários da **Reserva Natural Veredas dos Buritis** — dentro da área do seu TCC. Trabalhou com eles na **Rede de Monitoria Participativa da Fauna**. Essa experiência definiu seu olhar híbrido.
 
-**Monografia:** *"Uma Assemblage de Projetos de Vida"* (UnB, 2023). **Coautor** em Land Use Policy (Elsevier, 2026). **Prêmio Mercosul** de Jornalismo Científico. Documentarista ("RUA PARA QUE(M)?"). Arquiteto do **Homelab Mnemocine** e do **StênioKernel**.
+**Monografia:** *"Uma Assemblage de Projetos de Vida"* (UnB, 2023). **Coautor** em Land Use Policy (Elsevier, 2026). **Artigo** no JOTA — *"Doenças são sintomas de uma crise cultural e ambiental"* (2026). **Prêmio Mercosul** de Jornalismo Científico. Documentarista ("RUA PARA QUE(M)?"). Arquiteto do **Homelab Mnemocine** e do **StênioKernel**.
 
 **Mestrado em Antropologia:** optou por sair para se dedicar a dados, design de produto e arquitetura de sistemas.
 

@@ -202,6 +202,8 @@ Desde 2025, acompanho como relator as reuniões do **CNPCT** (Conselho Nacional 
 
 Em paralelo, construí o **Homelab Mnemocine**: 4 servidores (incluindo um Dell Frankenstein com Arch Linux (I Use Arch BTW) e RTX 5050 e um notebook velho reaproveitado), orquestrados em Docker Swarm com Tailscale, porque acredito que tecnologia útil não se descarta — e que é possível fazer IA de ponta com dependência mínima de nuvem.
 
+Em paralelo, escrevi para o **JOTA** o artigo *"Doenças são sintomas de uma crise cultural e ambiental"*, sobre a relação entre crise climática e saúde pública pela perspectiva dos Povos e Comunidades Tradicionais.
+
 Em paralelo, construí o **Homelab Mnemocine**: 4 servidores (incluindo um Dell Frankenstein com Arch Linux (I Use Arch BTW) e RTX 5050 e um notebook velho reaproveitado), orquestrados em Docker Swarm com Tailscale, porque acredito que tecnologia útil não se descarta — e que é possível fazer IA de ponta com dependência mínima de nuvem.
 
 Mas o trabalho mais profundo é invisível: o **StênioKernel** — um Kernel proprietário de Governança para Agentes de IA (21.435 linhas, 132 drivers, 10 camadas anti-bypass) que governa todos os agentes de IA trabalhando na Sumænimá. Ele aplica criptograficamente regras de governança, tenta corrigir violações automaticamente com rollback e é projetado para impedir que agentes burlem a governança. É o sistema operacional que torna a IA confiável, auditável e responsável.
@@ -222,11 +224,26 @@ The turning point came in 2024, when I started building **StênioBOT** — the l
 
 Since 2025, I have been following and reporting on the **CNPCT** (National Council of Traditional Peoples and Communities) meetings. In March 2026, **StênioREC** was at the **Palácio do Planalto** capturing in real time the **Land Regularization Decree** hearing at the 22nd Ordinary Meeting of the **CNPCT** — validation at the highest level of government, including the opening speech by Minister **Marina Silva**.
 
+I also wrote for **JOTA** the article *"Doenças são sintomas de uma crise cultural e ambiental"*, on the link between climate crisis and public health through the lens of Traditional Peoples and Communities.
+
 In parallel, I built the **Mnemocine Homelab**: 4 servers (including a Dell Frankenstein running Arch Linux (I Use Arch BTW) with an RTX 5050 and a repurposed old laptop), orchestrated with Docker Swarm and Tailscale — because useful technology shouldn't be discarded, and because cutting-edge AI can work with minimal cloud dependency.
 
 But my deepest work is invisible: the **StênioKernel** — a proprietary AI Agent Governance Kernel (21.435 lines, 132 check drivers, 10 anti-bypass layers) that governs every AI agent working on Sumænimá. It cryptographically enforces governance rules, attempts automated violation repair with rollback, and is designed to prevent agents from bypassing governance. It is the operating system that makes AI reliable, auditable, and accountable.
 
 Today I'm a **hybrid**: data and product architect with an anthropologist's soul. I translate research needs into system requirements, and technical architecture into socio-environmental impact.
+
+---
+
+## 📸 Registros / Field Photos
+
+| | | |
+|:-:|:-:|:-:|
+| <img src="assets/foto-oficina-tonomapa-2019.png" width="280" /> | <img src="assets/foto-encontro-povos-cerrado-2019.png" width="280" /> | <img src="assets/foto-cnpct-planalto.png" width="280" /> |
+| Oficina Tô no Mapa — UFT 2019 | Encontro dos Povos do Cerrado — 2019 | CNPCT — Palácio do Planalto |
+| <img src="assets/foto-fazenda-canada-portao.png" width="280" /> | <img src="assets/foto-atl-2018-indigena.png" width="280" /> | <img src="assets/foto-sertao-mg-quilombola.png" width="280" /> |
+| Porteira da Fazenda Canadá — Chapada dos Veadeiros | Acampamento Terra Livre — 2018 | Sertão MG — Comunidade Quilombola |
+| <img src="assets/foto-ispn-maranhao-2017.png" width="280" /> | | |
+| ISPN MA-TO — Maranhão 2017 | | |
 
 ---
 

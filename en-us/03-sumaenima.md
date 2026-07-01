@@ -296,7 +296,7 @@ Nearly a decade combining ethnographic research, technology, and data — with S
 
 His fieldwork at **Fazenda Canadá** (Cavalcante-GO) connected him with **André Aquino** (Lead Environmental Specialist, World Bank) and **Daniel Ferreira** (Itamaraty diplomat), owners of the **Reserva Natural Veredas dos Buritis** — inside the thesis area. He worked with them on the **Participatory Fauna Monitoring Network**. This experience defined his hybrid perspective.
 
-**Thesis:** *"Uma Assemblage de Projetos de Vida"* (UnB, 2023). **Co-author** in Land Use Policy (Elsevier, 2026). **Mercosur Scientific Journalism Award** winner. Documentary filmmaker ("RUA PARA QUE(M)?"). Architect of the **Mnemocine Homelab** and the **StênioKernel**.
+**Thesis:** *"Uma Assemblage de Projetos de Vida"* (UnB, 2023). **Co-author** in Land Use Policy (Elsevier, 2026). **Article** in JOTA — *"Doenças são sintomas de uma crise cultural e ambiental"* (2026). **Mercosur Scientific Journalism Award** winner. Documentary filmmaker ("RUA PARA QUE(M)?"). Architect of the **Mnemocine Homelab** and the **StênioKernel**.
 
 **Master's in Anthropology:** chose to leave in pursuit of data, product design, and systems architecture.
 

@@ -121,6 +121,7 @@ O **Homelab Mnemocine** é a infraestrutura da **Sumænimá**: 4 servidores roda
 - **Coautor** — Moser, P.; de Castro Silva, I.; Benedetti Figueiredo, I.; Favilla, K.; Bustamante, M.; Macedo, M.N.; de Araújo, R.F.; Shimbo, J.Z.; Varela, V.; **Rodrigues, C.E.**; Alencar, A.A. *"Institutional Invisibility Threatens the Lands and Livelihoods of Traditional Communities in the Northern Brazilian Cerrado"* — Submetido a **Land Use Policy** (Elsevier, 2026). A pesquisa de campo foi realizada durante a graduação em Antropologia na UnB.
 - **Documentário** — *RUA PARA QUE(M)?* (85min, 2020) — Direção, fotografia, edição. Publicado pela Sumænimá.
 - **Documentário** — *Manaus Extrema* (2024) — Codireção. Publicado pelo IPAM.
+- **Artigo** — Rodrigues, C.E. *"Doenças são sintomas de uma crise cultural e ambiental"* — JOTA, Em Clima de Justiça (2026). [Ler](https://www.jota.info/opiniao-e-analise/colunas/em-clima-de-justica/doencas-sao-sintomas-de-uma-crise-cultural-e-ambiental)
 
 ---
 
