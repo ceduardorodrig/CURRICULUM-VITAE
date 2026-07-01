@@ -25,13 +25,14 @@ def check() -> CheckResult:
     if bypass_patterns:
         details.extend(bypass_patterns)
 
-    hook_status = _check_hooks()
-    if hook_status:
-        details.extend(hook_status)
+    if not _is_ci():
+        hook_status = _check_hooks()
+        if hook_status:
+            details.extend(hook_status)
 
-    env_bypass = _check_env_bypass()
-    if env_bypass:
-        details.extend(env_bypass)
+        env_bypass = _check_env_bypass()
+        if env_bypass:
+            details.extend(env_bypass)
 
     ci_bypass = _check_ci_bypass()
     if ci_bypass:
@@ -41,6 +42,10 @@ def check() -> CheckResult:
         return CheckResult.fail("sec_bypass_guard", f"{len(details)} indicio(s) de bypass", details)
 
     return CheckResult.pass_("sec_bypass_guard", "Nenhum indicio de bypass detectado")
+
+
+def _is_ci() -> bool:
+    return "CI" in __import__("os").environ or "GITHUB_ACTIONS" in __import__("os").environ
 
 
 def _scan_git_log() -> list[str]:

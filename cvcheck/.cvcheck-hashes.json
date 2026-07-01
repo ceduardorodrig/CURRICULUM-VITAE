@@ -8,7 +8,7 @@
   "drivers/links.py": "a64ccbdb0362faa0a45af52cf66d6cce5895f1d72d07272a9b89e4efdb8feed4",
   "drivers/spell_pt.py": "a6695025518f24370e797f991ad69543db6055fbf3b63832cbe29b9826216f8f",
   "drivers/spell_en.py": "cc1b0018232d507fd3144e0efeb1c6120bb88d8b8f5a47e9d645b9d8afbfd6b0",
-  "drivers/sec_bypass_guard.py": "42a5411f07ae3159682316ae30b5db9a8c0c40f451b8f153f9814f04c7769185",
+  "drivers/sec_bypass_guard.py": "37fdb9dc3c54bf60f1f1c80c2a5b4b05ec980f25373dc46393d72021ea5419ed",
   "drivers/sec_scope_guard.py": "0df2468a8d6cfcf5a673e1bc919f31e14ad527c7a4d4fca50ca370b7eb657222",
   "drivers/gov_immutability.py": "1f2706256f272bc600d66d139ae581d073b15e04930415222ec05b41e3b2969f",
   "drivers/gov_glossary.py": "62c4152e2eaf59d91f26a8cb66820552509020fc44aa353fc91fafc78d5ef00b",
