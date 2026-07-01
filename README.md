@@ -74,7 +74,7 @@ The projects described here total **~8M+ lines and growing** (includes source co
 
 **📋 Validação em Campo:**
 
-- 🏛️ **Palácio do Planalto** (mar/2026) — transcrição em tempo real da devolutiva do **Decreto de Regularização Fundiária** do CNPCT, incluindo a fala de abertura da Ministra **Marina Silva**
+- 🏛️ **CNPCT/Palácio do Planalto** — acompanhamento e relatoria das reuniões do Conselho Nacional dos Povos e Comunidades Tradicionais desde 2025, incluindo a 22ª Reunião Ordinária (mar/2026) com devolutiva do **Decreto de Regularização Fundiária** e fala de abertura da Ministra **Marina Silva**
 - 🌱 **Semana da Sociobiodiversidade** (2025) — relatoria do **3º Encontro Nacional da Juventude das Populações Extrativistas e Tradicionais** (IEB/CNS/MCM/CONFREM) com **Stênio v1**
 - 🏫 **FLONA de Tefé** (2025) — imersão de 39 lideranças no **Módulo II — "Formar Protagonistas"** (IEB/APAFE/Rainforest Trust)
 - 📊 **IPEA** (jun/2026) — relatoria dos Movimentos 5 (Integração) e 7 (Gestão da Informação) no Encontro de Planejamento Estratégico do instituto, com StênioREC + observação etnográfica. Evento de 3 dias contratado via **Imagine Gestão Social**, resultando na agenda 2026–2027
@@ -196,9 +196,11 @@ Comecei como estagiário no [**ISPN**](https://ispn.org.br/) (2017), onde fiz pe
 
 No [**IPAM**](https://ipam.org.br/pt/) (2022–2025), passei de estagiário a analista, liderei a estratégia digital que gerou **+143% de crescimento orgânico e pago** (+143,3% Facebook, +100% Instagram, 66,7K interações, alcance de **2+ milhões**), implementei Agile/Scrum como Scrum Master, codirigi um documentário pelo IPAM sobre mudanças climáticas e ganhei um prêmio Mercosul de jornalismo científico. Mas também descobri o que **não** queria: comunicação institucional para terceiros. O burnout veio junto com a clareza.
 
-A virada veio em 2024, quando comecei a construir o **StênioBOT** — a plataforma de captura de dados com IA local da [**Sumænimá**](https://sumaenima.chimaera-heptatonic.ts.net), meu projeto de vida que já existia como entidade criativa independente desde 2016. Juntei tudo que aprendi: antropologia, dados, tecnologia. Dados sensíveis de comunidades não deveriam depender de big tech. Essa é a tese.
+Em 2024, comecei a construir o **StênioBOT** — a plataforma de captura de dados com IA local da [**Sumænimá**](https://sumaenima.chimaera-heptatonic.ts.net), meu projeto de vida que já existia como entidade criativa independente desde 2016. Juntei tudo que aprendi: antropologia, dados, tecnologia. Dados sensíveis de comunidades não deveriam depender de big tech. Essa é a tese.
 
-Em março de 2026, o **StênioREC** esteve no **Palácio do Planalto** capturando em tempo real a devolutiva do **Decreto de Regularização Fundiária** na 22ª Reunião Ordinária do **CNPCT** (Conselho Nacional dos Povos e Comunidades Tradicionais) — validação em instância máxima de governo, com a fala de abertura da Ministra **Marina Silva**.
+Desde 2025, acompanho como relator as reuniões do **CNPCT** (Conselho Nacional dos Povos e Comunidades Tradicionais). Em março de 2026, o **StênioREC** esteve no **Palácio do Planalto** capturando em tempo real a devolutiva do **Decreto de Regularização Fundiária** na 22ª Reunião Ordinária do CNPCT — validação em instância máxima de governo, com a fala de abertura da Ministra **Marina Silva**.
+
+Em paralelo, construí o **Homelab Mnemocine**: 4 servidores (incluindo um Dell Frankenstein com Arch Linux (I Use Arch BTW) e RTX 5050 e um notebook velho reaproveitado), orquestrados em Docker Swarm com Tailscale, porque acredito que tecnologia útil não se descarta — e que é possível fazer IA de ponta com dependência mínima de nuvem.
 
 Em paralelo, construí o **Homelab Mnemocine**: 4 servidores (incluindo um Dell Frankenstein com Arch Linux (I Use Arch BTW) e RTX 5050 e um notebook velho reaproveitado), orquestrados em Docker Swarm com Tailscale, porque acredito que tecnologia útil não se descarta — e que é possível fazer IA de ponta com dependência mínima de nuvem.
 
@@ -218,7 +220,7 @@ At [**IPAM**](https://ipam.org.br/pt/) (2022–2025), I went from intern to anal
 
 The turning point came in 2024, when I started building **StênioBOT** — the local-AI data capture platform under [**Sumænimá**](https://sumaenima.chimaera-heptatonic.ts.net), my life project that had already existed as an independent creative entity since 2016. I brought everything together: anthropology, data, technology. Sensitive community data shouldn't depend on big tech. That's the thesis.
 
-In March 2026, **StênioREC** was at the **Palácio do Planalto** capturing in real time the **Land Regularization Decree** hearing at the 22nd Ordinary Meeting of the **CNPCT** (National Council of Traditional Peoples and Communities) — validation at the highest level of government, including the opening speech by Minister **Marina Silva**.
+Since 2025, I have been following and reporting on the **CNPCT** (National Council of Traditional Peoples and Communities) meetings. In March 2026, **StênioREC** was at the **Palácio do Planalto** capturing in real time the **Land Regularization Decree** hearing at the 22nd Ordinary Meeting of the **CNPCT** — validation at the highest level of government, including the opening speech by Minister **Marina Silva**.
 
 In parallel, I built the **Mnemocine Homelab**: 4 servers (including a Dell Frankenstein running Arch Linux (I Use Arch BTW) with an RTX 5050 and a repurposed old laptop), orchestrated with Docker Swarm and Tailscale — because useful technology shouldn't be discarded, and because cutting-edge AI can work with minimal cloud dependency.
 

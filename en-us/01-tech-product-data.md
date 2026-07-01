@@ -44,7 +44,7 @@ Stack: FastAPI (async) + React 19 + TypeScript 6 + PostgreSQL 16 + Valkey 8 + Do
 - **3rd National Youth Meeting of Extractive and Traditional Populations** — Sociobiodiversity Week 2025 (IEB/CNS/MCM/CONFREM). Produced with **Stênio v1** — the first operational version of the platform in production
 - **Module II — "Formar Protagonistas"** (IEB/APAFE/Rainforest Trust): 39 leadership members from FLONA de Tefé in Brasília
 - **IPEA Strategic Planning Meeting** (jun/2026) — reporting for Movements 5 (Integration, Community & Collaboration) and 7 (Information Management) with real-time transcription via StênioREC and ethnographic observation. 3-day event at ParlaMundi da LBV and IPEA headquarters, contracted through **Imagine Gestão Social**, resulting in the institute's 2026–2027 strategic agenda
-- **22nd Ordinary Meeting of the CNPCT** (mar/2026) — real-time transcription via StênioREC of the Land Regularization Decree hearing at the Palácio do Planalto, including the opening speech by Minister Marina Silva
+- **CNPCT (National Council of Traditional Peoples and Communities):** Monitoring and reporting of council meetings since 2025, including the 22nd Ordinary Meeting (mar/2026) with the Land Regularization Decree hearing at the Palácio do Planalto and opening speech by Minister Marina Silva — real-time transcription via StênioREC
 
 ### 🗺️ ISPN — Institute for Society, Population and Nature
 *2017 — 2021 · Brasília-DF, Brazil*
@@ -81,6 +81,7 @@ Other contributions:
 - Implemented Agile/Scrum as Scrum Master, structuring sprints and delivery metrics
 - Managed Google Ad Grants (US$ 10K/month) and Meta Ads with data-driven optimization
 - Co-directed **"Manaus Extrema"** documentary — published by IPAM. Premiered at INPA / 2024 PROTEJA Talks
+- Supported the organization and institutional communication of the **SOMUC event at UFAC** (2024), focused on Conservation Unit monitoring in the Amazon, with ICMBio staff and researchers in attendance
 - **Mercosur Scientific Journalism Award — 1st place, Social Networks** (2024)
 - Served as CIPA president for two terms
 
