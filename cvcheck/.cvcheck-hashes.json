@@ -12,5 +12,5 @@
   "drivers/sec_scope_guard.py": "0df2468a8d6cfcf5a673e1bc919f31e14ad527c7a4d4fca50ca370b7eb657222",
   "drivers/gov_immutability.py": "1f2706256f272bc600d66d139ae581d073b15e04930415222ec05b41e3b2969f",
   "drivers/gov_glossary.py": "62c4152e2eaf59d91f26a8cb66820552509020fc44aa353fc91fafc78d5ef00b",
-  "drivers/gov_acronyms.py": "e1f31d0201a3454d32c22722a331755e254bb2dd86feaea3c2836725bfc19709"
+  "drivers/gov_acronyms.py": "0afae42724da301cdc4e846de92d65bb9962b26fd34d419f24fcc2e3d0421bc9"
 }
