@@ -79,7 +79,7 @@ Trabalhei diretamente com **André Rodrigues de Aquino** (Lead Environmental Spe
 Suporte inicial à gestão de dados e comunicação durante a emergência COVID-19 no contexto indígena.
 
 ### 🌿 Reserva Natural Veredas dos Buritis
-*2020 — presente · Cavalcante-GO*
+*2020 — 2022 · Cavalcante-GO*
 
 **Assessor de Comunicação** — Gestão de mídias sociais, produção de conteúdo e articulação local na região da Chapada dos Veadeiros.
 

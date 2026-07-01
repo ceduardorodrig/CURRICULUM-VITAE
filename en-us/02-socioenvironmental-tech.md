@@ -79,7 +79,7 @@ Worked directly with **André Rodrigues de Aquino** (Lead Environmental Speciali
 Initial data management and communications support during the COVID-19 emergency within Indigenous territories.
 
 ### 🌿 Reserva Natural Veredas dos Buritis
-*2020 — present · Cavalcante-GO, Brazil*
+*2020 — 2022 · Cavalcante-GO, Brazil*
 
 **Communications Advisor** — Social media management, content production, and local stakeholder engagement in the Chapada dos Veadeiros region.
 
