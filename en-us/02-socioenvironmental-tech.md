@@ -21,11 +21,9 @@ Hybrid professional who combines local open-source technology, data, and anthrop
 
 Sumaenima is my life project. It has existed for nearly 10 years as an independent creative entity, running alongside formal employment throughout my entire career. What keeps me going is the dream of one day raising resources to build a team and create a **Data Bureau** with an anthropological soul.
 
-**StênioBOT** (2024–present): the first ethnography platform with 100% local, private AI. The premise: sensitive data from traditional, Indigenous, and riverine communities should never depend on big tech infrastructure. The platform runs fully offline, with no data sent to the cloud, ensuring privacy and data sovereignty.
+**StênioBOT** (2024–present): the first ethnography platform with 100% local, private AI. Four integrated modules for qualitative research — real-time transcription (Whisper), workshop scanning with computer vision, semantic mining, and data visualization. The premise: sensitive data from communities should never depend on big tech infrastructure. Stack: FastAPI + React + PostgreSQL + Docker Swarm on a home-built multi-node cluster.
 
 Other deliveries: ethnographic documentary "RUA PARA QUE(M)?" (2020) and independent design, video, and data projects under the Sumaenima brand.
-
-Four integrated modules for qualitative research: real-time transcription (Whisper), workshop scanning with computer vision, semantic mining, and data visualization. Stack: FastAPI + React + PostgreSQL + Docker Swarm on a home-built multi-node cluster.
 
 ### IPAM — Amazon Environmental Research Institute
 *2022 — present · Brasília-DF, Brazil*
