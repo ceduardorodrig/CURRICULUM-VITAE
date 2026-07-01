@@ -32,9 +32,9 @@ Stack: FastAPI (async) + React 19 + TypeScript 6 + PostgreSQL 16 + Valkey 8 + Do
 
 **StênioKernel — Kernel de Governança para Agentes de IA:**
 - Kernel proprietário (21.435 linhas, 22 módulos kernel, 132 drivers) governando todos os agentes de IA do projeto
-- Arquitetura anti-bypass em 10 camadas: pre-commit gates, bypass guard, scope guard, imutabilidade do kernel, leis de agentes com assinatura criptográfica (13 Leis Absolutas), protocolo de conhecimento (ADR-032), repetição→regra (ADR-034), jurisdição universal ("A Teia"), promoção WARN→FAIL, bloqueio de re-assinatura automatizado
+- Arquitetura anti-bypass em 10 camadas: pre-commit gates, bypass guard, scope guard, imutabilidade do kernel, leis de agentes com assinatura criptográfica (13 Leis Absolutas), protocolo de conhecimento (ADR-032), repetição→regra (ADR-034), jurisdição universal ("A Teia"), promoção WARN→FAIL, bloqueio de reassinatura automatizado
 - Auto-healing com negative registry, Knowledge Graph, auto-commit em correções bem-sucedidas
-- Governança preditiva: detecção de tendências via regressão linear, auto-suppress, detecção de flakyness, promoção de canary
+- Governança preditiva: detecção de tendências via regressão linear, auto-suppress, detecção de flakiness, promoção de canary
 - Memória e aprendizado: persistência de histórico, aprendizado contínuo (`--learn`), 40+ padrões de bug com auto-fix commands, sugestões proativas
 - Ecossistema de documentação: 185 arquivos, 28 ADRs, 17 imperativos, 29 invariantes, DocBot
 - FMEA vivo (54 nós), Audio WAL (AES-GCM 256), Neural Flow, circuit breaker adaptativo
@@ -90,7 +90,7 @@ Dois semestres concluídos, interrompido por greve. Escolhi abandonar o mestrado
 
 ## 📡 Infraestrutura — Sumaenima & Mnemocine
 
-O **Homelab Mnemocine** É a infraestrutura da **Sumaenima**. São indistinguíveis — um cluster multi-nó orquestrado via Docker Swarm que provê serviços de IA, banco, cache, DNS, monitoramento e borda web.
+O **Homelab Mnemocine** é a infraestrutura da **Sumaenima**. São indistinguíveis — um cluster multi-nó orquestrado via Docker Swarm que provê serviços de IA, banco, cache, DNS, monitoramento e borda web.
 
 | Nó | Hardware | Papel |
 |----|----------|-------|

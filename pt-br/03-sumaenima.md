@@ -14,7 +14,7 @@ Sumaenima é meu projeto de vida. Existe há quase 10 anos como entidade criativ
 
 O sonho é captar recursos para ter equipe e construir um **Bureau de Dados** com alma antropológica: uma estrutura que produza projetos como o Tô no Mapa, visualizações de dados e pesquisa etnográfica em escala — unindo ciência, território e tecnologia de forma soberana.
 
-Mas a camada mais profunda e valiosa da Sumaenima é invisível: o **StênioKernel** — um Kernel proprietário de Governança para Agentes de IA (21.435 linhas, 22 módulos de kernel, 132 drivers automatizados, 10 camadas anti-bypass) que governa todos os agentes de IA trabalhando no projeto. Ele aplica criptograficamente 13 leis absolutas, auto-corrige violações, detecta tentativas de bypass e garante que nenhum agente escape da governança. É o sistema operacional que torna a IA confiável, auditável e responsável.
+Mas a camada mais profunda e valiosa da Sumaenima é invisível: o **StênioKernel** — um Kernel proprietário de Governança para Agentes de IA (21.435 linhas, 22 módulos de kernel, 132 drivers automatizados, 10 camadas anti-bypass) que governa todos os agentes de IA trabalhando no projeto. Ele aplica criptograficamente 13 leis absolutas, autocorrige violações, detecta tentativas de bypass e garante que nenhum agente escape da governança. É o sistema operacional que torna a IA confiável, auditável e responsável.
 
 **StênioBOT** é uma plataforma de etnografia assistida por IA que roda 100% offline, em hardware local, sem enviar dados para nuvem. Quatro módulos integrados que cobrem o ciclo completo da pesquisa qualitativa: da coleta em campo à análise e visualização.
 
@@ -91,7 +91,7 @@ Este é o ativo mais profundo e valioso da Sumaenima. O StênioKernel não é um
 | 8. **Repetição → Regra** | ADR-034 — promove instruções repetidas | Instruções recorrentes ficando ad-hoc |
 | 9. **A Teia** | `pm_omniscience` — jurisdição universal | Qualquer arquivo escapando da governança |
 | 10. **Promoção de Warnings** | `__main__.py` promove P0/sec WARN→FAIL | Agentes ignorando warnings críticos |
-| + **Bloqueio de Re-Assinatura** | Detecção de TTY + chaves de API | Agentes re-assinando baselines de segurança |
+| + **Bloqueio de Reassinatura** | Detecção de TTY + chaves de API | Agentes reassinando baselines de segurança |
 
 ### 🔧 Auto-Healing
 
@@ -110,7 +110,7 @@ O kernel não apenas reporta falhas atuais — ele prevê as futuras:
 - **Detecção de tendências**: regressão linear sobre contagens de violações nas últimas 10 execuções
 - **Auto-suppress**: suprime warnings persistentes por N execuções consecutivas (limiar adaptativo)
 - **Comparação com baseline**: `.steniocheck-baseline.json` para redução de ruído
-- **Detecção de flakyness**: identifica checks que oscilam entre pass/fail
+- **Detecção de flakiness**: identifica checks que oscilam entre pass/fail
 - **Promoção de canary**: promove automaticamente drivers com >80% de aprovação em 5+ execuções
 
 ### 🧠 Memória e Aprendizado
@@ -149,7 +149,7 @@ O kernel audita a si mesmo:
 
 ## 🖥️ Infraestrutura — Homelab Mnemocine
 
-O **Homelab Mnemocine** É a infraestrutura da **Sumaenima**. São indistinguíveis — prova de conceito rodando em hardware real, sem dependência de cloud comercial para dados sensíveis.
+O **Homelab Mnemocine** é a infraestrutura da **Sumaenima**. São indistinguíveis — prova de conceito rodando em hardware real, sem dependência de cloud comercial para dados sensíveis.
 
 | Nó | Hardware | Função |
 |----|----------|--------|

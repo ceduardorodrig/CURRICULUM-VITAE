@@ -46,7 +46,7 @@ A virada veio em 2024, quando comecei a construir o **StênioBOT** — a platafo
 
 Em paralelo, construí o **Homelab Mnemocine**: 4 servidores (incluindo um Dell Frankenstein com Arch Linux e RTX 5050 e um notebook velho reaproveitado), orquestrados em Docker Swarm com Tailscale, porque acredito que tecnologia útil não se descarta — e que é possível fazer IA de ponta sem depender de nuvem.
 
-Mas o trabalho mais profundo é invisível: o **StênioKernel** — um Kernel proprietário de Governança para Agentes de IA (21.435 linhas, 132 drivers, 10 camadas anti-bypass) que governa todos os agentes de IA trabalhando na Sumaenima. Ele aplica criptograficamente 13 leis absolutas, auto-corrige violações e garante que nenhum agente burle a governança. É o sistema operacional que torna a IA confiável, auditável e responsável.
+Mas o trabalho mais profundo é invisível: o **StênioKernel** — um Kernel proprietário de Governança para Agentes de IA (21.435 linhas, 132 drivers, 10 camadas anti-bypass) que governa todos os agentes de IA trabalhando na Sumaenima. Ele aplica criptograficamente 13 leis absolutas, autocorrige violações e garante que nenhum agente burle a governança. É o sistema operacional que torna a IA confiável, auditável e responsável.
 
 Hoje sou um **híbrido**: arquiteto de dados e produtos com alma de antropólogo. Sei traduzir necessidades de pesquisa em requisitos de sistema, e arquitetura técnica em impacto socioambiental.
 
@@ -81,4 +81,4 @@ Today I'm a **hybrid**: data and product architect with an anthropologist's soul
 
 ---
 
-*Última atualização / Last updated: Junho 2026*
+*Última atualização / Last updated: junho 2026*

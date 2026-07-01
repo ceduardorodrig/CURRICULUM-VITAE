@@ -142,14 +142,14 @@ The kernel doesn't just report current failures — it predicts future ones:
 The kernel audits itself:
 - `--blame`: traces every violation to the specific commit, author, and date via `git blame`
 - `--self-test`: 19 self-tests validating GC1-GC12, driver imports, registry format, Knowledge Graph, blame types, healer, history cycle
-- `--guardian`: auto-auditoria that detects hash drift, registry gaps, suspicious violation drops, canary candidates, performance degradation, timeout anomalies
+- `--guardian`: self-audit that detects hash drift, registry gaps, suspicious violation drops, canary candidates, performance degradation, timeout anomalies
 - `.steniocheck-driver-hashes.json`: cryptographically seals every driver file against unauthorized modification
 
 ---
 
 ## 🖥️ Infrastructure — Mnemocine Homelab
 
-The **Mnemocine Homelab** IS the **Sumaenima** infrastructure. They are indistinguishable — proof of concept running on real hardware with zero commercial cloud dependency for sensitive data.
+The **Mnemocine Homelab** is the **Sumaenima** infrastructure. They are indistinguishable — proof of concept running on real hardware with zero commercial cloud dependency for sensitive data.
 
 | Node | Hardware | Role |
 |------|----------|------|

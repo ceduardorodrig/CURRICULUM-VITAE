@@ -10,7 +10,7 @@
 
 ## 👤 Perfil
 
-Profissional híbrido que une tecnologia open-source local, dados e antropologia para amplificar causas socioambientais. Quase uma década construindo pontes entre pesquisa etnográfica, comunicação estratégica e arquitetura de sistemas de IA — com resultados que vão de 2+ milhões de pessoas alcançadas a plataformas nacionais de automapecimento integradas ao Ministério Público Federal e artigos científicos submetidos a periódicos internacionais. Construiu o StênioKernel, um Kernel proprietário de Governança para Agentes de IA que garante que a IA opere dentro de limites éticos e de segurança rigorosos — essencial para proteger dados de comunidades vulneráveis. Acredito que tecnologia útil, acessível e soberana é ferramenta de justiça social e ambiental.
+Profissional híbrido que une tecnologia open-source local, dados e antropologia para amplificar causas socioambientais. Quase uma década construindo pontes entre pesquisa etnográfica, comunicação estratégica e arquitetura de sistemas de IA — com resultados que vão de 2+ milhões de pessoas alcançadas a plataformas nacionais de automapeamento integradas ao Ministério Público Federal e artigos científicos submetidos a periódicos internacionais. Construiu o StênioKernel, um Kernel proprietário de Governança para Agentes de IA que garante que a IA opere dentro de limites éticos e de segurança rigorosos — essencial para proteger dados de comunidades vulneráveis. Acredito que tecnologia útil, acessível e soberana é ferramenta de justiça social e ambiental.
 
 ---
 
@@ -90,7 +90,7 @@ Dois semestres concluídos, interrompido por greve. Escolhi abandonar o mestrado
 
 ## 📡 Infraestrutura — Sumaenima & Mnemocine
 
-O **Homelab Mnemocine** É a infraestrutura da **Sumaenima**: 4 servidores rodando software livre, projetados para processamento local de dados sensíveis com zero dependência de nuvem comercial.
+O **Homelab Mnemocine** é a infraestrutura da **Sumaenima**: 4 servidores rodando software livre, projetados para processamento local de dados sensíveis com zero dependência de nuvem comercial.
 
 | Nó | Hardware | Papel |
 |----|----------|-------|

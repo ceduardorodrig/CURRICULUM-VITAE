@@ -24,36 +24,46 @@ FILES = [
 
 # (regex pattern, correct form, case_insensitive)
 BANNED_TERMS = [
-    # Sumaenima / StênioBOT
+    # ── Sumaenima / StênioBOT ────────────────────────────────────────
     (r"\bSumaenima\b", "Sumaenima", True),
     (r"\bStenio[Bb]ot\b", "StênioBOT", False),
     (r"\bStênio[Bb]ot\b", "StênioBOT", False),
     (r"\bStenioBOT\b", "StênioBOT", False),
+    (r"\bSteniokernel\b", "StênioKernel", True),
+    (r"\bStenioKernel\b", "StênioKernel", False),
 
-    # Orgs e siglas
+    # ── Grafia PT-BR ─────────────────────────────────────────────────
+    (r"\bautomapecimento\b", "automapeamento", False),
+    (r"\bauto-corrige\b", "autocorrige", False),
+    (r"\bre-assinatura\b", "reassinatura", False),
+    (r"\bre-assinando\b", "reassinando", False),
+    (r"\bflakyness\b", "flakiness", False),
+    (r"\bJunho\b", "junho", False),
+
+    # ── Maiúscula no meio da frase ───────────────────────────────────
+    (r"\bÉ a infraestrutura", "é a infraestrutura", False),
+    (r"\bIS the", "is the", False),
+
+    # ── Orgs e siglas ─────────────────────────────────────────────────
     (r"\bIPAM\b", "IPAM", False),
 
-    # Lugares
+    # ── Lugares ───────────────────────────────────────────────────────
     (r"\bBrasilia\b", "Brasília", False),
-    (r"\bCavalcante\b", "Cavalcante", False),
 
-    # Refs academicas
+    # ── Refs academicas ───────────────────────────────────────────────
     (r"\bUnB\b", "UnB", False),
 
-    # Nomes proprios
-    (r"\bHenyo\b", "Henyo", False),
-    (r"\bTrindade\b", "Trindade", False),
-    (r"\bBarretto\b", "Barretto", False),
-    (r"\bFilho\b", "Filho", False),
-
-    # Nodes
+    # ── Nodes ─────────────────────────────────────────────────────────
     (r"\bpsicopompo\b", "psicopompo", False),
     (r"\bybyra\b", "ybyra", False),
     (r"\bybytu\b", "ybytu", False),
     (r"\bkuaray\b", "kuaray", False),
 
-    # Tech
+    # ── Tech ──────────────────────────────────────────────────────────
     (r"\bMnemocine\b", "Mnemocine", False),
+
+    # ── PT-PT evitado ─────────────────────────────────────────────────
+    (r"\bautomauditoria\b", "auto-auditoria (remover em ingles)", False),
 ]
 
 

@@ -90,7 +90,7 @@ Two semesters completed, interrupted by a strike. Chose to leave the program to 
 
 ## 📡 Infrastructure — Sumaenima & Mnemocine
 
-The **Mnemocine Homelab** IS the **Sumaenima** infrastructure: 4 servers running free software, designed for local processing of sensitive data with zero commercial cloud dependency.
+The **Mnemocine Homelab** is the **Sumaenima** infrastructure: 4 servers running free software, designed for local processing of sensitive data with zero commercial cloud dependency.
 
 | Node | Hardware | Role |
 |------|----------|------|

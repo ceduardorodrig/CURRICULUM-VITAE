@@ -90,7 +90,7 @@ Two semesters completed, interrupted by a strike. Chose to leave the program to 
 
 ## 📡 Infrastructure — Sumaenima & Mnemocine
 
-The **Mnemocine Homelab** IS the **Sumaenima** infrastructure. They are indistinguishable — a multi-node cluster orchestrated via Docker Swarm providing AI, database, cache, DNS, monitoring, and web edge services.
+The **Mnemocine Homelab** is the **Sumaenima** infrastructure. They are indistinguishable — a multi-node cluster orchestrated via Docker Swarm providing AI, database, cache, DNS, monitoring, and web edge services.
 
 | Node | Hardware | Role |
 |------|----------|------|
