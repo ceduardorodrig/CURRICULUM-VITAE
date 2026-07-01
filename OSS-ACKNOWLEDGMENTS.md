@@ -13,6 +13,12 @@ O Sumænimá Hub é construído sobre ombros de gigantes. Agradecemos e reconhec
 - **[EasyOCR](https://github.com/JaidedAI/EasyOCR)** (Apache 2.0) — OCR fallback
 - **[Gemma](https://www.kaggle.com/models/google/gemma)** (Google Terms) — LLM local para purificação e revisão
 
+## Spec-Driven Development & AI Agent Skills
+
+- **[Spec Kit](https://github.com/github/spec-kit)** (MIT) — Toolkit de Spec-Driven Development do GitHub; inspirou a arquitetura de slash commands e governança via AGENTS.md
+- **[OpenSpec](https://github.com/Fission-AI/openspec)** (MIT) — Framework SDD leve; inspirou o design iterativo e estrutura de mudanças do kernel
+- **[PM Skills Marketplace](https://github.com/phuryn/pm-skills)** (MIT) — Sistema de 68 skills e 42 workflows encadeados para agentes de IA; inspirou a arquitetura modular de drivers do kernel e o sistema de plugins
+
 ## Frameworks e Bibliotecas
 
 - **[FastAPI](https://github.com/fastapi/fastapi)** (MIT) — Backend async
