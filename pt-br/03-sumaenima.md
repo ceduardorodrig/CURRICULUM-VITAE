@@ -1,8 +1,12 @@
-# 🚀 Sumaenima — StênioBOT
+# 🚀 Sumænimá — StênioBOT
 
-**Plataforma de Etnografia com IA Local, Privada e Open-Source**
+**Plataforma de Captura de Dados com IA Local, Privada e Open-Source**
 
 [sumaenima.chimaera-heptatonic.ts.net](https://sumaenima.chimaera-heptatonic.ts.net) | [github.com/ceduardorodrig](https://github.com/ceduardorodrig)
+
+<p align="center">
+  <img src="../assets/logo-sumaenima.svg" width="400" alt="Sumænimá Logo" />
+</p>
 
 ---
 
@@ -10,13 +14,25 @@
 
 **Fundador & Product Owner:** Carlos Eduardo Rodrigues
 
-Sumaenima é meu projeto de vida. Existe há quase 10 anos como entidade criativa independente, atravessando toda minha carreira em paralelo aos empregos formais. Nasceu de uma convicção: pesquisa qualitativa — especialmente com comunidades tradicionais, indígenas e grupos vulneráveis — não deveria depender de infraestrutura de big tech para processar dados sensíveis. Mas por falta de recursos, seguiu como projeto paralelo durante anos — até que em 2024 comecei a construir a **StênioBOT**.
+Sumænimá é meu projeto de vida. Existe há quase 10 anos como entidade criativa independente, atravessando toda minha carreira em paralelo aos empregos formais. Nasceu de uma convicção: pesquisa qualitativa — especialmente com comunidades tradicionais, indígenas e grupos vulneráveis — não deveria depender de infraestrutura de big tech para processar dados sensíveis. Mas por falta de recursos, seguiu como projeto paralelo durante anos — até que em 2024 comecei a construir a **StênioBOT**.
 
 O sonho é captar recursos para ter equipe e construir um **Bureau de Dados** com alma antropológica: uma estrutura que produza projetos como o Tô no Mapa, visualizações de dados e pesquisa etnográfica em escala — unindo ciência, território e tecnologia de forma soberana.
 
-Mas a camada mais profunda e valiosa da Sumaenima é invisível: o **StênioKernel** — um Kernel proprietário de Governança para Agentes de IA (21.435 linhas, 22 módulos de kernel, 132 drivers automatizados, 10 camadas anti-bypass) que governa todos os agentes de IA trabalhando no projeto. Ele aplica criptograficamente 13 leis absolutas, autocorrige violações, detecta tentativas de bypass e garante que nenhum agente escape da governança. É o sistema operacional que torna a IA confiável, auditável e responsável.
+Mas a camada mais profunda e valiosa da Sumænimá é invisível: o **StênioKernel** — um Kernel proprietário de Governança para Agentes de IA (21.435 linhas, 22 módulos de kernel, 132 drivers automatizados, 10 camadas anti-bypass) que governa todos os agentes de IA trabalhando no projeto. Ele aplica criptograficamente leis absolutas, autocorrige violações, detecta tentativas de bypass e garante que nenhum agente escape da governança. É o sistema operacional que torna a IA confiável, auditável e responsável.
 
-**StênioBOT** é uma plataforma de etnografia assistida por IA que roda 100% offline, em hardware local, sem enviar dados para nuvem. Quatro módulos integrados que cobrem o ciclo completo da pesquisa qualitativa: da coleta em campo à análise e visualização.
+**StênioBOT** é uma plataforma de captura de dados assistida por IA que roda 100% offline, em hardware local, sem enviar dados para nuvem. Quatro módulos integrados que cobrem o ciclo completo da pesquisa qualitativa: da coleta em campo à análise e visualização.
+
+Ao todo, o ecossistema Sumænimá soma **~8M+ linhas e crescendo** — distribuídas em 1.227+ arquivos, ao longo de 10 anos como projeto de vida.
+
+---
+
+## 🖥️ Design & Experiência
+
+A interface da StênioBOT segue **Material Design 3** com glassmorfismo, tipografia Lexend e tema dinâmico — responsiva em todos os dispositivos.
+
+| Mobile · iPhone SE | Tablet · iPad Pro | Desktop |
+|:---:|:---:|:---:|
+| <img src="../assets/hub-mobile.png" width="220" alt="Mobile" /> | <img src="../assets/hub-tablet.png" width="280" alt="Tablet" /> | <img src="../assets/hub-desktop.png" width="400" alt="Desktop" /> |
 
 ---
 
@@ -35,10 +51,40 @@ Não existe uma plataforma integrada, local, privada e acessível para pesquisa 
 
 ### Módulos
 
-- **StênioREC** — Transcrição em tempo real via Whisper large-v3-turbo com VAD, purificação via Gemma 3 (Neural Flow paralelo), exportação Google Docs em modo colaborativo
-- **StênioPANEL** — Scanner de workshops físicos com GroundingDINO + SAM 2 + PaddleOCR, gerando esquemas `.canvas` compatíveis com Obsidian
-- **StênioDIVE** — Mineração semântica cruzada de wikilinks, tags e notas em grafo interativo; embeddings e busca semântica local
-- **DataVis** — Visualizações climáticas em tempo real (PM2.5, matriz energética, enchentes) com física de partículas
+#### StênioREC — Transcrição em Tempo Real
+<p align="center">
+  <img src="../assets/hub-rec.png" width="600" alt="StênioREC" />
+</p>
+
+Transcrição em tempo real via Whisper large-v3-turbo com VAD, purificação via Gemma 3 (Neural Flow paralelo), exportação Google Docs em modo colaborativo.
+
+#### StênioPANEL — Scanner de Workshops
+<p align="center">
+  <img src="../assets/hub-panel.png" width="600" alt="StênioPANEL" />
+</p>
+
+Scanner de workshops físicos com GroundingDINO + SAM 2 + PaddleOCR, gerando esquemas `.canvas` compatíveis com Obsidian.
+
+#### StênioDIVE — Mineração Semântica
+<p align="center">
+  <img src="../assets/hub-dive.png" width="600" alt="StênioDIVE" />
+</p>
+
+Mineração semântica cruzada de wikilinks, tags e notas em grafo interativo; embeddings e busca semântica local.
+
+#### DataVis — Visualizações Climáticas
+<p align="center">
+  <img src="../assets/hub-datavis.png" width="600" alt="DataVis" />
+</p>
+
+Visualizações climáticas em tempo real (PM2.5, matriz energética, enchentes) com física de partículas.
+
+#### Admin — Gestão da Plataforma
+<p align="center">
+  <img src="../assets/hub-admin.png" width="600" alt="Admin" />
+</p>
+
+Painel administrativo com gestão de organizações, membros, contratos e billing. SaaS com Mercado Pago, OAuth e CMS integrado.
 
 ### Funcionalidades Transversais
 
@@ -65,15 +111,16 @@ Não existe uma plataforma integrada, local, privada e acessível para pesquisa 
 | **Analytics** | Umami (self-hosted, privacy-first) |
 | **Governança** | StênioKernel (21.435 linhas, 132 drivers, 22 módulos kernel) |
 | **Monitoramento** | Grafana · Loki · Promtail |
+| **Ecossistema** | **~8M+ linhas e crescendo** · 1.227+ arquivos · 10 anos |
 
 ---
 
 ## 🏗️ StênioKernel — Kernel de Governança para Agentes de IA
 
-Este é o ativo mais profundo e valioso da Sumaenima. O StênioKernel não é um framework de QA — é um **Kernel proprietário de Governança para Agentes de IA** (construído do zero, sem fork de nenhum projeto open-source) projetado para governar agentes de IA em todo o ciclo de vida do software: código, documentação, infraestrutura e o próprio comportamento dos agentes.
+Este é o ativo mais profundo e valioso da Sumænimá. O StênioKernel não é um framework de QA — é um **Kernel proprietário de Governança para Agentes de IA** (construído do zero, sem fork de nenhum projeto open-source) projetado para governar agentes de IA em todo o ciclo de vida do software: código, documentação, infraestrutura e o próprio comportamento dos agentes.
 
 - **22 módulos de kernel** (scheduler, guardian, healer, docbot, learner, registry, self-test, history, flakiness, classifier, impact, entre outros)
-- **132 drivers de verificação** em 12 domínios (governança, segurança, frontend, infraestrutura, documentação, qualidade de código, deprecação, backend, dados, GPU, API, CMS)
+- **132 drivers de verificação** (governança, segurança, frontend, infraestrutura, documentação, backend, dados, GPU, API, CMS)
 - **21.435 linhas** de Python, zero dependência de frameworks de QA externos
 - **Arquitetura plugin**: auto-descoberta via `CHECK_METADATA` em cada driver, scheduler com ThreadPoolExecutor + asyncio
 
@@ -86,9 +133,9 @@ Este é o ativo mais profundo e valioso da Sumaenima. O StênioKernel não é um
 | 3. **No-Bypass Ops** | `sec_no_bypass` — driver P0 | `rsync+ssh` manual, `docker compose`, `npm run build`, `pg_dump` |
 | 4. **Scope Guard** | `sec_scope_guard` — driver P0 | Runs parciais que escondem falhas (`--only`, `--tag`, `--scope`) |
 | 5. **Imutabilidade do Kernel** | Hashes SHA256 de arquivos críticos | Agentes modificando o próprio kernel |
-| 6. **Integridade das Leis** | Hash SHA256 das 13 Leis do AGENTS.md | Agentes alterando ou removendo regras |
-| 7. **Protocolo de Conhecimento** | ADR-032 — herança de handoff obrigatória | Agentes ignorando contexto de sessões anteriores |
-| 8. **Repetição → Regra** | ADR-034 — promove instruções repetidas | Instruções recorrentes ficando ad-hoc |
+| 6. **Integridade das Leis** | Hash SHA256 das Leis do AGENTS.md | Agentes alterando ou removendo regras |
+| 7. **Protocolo de Conhecimento** | Herança de handoff obrigatória | Agentes ignorando contexto de sessões anteriores |
+| 8. **Repetição → Regra** | Promove instruções repetidas | Instruções recorrentes ficando ad-hoc |
 | 9. **A Teia** | `pm_omniscience` — jurisdição universal | Qualquer arquivo escapando da governança |
 | 10. **Promoção de Warnings** | `__main__.py` promove P0/sec WARN→FAIL | Agentes ignorando warnings críticos |
 | + **Bloqueio de Reassinatura** | Detecção de TTY + chaves de API | Agentes reassinando baselines de segurança |
@@ -117,21 +164,18 @@ O kernel não apenas reporta falhas atuais — ele prevê as futuras:
 
 - **Persistência de histórico** (`.steniocheck-history.json`): armazena resultados em cache, rastreia hashes de arquivos, registra durações
 - **Aprendizado contínuo**: `--learn`, `--learn --interactive`, `--learn-auto` (detecta correções do `git diff`)
-- **Registry**: 40+ padrões de bug curados com `id`, `title`, `pattern`, `fix`, `auto_fix_commands`
+- **Registry**: padrões de bug curados com `id`, `title`, `pattern`, `fix`, `auto_fix_commands`
 - **Sugestões proativas**: `--suggest <fingerprint>` consulta o registry por soluções conhecidas
 - **Knowledge Graph**: indexa `docs/external/` (MD3, Tailwind, MWC, FastAPI), padrões do registry e histórico git para correção por similaridade
 
 ### 📚 Documentação como Produto
 
 - **185 arquivos** de documentação, **~74.000 linhas**
-- **28 Architecture Decision Records (ADRs)** documentando cada decisão arquitetural
-- **17 imperativos de engenharia** (I1-I17) com enforcement automatizado em CI
-- **29 invariantes de negócio** formalmente especificados
 - **DocBot**: baixa automaticamente READMEs do GitHub/GitLab, arquiva docs não utilizadas, reindexa o Knowledge Graph
 
 ### 🔄 Resiliência
 
-- **FMEA vivo**: 54 nós de falha documentados (A-BB) com logging em tempo real (`fmea_events.jsonl`) e auditoria via LLM (`gemma_audit.jsonl`)
+- **FMEA vivo**: nós de falha documentados com logging em tempo real e auditoria via LLM
 - **Audio WAL**: Write-Ahead Log com criptografia AES-GCM 256 + IndexedDB, detecção de falha em 3 camadas, resiliência silenciosa a quedas de rede
 - **Circuit breaker adaptativo** via Valkey para Google Docs, Mercado Pago, OAuth e Umami
 - **Neural Flow**: pipeline dual-stage Whisper (draft sub-500ms) + Gemma (refinamento) com política de tolerância zero a alucinações
@@ -141,7 +185,7 @@ O kernel não apenas reporta falhas atuais — ele prevê as futuras:
 
 O kernel audita a si mesmo:
 - `--blame`: rastreia cada violação até o commit, autor e data específicos via `git blame`
-- `--self-test`: 19 auto-testes validando GC1-GC12, imports dos drivers, formato do registry, Knowledge Graph, tipos de blame, healer, ciclo de histórico
+- `--self-test`: auto-testes validando imports dos drivers, formato do registry, Knowledge Graph, healer, ciclo de histórico
 - `--guardian`: auto-auditoria que detecta desvio de hash, gaps no registry, quedas suspeitas de violações, candidatos canary, degradação de performance, anomalias de timeout
 - `.steniocheck-driver-hashes.json`: sela criptograficamente cada arquivo de driver contra modificação não autorizada
 
@@ -149,7 +193,7 @@ O kernel audita a si mesmo:
 
 ## 🖥️ Infraestrutura — Homelab Mnemocine
 
-O **Homelab Mnemocine** é a infraestrutura da **Sumaenima**. São indistinguíveis — prova de conceito rodando em hardware real, sem dependência de cloud comercial para dados sensíveis.
+O **Homelab Mnemocine** é a infraestrutura da **Sumænimá**. São indistinguíveis — prova de conceito rodando em hardware real, sem dependência de cloud comercial para dados sensíveis.
 
 | Nó | Hardware | Função |
 |----|----------|--------|
@@ -169,17 +213,33 @@ O **Homelab Mnemocine** é a infraestrutura da **Sumaenima**. São indistinguív
 
 ---
 
+## 📊 Escala do Ecossistema
+
+| Métrica | Valor |
+|---------|-------|
+| Linhas de código totais | ~8M+ e crescendo |
+| Arquivos | 1.227+ |
+| Anos de desenvolvimento | 10 |
+| Módulos do StênioKernel | 22 |
+| Drivers de verificação | 132 |
+| Camadas anti-bypass | 10 |
+| Arquivos de documentação | 185 |
+| Containers em produção | 30+ |
+| Nós no Homelab | 4 |
+
+---
+
 ## 👤 Fundador
 
 **Carlos Eduardo Rodrigues** · Antropólogo (UnB), founder, PO e arquiteto do StênioKernel.
 
-Há quase 10 anos combinando pesquisa etnográfica, tecnologia e dados — com a Sumaenima como fio condutor. Construiu a **Plataforma Tô no Mapa** (integrada ao MPF) enquanto estava no ISPN. Projetou o **StênioKernel** — um Kernel proprietário de Governança para Agentes de IA que governa todos os agentes de IA do projeto através de 10 camadas de segurança, auto-healing, integridade criptográfica e governança preditiva. Viveu na pele o potencial transformador da tecnologia no socioambiental — e também o burnout de usar comunicação a serviço de terceiros.
+Há quase 10 anos combinando pesquisa etnográfica, tecnologia e dados — com a Sumænimá como fio condutor. Construiu a **Plataforma Tô no Mapa** (integrada ao MPF) enquanto estava no ISPN. Projetou o **StênioKernel** — um Kernel proprietário de Governança para Agentes de IA que governa todos os agentes de IA do projeto através de 10 camadas de segurança, auto-healing, integridade criptográfica e governança preditiva. Viveu na pele o potencial transformador da tecnologia no socioambiental — e também o burnout de usar comunicação a serviço de terceiros.
 
-Sua pesquisa de campo na **Fazenda Canadá** (Cavalcante-GO) o conectou com **André Aquino** (Lead Environmental Specialist, World Bank) e **Daniel** (diplomata, Itamaraty), proprietários da **Reserva Natural Veredas dos Buritis** — dentro da área do seu TCC. Trabalhou com eles na **Rede de Monitoria Participativa da Fauna**. Essa experiência definiu seu olhar híbrido.
+Sua pesquisa de campo na **Fazenda Canadá** (Cavalcante-GO) o conectou com **André Aquino** (Lead Environmental Specialist, World Bank) e **Daniel Ferreira** (diplomata, Itamaraty), proprietários da **Reserva Natural Veredas dos Buritis** — dentro da área do seu TCC. Trabalhou com eles na **Rede de Monitoria Participativa da Fauna**. Essa experiência definiu seu olhar híbrido.
 
 **Monografia:** *"Uma Assemblage de Projetos de Vida"* (UnB, 2023). **Coautor** em Land Use Policy (Elsevier, 2026). **Prêmio Mercosul** de Jornalismo Científico. Documentarista ("RUA PARA QUE(M)?"). Arquiteto do **Homelab Mnemocine** e do **StênioKernel**.
 
-**Mestrado em Antropologia (interrompido):** largou para se dedicar a dados, design de produto e arquitetura de sistemas.
+**Mestrado em Antropologia:** optou por sair para se dedicar a dados, design de produto e arquitetura de sistemas.
 
 Híbrido por natureza — capaz de traduzir necessidades de pesquisa qualitativa em requisitos de sistema, e arquitetura técnica em impacto socioambiental. Alguém que constrói os sistemas de governança que tornam agentes de IA confiáveis, auditáveis e responsáveis.
 
@@ -196,4 +256,4 @@ Híbrido por natureza — capaz de traduzir necessidades de pesquisa qualitativa
 ---
 
 **Contato:** [ceduardorodrig@gmail.com](mailto:ceduardorodrig@gmail.com) · +55 (61) 9-9803-3546
-**Sumaenima:** [sumaenima.chimaera-heptatonic.ts.net](https://sumaenima.chimaera-heptatonic.ts.net)
+**Sumænimá:** [sumaenima.chimaera-heptatonic.ts.net](https://sumaenima.chimaera-heptatonic.ts.net)

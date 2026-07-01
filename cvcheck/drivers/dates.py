@@ -37,14 +37,14 @@ def check() -> CheckResult:
             stripped = line.strip()
 
             # IPAM
-            if "IPAM" in stripped and stripped.startswith("###"):
+            if "IPAM" in stripped and stripped.startswith("##"):
                 if i + 1 < len(lines):
                     m = re.search(r"\*(\d{4})\s*[–-]\s*(\d{4})", lines[i + 1])
                     if m and (m.group(1) != "2022" or m.group(2) != "2025"):
                         details.append(f"{f}: IPAM deve ser 2022–2025 (encontrado {m.group(1)}–{m.group(2)})")
 
             # ISPN
-            if "ISPN" in stripped and stripped.startswith("###") and "ISPN" not in stripped.split("##")[-1].split("—")[-1] if True else True:
+            if "ISPN" in stripped and stripped.startswith("##"):
                 if i + 1 < len(lines):
                     m = re.search(r"\*(\d{4})\s*[–-]\s*(\d{4})", lines[i + 1])
                     if m and (m.group(1) != "2017" or m.group(2) != "2021"):
@@ -61,7 +61,7 @@ def check() -> CheckResult:
                         break
 
             # Rede de Monitoria
-            if ("Rede de Monitoria" in stripped or "Monitoring Network" in stripped) and stripped.startswith("###"):
+            if ("Rede de Monitoria" in stripped or "Monitoring Network" in stripped) and stripped.startswith("##"):
                 date_next = re.search(r"(\d{4})\s*[–-]\s*(\d{4})", lines[i + 1] if i + 1 < len(lines) else "")
                 if date_next and (date_next.group(1) != "2020" or date_next.group(2) != "2022"):
                     details.append(f"{f}: Rede de Monitoria deve ser 2020–2022 (encontrado {date_next.group(1)}–{date_next.group(2)})")

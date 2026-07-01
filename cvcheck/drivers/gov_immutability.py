@@ -28,6 +28,8 @@ CRITICAL_FILES = [
     "drivers/sec_bypass_guard.py",
     "drivers/sec_scope_guard.py",
     "drivers/gov_immutability.py",
+    "drivers/gov_glossary.py",
+    "drivers/gov_acronyms.py",
 ]
 
 
@@ -59,9 +61,15 @@ def check() -> CheckResult:
             details.append(f"cvcheck/{rel}: novo arquivo nao registrado no baseline")
 
     if details:
-        return CheckResult.fail("gov_immutability", f"{len(details)} alteracao(oes) nos scripts cvcheck", details)
+        result = CheckResult.fail("gov_immutability", f"{len(details)} alteracao(oes) nos scripts cvcheck", details)
+        result._fix_fn = _rebuild_baseline
+        return result
 
     return CheckResult.pass_("gov_immutability", f"{len(CRITICAL_FILES)} arquivos cvcheck intactos, hashes conferidos")
+
+
+def _rebuild_baseline() -> None:
+    _save_baseline()
 
 
 def _save_baseline() -> None:

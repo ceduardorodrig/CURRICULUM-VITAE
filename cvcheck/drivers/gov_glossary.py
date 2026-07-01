@@ -24,8 +24,8 @@ FILES = [
 
 # (regex pattern, correct form, case_insensitive)
 BANNED_TERMS = [
-    # ── Sumaenima / StênioBOT ────────────────────────────────────────
-    (r"\bSumaenima\b", "Sumaenima", True),
+    # ── Sumænimá / StênioBOT ─────────────────────────────────────────
+    (r"\bSumaenima\b", "Sumænimá", True),
     (r"\bStenio[Bb]ot\b", "StênioBOT", False),
     (r"\bStênio[Bb]ot\b", "StênioBOT", False),
     (r"\bStenioBOT\b", "StênioBOT", False),
@@ -87,7 +87,7 @@ def check() -> CheckResult:
                 end = min(len(content), match.end() + 10)
                 context = content[start:end]
 
-                if "http" in context or "github.com" in context or "tailscale" in context or "mailto" in context or "chimaera" in context or "/03-" in context or "/03." in context or ".md" in context:
+                if "http" in context or "github.com" in context or "tailscale" in context or "mailto" in context or "chimaera" in context or "/03-" in context or "/03." in context or ".md" in context or ".svg" in context or "/assets/" in context:
                     continue
 
                 if matched == correct:

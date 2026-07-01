@@ -26,13 +26,13 @@ KNOWN_MAPPINGS = {
     "Habilidades": "Skills",
     "Publicações": "Publications",
     "Idiomas": "Languages",
-    "Infraestrutura — Sumaenima & Mnemocine": "Infrastructure — Sumaenima & Mnemocine",
+    "Infraestrutura — Sumænimá & Mnemocine": "Infrastructure — Sumænimá & Mnemocine",
     "Prêmios": "Awards",
 }
 
 
 def _strip_emoji(name: str) -> str:
-    return re.sub(r"[^\w\s/–—\-&]", "", name).strip()
+    return re.sub(r"[^\w\s/–—\-&\u00C0-\u024F]", "", name).strip()
 
 
 def check() -> CheckResult:

@@ -16,12 +16,12 @@ Arquiteto de dados e produto que constrói pontes entre tecnologia open-source e
 
 ## 💼 Experiência
 
-### 🚀 Sumaenima — Fundador & Product Owner
+### 🚀 Sumænimá — Fundador & Product Owner
 *2016 — presente · Brasília-DF / Remoto*
 
-Sumaenima é meu projeto de vida. Existe há quase 10 anos como entidade criativa independente, atravessando toda minha carreira em paralelo aos empregos formais. O que me mantém é o sonho de um dia captar recursos para ter equipe e construir um **Bureau de Dados** com alma antropológica.
+Sumænimá é meu projeto de vida. Existe há quase 10 anos como entidade criativa independente, atravessando toda minha carreira em paralelo aos empregos formais. O que me mantém é o sonho de um dia captar recursos para ter equipe e construir um **Bureau de Dados** com alma antropológica.
 
-**StênioBOT** (2024–presente): plataforma de etnografia assistida por IA com inferência 100% local. Quatro módulos:
+**StênioBOT** (2024–presente): plataforma de captura de dados assistida por IA com inferência 100% local. Quatro módulos:
 
 - **StênioREC**: transcrição em tempo real (Whisper large-v3-turbo) com VAD, purificação via Gemma 3 e exportação Google Docs
 - **StênioPANEL**: scanner de workshops com visão computacional (GroundingDINO + SAM 2 + PaddleOCR)
@@ -31,32 +31,19 @@ Sumaenima é meu projeto de vida. Existe há quase 10 anos como entidade criativ
 Stack: FastAPI (async) + React 19 + TypeScript 6 + PostgreSQL 16 + Valkey 8 + Docker Swarm (3 nós). SaaS com Mercado Pago, Google OAuth, Grafana/Loki. 100% offline, privado, LGPD.
 
 **StênioKernel — Kernel de Governança para Agentes de IA:**
-- Kernel proprietário (21.435 linhas, 22 módulos kernel, 132 drivers) governando todos os agentes de IA do projeto
-- Arquitetura anti-bypass em 10 camadas: pre-commit gates, bypass guard, scope guard, imutabilidade do kernel, leis de agentes com assinatura criptográfica (13 Leis Absolutas), protocolo de conhecimento (ADR-032), repetição→regra (ADR-034), jurisdição universal ("A Teia"), promoção WARN→FAIL, bloqueio de reassinatura automatizado
+- Kernel proprietário (21.435 linhas, 22 módulos kernel, 132 drivers) governando todos os agentes de IA do projeto. Ecossistema total: **~8M+ linhas e crescendo**, 1.227+ arquivos, 10 anos de desenvolvimento
+- Arquitetura anti-bypass em 10 camadas: pre-commit gates, bypass guard, scope guard, imutabilidade do kernel, leis de agentes com assinatura criptográfica, protocolo de conhecimento, repetição→regra, jurisdição universal ("A Teia"), promoção WARN→FAIL, bloqueio de reassinatura automatizado
 - Auto-healing com negative registry, Knowledge Graph, auto-commit em correções bem-sucedidas
 - Governança preditiva: detecção de tendências via regressão linear, auto-suppress, detecção de flakiness, promoção de canary
-- Memória e aprendizado: persistência de histórico, aprendizado contínuo (`--learn`), 40+ padrões de bug com auto-fix commands, sugestões proativas
-- Ecossistema de documentação: 185 arquivos, 28 ADRs, 17 imperativos, 29 invariantes, DocBot
-- FMEA vivo (54 nós), Audio WAL (AES-GCM 256), Neural Flow, circuit breaker adaptativo
+- Memória e aprendizado: persistência de histórico, aprendizado contínuo (`--learn`), padrões de bug com auto-fix commands, sugestões proativas
+- Ecossistema de documentação: 185 arquivos, DocBot
+- FMEA vivo, Audio WAL, Neural Flow, circuit breaker adaptativo
 
 **Relatoria & Sistematização de Dados** (paralelo à StênioBOT):
 - Consultor independente em relatoria, sistematização de dados e planejamento estratégico
-- Relatoria do **3º Encontro Nacional da Juventude das Populações Extrativistas e Tradicionais** — Semana da Sociobiodiversidade 2025 (IEB/CNS/MCM/CONFREM)
+- Relatoria do **3º Encontro Nacional da Juventude das Populações Extrativistas e Tradicionais** — Semana da Sociobiodiversidade 2025 (IEB/CNS/MCM/CONFREM). Realizada com **Stênio v1** — primeira versão operacional da plataforma em produção
 - Relatoria do **Módulo II — "Formar Protagonistas"** (IEB/APAFE/Rainforest Trust): imersão de 39 lideranças da FLONA de Tefé em Brasília
 - **Planejamento Estratégico do IPEA** (2026) — relatoria e sistematização
-- Pipeline de extração e visualização de **linhas do tempo contratadas pelo IEB**
-
-### 🌳 IPAM — Instituto de Pesquisa Ambiental da Amazônia
-*2022 — 2025 · Brasília-DF*
-
-**Analista de Comunicação** (2024–2025) · **Assistente de Comunicação** (2023–2024) · **Estagiário** (2022–2023)
-
-- Implementei Agile/Scrum como Scrum Master na equipe de comunicação, estruturando sprints, rituais e métricas de entrega
-- Gerenciei dados de audiência de 5 redes sociais: **2+ milhões de usuários** alcançados
-- Administrei Google Ad Grants (US$ 10K/mês) e Meta Ads com segmentação, testes A/B e otimização contínua
-- Codiretor do documentário **"Manaus Extrema"** (estreia no INPA / PROTEJA Talks 2024)
-- **Prêmio Mercosul de Jornalismo e Divulgação Científica — 1º lugar, categoria Redes Sociais** (2024)
-- Presidi a CIPA por dois mandatos
 
 ### 🗺️ ISPN — Instituto Sociedade, População e Natureza
 *2017 — 2021 · Brasília-DF*
@@ -73,7 +60,19 @@ Stack: FastAPI (async) + React 19 + TypeScript 6 + PostgreSQL 16 + Valkey 8 + Do
 
 **Especialista em Comunicação**
 
-Trabalhei diretamente com **André Rodrigues de Aquino** (Lead Environmental Specialist do World Bank, então gerente sênior de recursos naturais) e **Daniel** (diplomata do Itamaraty), proprietários da **Reserva Natural Veredas dos Buritis** — que fica **dentro** da Fazenda Canadá, área do meu TCC. Apoiei a facilitação da reunião inaugural da Rede de Monitoria, que buscava criar um corredor ecológico entre o Parque Nacional da Chapada dos Veadeiros e o Sítio Histórico Kalunga, reunindo ICMBio, UnB, ONGs e proprietários rurais. Produzi relatório executivo completo (concepção, redação, fotografia, diagramação).
+Trabalhei diretamente com **André Rodrigues de Aquino** (Lead Environmental Specialist do World Bank, então gerente sênior de recursos naturais) e **Daniel Ferreira** (diplomata do Itamaraty), proprietários da **Reserva Natural Veredas dos Buritis** — que fica **dentro** da Fazenda Canadá, área do meu TCC. Apoiei a facilitação da reunião inaugural da Rede de Monitoria, que buscava criar um corredor ecológico entre o Parque Nacional da Chapada dos Veadeiros e o Sítio Histórico Kalunga, reunindo ICMBio, UnB, ONGs e proprietários rurais. Produzi relatório executivo completo (concepção, redação, fotografia, diagramação).
+
+### 🌳 IPAM — Instituto de Pesquisa Ambiental da Amazônia
+*2022 — 2025 · Brasília-DF*
+
+**Analista de Comunicação** (2024–2025) · **Assistente de Comunicação** (2023–2024) · **Estagiário** (2022–2023)
+
+- Implementei Agile/Scrum como Scrum Master na equipe de comunicação, estruturando sprints, rituais e métricas de entrega
+- Gerenciei dados de audiência de 5 redes sociais: **2+ milhões de usuários** alcançados
+- Administrei Google Ad Grants (US$ 10K/mês) e Meta Ads com segmentação, testes A/B e otimização contínua
+- Codiretor do documentário **"Manaus Extrema"** (estreia no INPA / PROTEJA Talks 2024)
+- **Prêmio Mercosul de Jornalismo e Divulgação Científica — 1º lugar, categoria Redes Sociais** (2024)
+- Presidi a CIPA por dois mandatos
 
 ---
 
@@ -83,14 +82,14 @@ Trabalhei diretamente com **André Rodrigues de Aquino** (Lead Environmental Spe
 
 - **Monografia:** *"Uma Assemblage de Projetos de Vida: mudanças organizacionais na Fazenda Canadá, Cavalcante-GO"* (2023). Orientação: Prof. Henyo Trindade Barretto Filho. Etnografia sobre o fracionamento de terras, memória e projetos de vida na Chapada dos Veadeiros. A pesquisa de campo foi realizada na mesma região onde ficam a Reserva Veredas dos Buritis e a Rede de Monitoria — tudo interligado.
 
-**Mestrado em Antropologia (interrompido)** — Universidade de Brasília (2024–2025)
-Dois semestres concluídos, interrompido por greve. Escolhi abandonar o mestrado para me dedicar integralmente a dados, design de produto e arquitetura de sistemas. Esta decisão definiu minha transição de carreira.
+**Mestrado em Antropologia** — Universidade de Brasília (2024–2025)
+Dois semestres concluídos. Escolhi sair do mestrado para me dedicar integralmente a dados, design de produto e arquitetura de sistemas. Esta decisão definiu minha transição de carreira.
 
 ---
 
-## 📡 Infraestrutura — Sumaenima & Mnemocine
+## 📡 Infraestrutura — Sumænimá & Mnemocine
 
-O **Homelab Mnemocine** é a infraestrutura da **Sumaenima**. São indistinguíveis — um cluster multi-nó orquestrado via Docker Swarm que provê serviços de IA, banco, cache, DNS, monitoramento e borda web.
+O **Homelab Mnemocine** é a infraestrutura da **Sumænimá**. São indistinguíveis — um cluster multi-nó orquestrado via Docker Swarm que provê serviços de IA, banco, cache, DNS, monitoramento e borda web.
 
 | Nó | Hardware | Papel |
 |----|----------|-------|
@@ -111,7 +110,7 @@ O **Homelab Mnemocine** é a infraestrutura da **Sumaenima**. São indistinguív
 ## 📚 Publicações
 
 - **Coautor** — Moser, P. et al. *"Institutional Invisibility Threatens the Lands and Livelihoods of Traditional Communities in the Northern Brazilian Cerrado"* — Submetido a **Land Use Policy** (Elsevier, 2026). A pesquisa de campo que fundamenta o artigo foi realizada durante minha graduação em Antropologia na UnB.
-- **Documentário** — *RUA PARA QUE(M)?* (85min, 2020) — Direção, fotografia, edição. Etnografia visual do movimento neo-fanfarrista de Brasília. Publicado pela Sumaenima.
+- **Documentário** — *RUA PARA QUE(M)?* (85min, 2020) — Direção, fotografia, edição. Etnografia visual do movimento neo-fanfarrista de Brasília. Publicado pela Sumænimá.
 - **Documentário** — *Manaus Extrema* (2024) — Codireção. Mudanças climáticas na Amazônia urbana. Estreia no INPA / PROTEJA Talks 2024.
 
 ---
