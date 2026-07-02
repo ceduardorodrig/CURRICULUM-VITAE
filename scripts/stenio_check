@@ -1,0 +1,32 @@
+#!/bin/bash
+# StênioKernel — Ponto de entrada para validação de currículos.
+# Substitui o antigo cvcheck. Chama o kernel unificado com perfil resume.
+#
+# Uso: ./scripts/stenio_check [--fix] [--self-test] [--list]
+
+STENIO_DIR="/mnt/NVME_PCI/sumaenimahub/SUMAENIMA-HUB/scripts"
+export PYTHONPATH="$STENIO_DIR:$PYTHONPATH"
+
+CMD="$1"
+shift 2>/dev/null || true
+
+case "$CMD" in
+    --self-test)
+        python3 -m steniocheck --self-test "$@"
+        ;;
+    --fix)
+        python3 -m steniocheck --fix --tag resume "$@"
+        ;;
+    --list)
+        python3 -m steniocheck --tag resume "$@" 2>&1 | grep -E '(resume_|passed|failed)'
+        ;;
+    --health)
+        python3 -m steniocheck --health "$@"
+        ;;
+    "")
+        python3 -m steniocheck --tag resume "$@"
+        ;;
+    *)
+        python3 -m steniocheck "$CMD" "$@"
+        ;;
+esac

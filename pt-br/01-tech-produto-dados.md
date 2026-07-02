@@ -106,7 +106,7 @@ O **Homelab Mnemocine** é a infraestrutura da **Sumænimá**. São indistinguí
 | Nó | Hardware | Papel |
 |----|----------|-------|
 | **psicopompo** 🧠 | Dell Frankenstein · Xeon E-2246G 6C/12T · RTX 5050 · 46GB RAM · CachyOS (Arch) | Core — IA, banco, Swarm manager. **Dados sensíveis ficam aqui.** |
-| **ybyra** 🌐 | Oracle Cloud · 1GB RAM | Edge primário — nginx, SPA frontend, Umami analytics |
+| **ybyra** 🌐 | Oracle Cloud · 1GB RAM | Edge primário — nginx, SPA front-end, Umami analytics |
 | **ybytu** ☁️ | Oracle Cloud · 1GB RAM | DNS (AdGuard), dashboard Homepage, sincronização Syncthing |
 | **kuaray** ♻️ | Dell notebook reaproveitado · i5-4200U · 6GB RAM · Linux Mint | Edge standby — failover warm + multimídia |
 
@@ -133,7 +133,7 @@ O **Homelab Mnemocine** é a infraestrutura da **Sumænimá**. São indistinguí
 | Categoria | Tecnologias |
 |-----------|-------------|
 | **Backend** | FastAPI, Python, SQLAlchemy, asyncpg, REST APIs, WebSockets |
-| **Frontend** | React, TypeScript, Vite, Tailwind, Material Web Components |
+| **Front-end** | React, TypeScript, Vite, Tailwind, Material Web Components |
 | **Banco de Dados** | PostgreSQL, Alembic, SQL, modelagem de dados |
 | **Infraestrutura** | Docker Swarm, Nginx, Tailscale, Linux (Arch), GPU passthrough |
 | **AI/ML** | Whisper (transcrição), LLMs (Gemma), GroundingDINO, SAM 2, embeddings |

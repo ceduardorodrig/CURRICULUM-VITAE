@@ -18,8 +18,8 @@ Ao modificar qualquer arquivo deste repositório, siga estas regras obrigatoriam
 
 ## ✅ Verificação Obrigatória
 
-6. **Rode `python -m cvcheck` antes de todo commit** — a verificação cobre ortografia (PT e EN), estrutura, links, datas, consistência bilíngue, imutabilidade do kernel e auto-auditoria. Nunca commite sem rodar.
+6. **Rode `./scripts/stenio_check` antes de todo commit** — a verificação cobre ortografia (PT e EN), estrutura, links, datas, consistência bilíngue, paridade PT↔EN. A validação é feita pelo StênioKernel unificado (`python -m steniocheck --tag resume`). Nunca commite sem rodar.
 
-7. **Nunca edite arquivos em `cvcheck/` sem atualizar hashes** — se precisar modificar drivers do cvcheck, execute `python -m cvcheck --fix` depois para reconstruir o baseline de hashes.
+7. **O cvcheck foi substituído** — o diretório `cvcheck/` foi removido. O kernel unificado está em `/mnt/NVME_PCI/sumaenimahub/SUMAENIMA-HUB/scripts/steniocheck/`. Use `./scripts/stenio_check` que chama o kernel com o perfil `resume`. Não edite drivers do steniocheck sem seguir o onboarding (Lei 16 do AGENTS.md do kernel).
 
 8. **README como fonte da verdade narrativa** — a seção "Narrativa" é o único lugar onde a história é contada de forma contínua. Os CVs são versões recortadas para públicos específicos. Se uma informação nova for adicionada a um CV, verifique se ela merece um lugar na narrativa do README.

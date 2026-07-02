@@ -158,7 +158,7 @@ Painel central de administração da plataforma: métricas, usuários, contatos,
 | Camada | Tecnologia |
 |--------|-----------|
 | **Backend** | FastAPI (async) · Python 3.12+ · SQLAlchemy 2.0 (asyncpg) |
-| **Frontend** | React 19 · Vite 8 · TypeScript 6 · Material Web Components (MD3) · Tailwind |
+| **Front-end** | React 19 · Vite 8 · TypeScript 6 · Material Web Components (MD3) · Tailwind |
 | **Banco** | PostgreSQL 16 · Alembic (migrations) |
 | **Cache/Queue** | Valkey 8 (Redis-compatível) · Streams, Pub/Sub, arq job queues |
 | **AI Áudio** | Whisper large-v3-turbo (transformers/PyTorch) · Gemma 3 (1B) |
@@ -178,7 +178,7 @@ Painel central de administração da plataforma: métricas, usuários, contatos,
 Este é o ativo mais profundo e valioso da Sumænimá. O StênioKernel não é um framework de QA — é um **Kernel proprietário de Governança para Agentes de IA** (construído sobre ecossistema open-source — Python, FastAPI, Pydantic, Typer — com arquitetura original e código proprietário) projetado para governar agentes de IA em todo o ciclo de vida do software: código, documentação, infraestrutura e o próprio comportamento dos agentes.
 
 - **22 módulos de kernel** (scheduler, guardian, healer, docbot, learner, registry, self-test, history, flakiness, classifier, impact, entre outros)
-- **132 drivers de verificação** (governança, segurança, frontend, infraestrutura, documentação, backend, dados, GPU, API, CMS)
+- **132 drivers de verificação** (governança, segurança, front-end, infraestrutura, documentação, backend, dados, GPU, API, CMS)
 - **21.435 linhas** de Python, zero dependência de frameworks de QA externos
 - **Arquitetura plugin**: auto-descoberta via `CHECK_METADATA` em cada driver, scheduler com ThreadPoolExecutor + asyncio
 
@@ -256,7 +256,7 @@ O **Homelab Mnemocine** é a infraestrutura da **Sumænimá**. São indistinguí
 | Nó | Hardware | Função |
 |----|----------|--------|
 | **psicopompo** 🧠 | Dell Frankenstein · Xeon E-2246G 6C/12T · RTX 5050 · 46GB RAM · CachyOS (Arch) | Core — Workers IA, PostgreSQL, Valkey, API. **Dados sensíveis.** |
-| **ybyra** 🌐 | Oracle Cloud · 1GB RAM | Edge primário — nginx, SPA frontend, Umami |
+| **ybyra** 🌐 | Oracle Cloud · 1GB RAM | Edge primário — nginx, SPA front-end, Umami |
 | **ybytu** ☁️ | Oracle Cloud · 1GB RAM | DNS (AdGuard), dashboard (Homepage), Syncthing |
 | **kuaray** ♻️ | Dell notebook reaproveitado · i5-4200U · 6GB RAM · Linux Mint | Edge standby — failover warm + multimídia |
 
