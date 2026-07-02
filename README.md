@@ -201,8 +201,6 @@ Em 2024, comecei a construir o **StênioBOT** — a plataforma de captura de dad
 
 Desde 2025, acompanho como relator as reuniões do **CNPCT** (Conselho Nacional dos Povos e Comunidades Tradicionais). Em março de 2026, o **StênioREC** esteve no **Palácio do Planalto** capturando em tempo real a devolutiva do **Decreto de Regularização Fundiária** na 22ª Reunião Ordinária do CNPCT — validação em instância máxima de governo, com a fala de abertura da Ministra **Marina Silva**.
 
-Em paralelo, construí o **Homelab Mnemocine**: 4 servidores (incluindo um Dell Frankenstein com Arch Linux (I Use Arch BTW) e RTX 5050 e um notebook velho reaproveitado), orquestrados em Docker Swarm com Tailscale, porque acredito que tecnologia útil não se descarta — e que é possível fazer IA de ponta com dependência mínima de nuvem.
-
 Em paralelo, escrevi para o **JOTA** o artigo *"Doenças são sintomas de uma crise cultural e ambiental"*, sobre a relação entre crise climática e saúde pública pela perspectiva dos Povos e Comunidades Tradicionais.
 
 Em paralelo, construí o **Homelab Mnemocine**: 4 servidores (incluindo um Dell Frankenstein com Arch Linux (I Use Arch BTW) e RTX 5050 e um notebook velho reaproveitado), orquestrados em Docker Swarm com Tailscale, porque acredito que tecnologia útil não se descarta — e que é possível fazer IA de ponta com dependência mínima de nuvem.

@@ -55,7 +55,7 @@ Liderança digital de um dos principais institutos de pesquisa climática do Bra
 - **+143,3%** Facebook, **+100%** Instagram, **2+ milhões** de alcance, **66,7K** interações
 - Prêmio Mercosul de Jornalismo e Divulgação Científica — **1º lugar, Redes Sociais** (2024)
 - Codiretor do documentário **"Manaus Extrema"** — publicado pelo IPAM
-- **SOMUC** (Sistema de Observação e Monitoramento de Unidades de Conservação): apoio à organização e comunicação institucional de evento na UFAC sobre monitoramento de UCs na Amazônia, com servidores do órgão gestor de UC e pesquisadores
+- **SOMUC** (Sistema de Observação e Monitoramento de Unidades de Conservação): apoio à organização e comunicação institucional de evento na UFAC sobre monitoramento de UCs na Amazônia, com servidores do ICMBio e pesquisadores
 - Implementação de Agile/Scrum como Scrum Master
 - Gestão de Google Ad Grants (US$ 10K/mês) e Meta Ads
 
