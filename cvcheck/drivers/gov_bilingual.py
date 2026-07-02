@@ -39,6 +39,8 @@ KNOWN_MAPPINGS = {
     "Próximos Passos": "Next Steps",
     "StênioKernel — Kernel de Governança para Agentes de IA": "StênioKernel — AI Agent Governance Kernel",
     "Infraestrutura — Homelab Mnemocine": "Infrastructure — Mnemocine Homelab",
+    "Stack Tecnológica": "Tech Stack",
+    "Overview": "Visão Geral",
 }
 
 REVERSE_MAPPINGS = {v: k for k, v in KNOWN_MAPPINGS.items()}

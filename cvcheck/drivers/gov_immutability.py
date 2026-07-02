@@ -35,6 +35,7 @@ CRITICAL_FILES = [
     "drivers/gov_consistency.py",
     "drivers/gov_image_assets.py",
     "drivers/gov_orphan_lines.py",
+    "drivers/gov_toc.py",
 ]
 
 
