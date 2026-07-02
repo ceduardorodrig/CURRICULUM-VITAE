@@ -15,7 +15,7 @@ CVROOT = Path(__file__).resolve().parents[2]
 FILES = [
     "pt-br/01-tech-produto-dados.md",
     "pt-br/02-socioambiental-tech.md",
-    "pt-br/02-socioambiental-icmbio.md",
+    "pt-br/02-socioambiental-nichado.md",
     "pt-br/03-sumaenima.md",
     "en-us/01-tech-product-data.md",
     "en-us/02-socioenvironmental-tech.md",

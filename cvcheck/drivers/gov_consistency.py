@@ -62,13 +62,13 @@ def check() -> CheckResult:
                 "foram. Considere atualizar a secao Narrativa do README."
             )
 
-    icmbio_path = str(CVROOT / "pt-br" / "02-socioambiental-icmbio.md")
+    icmbio_path = str(CVROOT / "pt-br" / "02-socioambiental-nichado.md")
     socio_path = str(CVROOT / "pt-br" / "02-socioambiental-tech.md")
 
     if socio_path in modified_set and icmbio_path not in modified_set:
         details.append(
-            "02-socioambiental-tech.md foi modificado, mas 02-socioambiental-icmbio.md "
-            "(sub-versao ICMBio) nao. Se a mudanca for relevante para o perfil ICMBio, atualize a sub-versao."
+            "02-socioambiental-tech.md foi modificado, mas 02-socioambiental-nichado.md "
+            "(sub-versao) nao. Se a mudanca for relevante, atualize a sub-versao."
         )
 
     if details:
