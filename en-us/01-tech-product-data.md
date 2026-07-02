@@ -121,7 +121,7 @@ The **Mnemocine Homelab** is the **Sumænimá** infrastructure. They are indisti
 
 ## 📚 Publications
 
-- **Co-author** — Moser, P. et al. *"Institutional Invisibility Threatens the Lands and Livelihoods of Traditional Communities in the Northern Brazilian Cerrado"* — Submitted to **Land Use Policy** (Elsevier, 2026). Field research conducted during undergraduate studies in Anthropology at UnB.
+- **Co-author** — Moser, P.; de Castro Silva, I.; Benedetti Figueiredo, I.; Favilla, K.; Bustamante, M.; Macedo, M.N.; de Araújo, R.F.; Shimbo, J.Z.; Varela, V.; **Rodrigues, C.E.**; Alencar, A.A. *"Institutional Invisibility Threatens the Lands and Livelihoods of Traditional Communities in the Northern Brazilian Cerrado"* — Submitted to **Land Use Policy** (Elsevier, 2026). Field research conducted during undergraduate studies in Anthropology at UnB.
 - **Article** — Rodrigues, C.E. *"Doenças são sintomas de uma crise cultural e ambiental"* — JOTA, Em Clima de Justiça (2026). [Read](https://www.jota.info/opiniao-e-analise/colunas/em-clima-de-justica/doencas-sao-sintomas-de-uma-crise-cultural-e-ambiental)
 - **Documentary** — *RUA PARA QUE(M)?* (85min, 2020) — Direction, photography, editing. Visual ethnography of Brasília's neo-fanfarre movement. Published by Sumænimá.
 - **Documentary** — *Manaus Extrema* (2024) — Co-direction. Climate change in urban Amazonia. Published by IPAM. Premiered at INPA / 2024 PROTEJA Talks.

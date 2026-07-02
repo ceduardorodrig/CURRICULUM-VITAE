@@ -201,8 +201,6 @@ Em 2024, comecei a construir o **StênioBOT** — a plataforma de captura de dad
 
 Desde 2025, acompanho como relator as reuniões do **CNPCT** (Conselho Nacional dos Povos e Comunidades Tradicionais). Em março de 2026, o **StênioREC** esteve no **Palácio do Planalto** capturando em tempo real a devolutiva do **Decreto de Regularização Fundiária** na 22ª Reunião Ordinária do CNPCT — validação em instância máxima de governo, com a fala de abertura da Ministra **Marina Silva**.
 
-Também escrevi para o **JOTA** o artigo *"Doenças são sintomas de uma crise cultural e ambiental"*, sobre a relação entre crise climática e saúde pública pela perspectiva dos Povos e Comunidades Tradicionais.
-
 Em paralelo, construí o **Homelab Mnemocine**: 4 servidores (incluindo um Dell Frankenstein com Arch Linux (I Use Arch BTW) e RTX 5050 e um notebook velho reaproveitado), orquestrados em Docker Swarm com Tailscale, porque acredito que tecnologia útil não se descarta — e que é possível fazer IA de ponta com dependência mínima de nuvem.
 
 Mas o trabalho mais profundo é invisível: o **StênioKernel** — um Kernel proprietário de Governança para Agentes de IA (21.435 linhas, 132 drivers, 10 camadas anti-bypass) que governa todos os agentes de IA trabalhando na Sumænimá. Ele aplica criptograficamente regras de governança, tenta corrigir violações automaticamente com rollback e é projetado para impedir que agentes burlem a governança. É o sistema operacional que torna a IA confiável, auditável e responsável.
@@ -222,8 +220,6 @@ At [**IPAM**](https://ipam.org.br/pt/) (2022–2025), I went from intern to anal
 The turning point came in 2024, when I started building **StênioBOT** — the local-AI data capture platform under [**Sumænimá**](https://sumaenima.chimaera-heptatonic.ts.net), my life project that had already existed as an independent creative entity since 2016. I brought everything together: anthropology, data, technology. Sensitive community data shouldn't depend on big tech. That's the thesis.
 
 Since 2025, I have been following and reporting on the **CNPCT** (National Council of Traditional Peoples and Communities) meetings. In March 2026, **StênioREC** was at the **Palácio do Planalto** capturing in real time the **Land Regularization Decree** hearing at the 22nd Ordinary Meeting of the **CNPCT** — validation at the highest level of government, including the opening speech by Minister **Marina Silva**.
-
-I also wrote for **JOTA** the article *"Doenças são sintomas de uma crise cultural e ambiental"*, on the link between climate crisis and public health through the lens of Traditional Peoples and Communities.
 
 In parallel, I built the **Mnemocine Homelab**: 4 servers (including a Dell Frankenstein running Arch Linux (I Use Arch BTW) with an RTX 5050 and a repurposed old laptop), orchestrated with Docker Swarm and Tailscale — because useful technology shouldn't be discarded, and because cutting-edge AI can work with minimal cloud dependency.
 
@@ -249,6 +245,22 @@ Today I'm a **hybrid**: data and product architect with an anthropologist's soul
 | **2025** · Oficina Florestas Públicas com IPAM [Santarém \| PA] | **2025** · Formar Protagonistas da FLONA de Tefé no Congresso Nacional [Brasília \| DF] |
 | <img src="assets/foto-formar-protagonistas-flona-grupo-2025.jpg" width="370" /> | <img src="assets/foto-cnpct-planalto.jpg" width="370" /> |
 | **2025** · Cursistas do Formar Protagonistas da FLONA de Tefé [Brasília \| DF] | **2026** · Reunião do Conselho Nacional dos Povos e Comunidades Tradicionais com a Casa Civil do Governo Federal — Palácio do Planalto [Brasília \| DF] |
+
+---
+
+## 📚 Publicações / Publications
+
+**Coautor** — Moser, P.; de Castro Silva, I.; Benedetti Figueiredo, I.; Favilla, K.; Bustamante, M.; Macedo, M.N.; de Araújo, R.F.; Shimbo, J.Z.; Varela, V.; **Rodrigues, C.E.**; Alencar, A.A. *"Institutional Invisibility Threatens the Lands and Livelihoods of Traditional Communities in the Northern Brazilian Cerrado"* — Submetido a **Land Use Policy** (Elsevier, 2026).
+
+> A pesquisa de campo que embasa este artigo foi realizada durante a graduação em Antropologia na UnB e período como assessor técnico no ISPN, com comunidades tradicionais do Cerrado cujos territórios eram invisíveis para os dados oficiais (apenas 28% mapeados).
+>
+> The fieldwork underpinning this article was conducted during my undergraduate studies in Anthropology at UnB and as a technical advisor at ISPN, with traditional Cerrado communities whose territories were invisible to official data (only 28% mapped).
+
+**Artigo** — Rodrigues, C.E. *"Doenças são sintomas de uma crise cultural e ambiental"* — JOTA, Em Clima de Justiça (2026). [Ler](https://www.jota.info/opiniao-e-analise/colunas/em-clima-de-justica/doencas-sao-sintomas-de-uma-crise-cultural-e-ambiental)
+
+**Documentário** — *RUA PARA QUE(M)?* (85min, 2020) — Direção, fotografia, edição. Publicado pela Sumænimá.
+
+**Documentário** — *Manaus Extrema* (2024) — Codireção. Publicado pelo IPAM.
 
 ---
 

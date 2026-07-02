@@ -84,7 +84,7 @@ Dois semestres concluídos. Escolhi sair para me dedicar a dados, gestão de pro
 
 ## 📚 Publicações
 
-- **Coautor** — Moser, P. et al. *"Institutional Invisibility Threatens the Lands and Livelihoods of Traditional Communities in the Northern Brazilian Cerrado"* — Submetido a **Land Use Policy** (Elsevier, 2026). Pesquisa de campo realizada durante a graduação em Antropologia na UnB.
+- **Coautor** — Moser, P.; de Castro Silva, I.; Benedetti Figueiredo, I.; Favilla, K.; Bustamante, M.; Macedo, M.N.; de Araújo, R.F.; Shimbo, J.Z.; Varela, V.; **Rodrigues, C.E.**; Alencar, A.A. *"Institutional Invisibility Threatens the Lands and Livelihoods of Traditional Communities in the Northern Brazilian Cerrado"* — Submetido a **Land Use Policy** (Elsevier, 2026). Pesquisa de campo realizada durante a graduação em Antropologia na UnB.
 - **Documentário** — *RUA PARA QUE(M)?* (85min, 2020) — Direção, fotografia, edição. Publicado pela Sumænimá.
 - **Documentário** — *Manaus Extrema* (2024) — Codireção. Publicado pelo IPAM. Estreia no INPA / PROTEJA Talks 2024.
 - **Artigo** — Rodrigues, C.E. *"Doenças são sintomas de uma crise cultural e ambiental"* — JOTA, Em Clima de Justiça (2026). [Ler](https://www.jota.info/opiniao-e-analise/colunas/em-clima-de-justica/doencas-sao-sintomas-de-uma-crise-cultural-e-ambiental)
