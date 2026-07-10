@@ -29,7 +29,7 @@ Sumænimá is my life project — nearly 10 years integrating technology, data, 
 - **Sociobiodiversity Week (2025)** — 3rd National Youth PCT Meeting: data capture and systematization with dozens of youth leaders from across Brazil
 - **IPEA Strategic Planning Meeting (2026)** — 3 days of real-time reporting and data, contracted through Imagine Gestão Social, resulting in the institute's 2026–2027 agenda
 - **CNPCT — Planalto Palace (2026)** — data capture and audit of the 22nd Ordinary Meeting of the National Council of Traditional Peoples and Communities, with real-time transcription
-- **3rd Castanha Collective Meeting — OCA/IEB (2026)** — reporting and systematization with real-time transcription
+- **3rd Castanha Collective Meeting — OCA (Coletivo da Castanha do Brasil)/IEB (2026)** — reporting and systematization with real-time transcription
 
 ### 🗺️ ISPN — Institute for Society, Population and Nature
 *2017 — 2021 · Brasília-DF, Brazil*
