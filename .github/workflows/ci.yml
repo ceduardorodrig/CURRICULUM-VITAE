@@ -5,7 +5,16 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
         with:
-          python-version: "3.12"
-      - run: python -m cvcheck
+          path: curriculum-vitae
+
+      - uses: actions/checkout@v4
+        with:
+          repository: ceduardorodrig/SUMAENIMA-HUB
+          path: sumaenima-hub
+
+      - name: Rodar steniocheck (perfil resume)
+        working-directory: curriculum-vitae
+        run: |
+          PYTHONPATH=${{ github.workspace }}/sumaenima-hub/scripts \
+            python3 -m steniocheck --tag resume --scope static --format github
