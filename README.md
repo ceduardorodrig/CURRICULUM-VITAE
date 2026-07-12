@@ -37,11 +37,11 @@ The projects described here total **~8M+ lines and growing** (includes source co
 
 | # | Versão | Público | Arquivo |
 |---|--------|---------|---------|
-| 1 | **🖥️ Tech / Produto / Dados** | Startups, empresas de tecnologia, vagas em produto/dados/AI | [`pt-br/01-tech-produto-dados-pt.md`](pt-br/01-tech-produto-dados-pt.md) |
-| 1b | **📊 Tech / Dados & Negócios** | Empresas, negócios locais, consultoria em dados e diagnóstico de processos | [`pt-br/01-tech-dados-negocios-pt.md`](pt-br/01-tech-dados-negocios-pt.md) |
-| 2 | **🌳 Socioambiental-Tech** | ONGs, institutos de pesquisa, organismos internacionais, projetos de impacto | [`pt-br/02-socioambiental-tech-pt.md`](pt-br/02-socioambiental-tech-pt.md) |
-| 2b | **🏛️ Socioambiental (Institucional)** | Órgãos públicos, políticas PCT, cargos institucionais | [`pt-br/02-socioambiental-nichado-pt.md`](pt-br/02-socioambiental-nichado-pt.md) |
-| 3 | **🚀 Sumænimá** | Aceleradoras, investidores, editais, parceiros | [`pt-br/03-sumaenima-pt.md`](pt-br/03-sumaenima-pt.md) |
+| 1 | **🖥️ Tech / Produto / Dados** | Startups, empresas de tecnologia, vagas em produto/dados/AI | [`pt-br/01-tech-produto-dados-br.md`](pt-br/01-tech-produto-dados-br.md) |
+| 1b | **📊 Tech / Dados & Negócios** | Empresas, negócios locais, consultoria em dados e diagnóstico de processos | [`pt-br/01-tech-dados-negocios-br.md`](pt-br/01-tech-dados-negocios-br.md) |
+| 2 | **🌳 Socioambiental-Tech** | ONGs, institutos de pesquisa, organismos internacionais, projetos de impacto | [`pt-br/02-socioambiental-tech-br.md`](pt-br/02-socioambiental-tech-br.md) |
+| 2b | **🏛️ Socioambiental (Institucional)** | Órgãos públicos, políticas PCT, cargos institucionais | [`pt-br/02-socioambiental-nichado-br.md`](pt-br/02-socioambiental-nichado-br.md) |
+| 3 | **🚀 Sumænimá** | Aceleradoras, investidores, editais, parceiros | [`pt-br/03-sumaenima-br.md`](pt-br/03-sumaenima-br.md) |
 
 ### 🇺🇸 English
 
