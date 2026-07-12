@@ -50,7 +50,7 @@ The projects described here total **~8M+ lines and growing** (includes source co
 | 1 | **🖥️ Tech / Product / Data** | Startups, tech companies, data/product/AI roles | [`en-us/01-tech-product-data.md`](en-us/01-tech-product-data.md) |
 | 1b | **📊 Tech / Business Data** | Businesses, local enterprises, data consulting and process diagnostics | [`en-us/01-tech-business-data.md`](en-us/01-tech-business-data.md) |
 | 2 | **🌳 Socioenvironmental-Tech** | NGOs, research institutes, international organizations, impact projects | [`en-us/02-socioenvironmental-tech.md`](en-us/02-socioenvironmental-tech.md) |
-| 2b | **🏛️ Socioenvironmental (Institutional)** | Government bodies, PCT policy, institutional roles | [`en-us/02-socioenvironmental-nichado.md`](en-us/02-socioenvironmental-nichado.md) |
+| 2b | **🏛️ Socioenvironmental (Institutional)** | Government bodies, PCT policy, institutional roles | [`en-us/02-socioenvironmental-niche.md`](en-us/02-socioenvironmental-niche.md) |
 | 3 | **🚀 Sumænimá** | Accelerators, investors, grants, partners | [`en-us/03-sumaenima.md`](en-us/03-sumaenima.md) |
 
 ---
