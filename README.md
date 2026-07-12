@@ -37,21 +37,21 @@ The projects described here total **~8M+ lines and growing** (includes source co
 
 | # | Versão | Público | Arquivo |
 |---|--------|---------|---------|
-| 1 | **🖥️ Tech / Produto / Dados** | Startups, empresas de tecnologia, vagas em produto/dados/AI | [`pt-br/01-tech-produto-dados.md`](pt-br/01-tech-produto-dados.md) |
-| 1b | **📊 Tech / Dados & Negócios** | Empresas, negócios locais, consultoria em dados e diagnóstico de processos | [`pt-br/01-tech-dados-negocios.md`](pt-br/01-tech-dados-negocios.md) |
-| 2 | **🌳 Socioambiental-Tech** | ONGs, institutos de pesquisa, organismos internacionais, projetos de impacto | [`pt-br/02-socioambiental-tech.md`](pt-br/02-socioambiental-tech.md) |
-| 2b | **🏛️ Socioambiental (Institucional)** | Órgãos públicos, políticas PCT, cargos institucionais | [`pt-br/02-socioambiental-nichado.md`](pt-br/02-socioambiental-nichado.md) |
-| 3 | **🚀 Sumænimá** | Aceleradoras, investidores, editais, parceiros | [`pt-br/03-sumaenima.md`](pt-br/03-sumaenima.md) |
+| 1 | **🖥️ Tech / Produto / Dados** | Startups, empresas de tecnologia, vagas em produto/dados/AI | [`pt-br/01-tech-produto-dados-pt.md`](pt-br/01-tech-produto-dados-pt.md) |
+| 1b | **📊 Tech / Dados & Negócios** | Empresas, negócios locais, consultoria em dados e diagnóstico de processos | [`pt-br/01-tech-dados-negocios-pt.md`](pt-br/01-tech-dados-negocios-pt.md) |
+| 2 | **🌳 Socioambiental-Tech** | ONGs, institutos de pesquisa, organismos internacionais, projetos de impacto | [`pt-br/02-socioambiental-tech-pt.md`](pt-br/02-socioambiental-tech-pt.md) |
+| 2b | **🏛️ Socioambiental (Institucional)** | Órgãos públicos, políticas PCT, cargos institucionais | [`pt-br/02-socioambiental-nichado-pt.md`](pt-br/02-socioambiental-nichado-pt.md) |
+| 3 | **🚀 Sumænimá** | Aceleradoras, investidores, editais, parceiros | [`pt-br/03-sumaenima-pt.md`](pt-br/03-sumaenima-pt.md) |
 
 ### 🇺🇸 English
 
 | # | Version | Audience | File |
 |---|---------|----------|------|
-| 1 | **🖥️ Tech / Product / Data** | Startups, tech companies, data/product/AI roles | [`en-us/01-tech-product-data.md`](en-us/01-tech-product-data.md) |
-| 1b | **📊 Tech / Business Data** | Businesses, local enterprises, data consulting and process diagnostics | [`en-us/01-tech-business-data.md`](en-us/01-tech-business-data.md) |
-| 2 | **🌳 Socioenvironmental-Tech** | NGOs, research institutes, international organizations, impact projects | [`en-us/02-socioenvironmental-tech.md`](en-us/02-socioenvironmental-tech.md) |
-| 2b | **🏛️ Socioenvironmental (Institutional)** | Government bodies, PCT policy, institutional roles | [`en-us/02-socioenvironmental-niche.md`](en-us/02-socioenvironmental-niche.md) |
-| 3 | **🚀 Sumænimá** | Accelerators, investors, grants, partners | [`en-us/03-sumaenima.md`](en-us/03-sumaenima.md) |
+| 1 | **🖥️ Tech / Product / Data** | Startups, tech companies, data/product/AI roles | [`en-us/01-tech-product-data-en.md`](en-us/01-tech-product-data-en.md) |
+| 1b | **📊 Tech / Business Data** | Businesses, local enterprises, data consulting and process diagnostics | [`en-us/01-tech-business-data-en.md`](en-us/01-tech-business-data-en.md) |
+| 2 | **🌳 Socioenvironmental-Tech** | NGOs, research institutes, international organizations, impact projects | [`en-us/02-socioenvironmental-tech-en.md`](en-us/02-socioenvironmental-tech-en.md) |
+| 2b | **🏛️ Socioenvironmental (Institutional)** | Government bodies, PCT policy, institutional roles | [`en-us/02-socioenvironmental-niche-en.md`](en-us/02-socioenvironmental-niche-en.md) |
+| 3 | **🚀 Sumænimá** | Accelerators, investors, grants, partners | [`en-us/03-sumaenima-en.md`](en-us/03-sumaenima-en.md) |
 
 ---
 

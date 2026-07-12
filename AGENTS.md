@@ -1,6 +1,6 @@
 # AGENTS.md — Regras de Governança para Agentes de IA
 
-Este repositório contém **3 versões de currículo em PT e EN** (tech, socioambiental, sumænimá), **duas sub-versões** (`02-socioambiental-nichado.md` para contexto institucional [PT], `02-socioenvironmental-niche.md` para o mesmo contexto em EN, e `01-tech-dados-negocios.md` para consultoria em dados de negócios), um **README narrativo**, e um sistema de validação (cvcheck) que é uma miniatura funcional do StênioKernel.
+Este repositório contém **3 versões de currículo em PT e EN** (tech, socioambiental, sumænimá), **duas sub-versões** (`02-socioambiental-nichado-pt.md` para contexto institucional [PT], `02-socioenvironmental-niche-en.md` para o mesmo contexto em EN, e `01-tech-dados-negocios-pt.md` para consultoria em dados de negócios), um **README narrativo**, e um sistema de validação (cvcheck) que é uma miniatura funcional do StênioKernel.
 
 Ao modificar qualquer arquivo deste repositório, siga estas regras obrigatoriamente:
 
@@ -12,7 +12,7 @@ Ao modificar qualquer arquivo deste repositório, siga estas regras obrigatoriam
 
 3. **Mantenha PT e EN sincronizados** — se adicionou conteúdo em português, crie a versão em inglês no arquivo correspondente em `en-us/`. Revise a tradução: termos técnicos e nomes de instituições brasileiras podem ser mantidos em português com explicação em inglês na primeira ocorrência.
 
-4. **Sub-versões específicas** — o arquivo `02-socioambiental-nichado.md` (PT) e `02-socioenvironmental-niche.md` (EN) são sub-versões para contextos institucionais. Mudanças nos arquivos `02-socioambiental-tech.md` / `02-socioenvironmental-tech.md` que sejam relevantes para este perfil (relatorias governamentais, articulação com órgãos públicos, experiências com comunidades tradicionais) devem ser replicadas na sub-versão correspondente.
+4. **Sub-versões específicas** — o arquivo `02-socioambiental-nichado-pt.md` (PT) e `02-socioenvironmental-niche-en.md` (EN) são sub-versões para contextos institucionais. Mudanças nos arquivos `02-socioambiental-tech-pt.md` / `02-socioenvironmental-tech-en.md` que sejam relevantes para este perfil (relatorias governamentais, articulação com órgãos públicos, experiências com comunidades tradicionais) devem ser replicadas na sub-versão correspondente.
 
 5. **Narrativa do README** — a seção "O Fio da Meada" / "The Thread" conta a trajetória do autor em formato de história. Novas experiências não precisam de um parágrafo inteiro, mas devem ser mencionadas se representarem um marco na carreira.
 
