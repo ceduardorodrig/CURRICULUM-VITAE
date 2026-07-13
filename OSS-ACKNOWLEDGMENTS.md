@@ -37,4 +37,8 @@ O Sumænimá Hub é construído sobre ombros de gigantes. Agradecemos e reconhec
 - **[Loki](https://github.com/grafana/loki)** (AGPLv3) — Log aggregation
 - **[Umami](https://github.com/umami-software/umami)** (MIT) — Analytics
 
+## AI Assistants
+
+- **[DeepSeek](https://deepseek.com/)** — Assistência na elaboração de conteúdo, tradução e formatação dos currículos.
+
 > 📌 **Licenças**: cada projeto mantém sua licença original. O código proprietário do Sumænimá Hub (StênioKernel, StênioBOT) é proprietário (All Rights Reserved).
