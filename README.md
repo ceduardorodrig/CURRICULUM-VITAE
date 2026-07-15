@@ -21,9 +21,9 @@
 
 ## 🌍 Sobre / About
 
-Este repositório contém meu currículo em **3 versões** para diferentes públicos, cada uma em **Português (BR)** e **English (US)**.
+Este repositório contém meu currículo em **4 versões** para diferentes públicos, cada uma em **Português (BR)** e **English (US)**.
 
-This repository contains my resume in **3 versions** for different audiences, each in **English (US)** and **Português (BR)**.
+This repository contains my resume in **4 versions** for different audiences, each in **English (US)** and **Português (BR)**.
 
 Os projetos descritos aqui totalizam **~8M+ linhas e crescendo** (inclui código fonte, documentação e assets) — distribuídas em 1.227+ arquivos, construídos ao longo de 10 anos como projeto de vida.
 
@@ -41,6 +41,7 @@ The projects described here total **~8M+ lines and growing** (includes source co
 | 1b | **📊 Tech / Dados & Negócios** | Empresas, negócios locais, consultoria em dados e diagnóstico de processos | [`pt-br/01-tech-dados-negocios-br.md`](pt-br/01-tech-dados-negocios-br.md) |
 | 2 | **🌳 Socioambiental-Tech** | ONGs, institutos de pesquisa, organismos internacionais, projetos de impacto | [`pt-br/02-socioambiental-tech-br.md`](pt-br/02-socioambiental-tech-br.md) |
 | 2b | **🏛️ Socioambiental (Institucional)** | Órgãos públicos, políticas PCT, cargos institucionais | [`pt-br/02-socioambiental-nichado-br.md`](pt-br/02-socioambiental-nichado-br.md) |
+| 1c | **🎯 Product Manager** | Vagas de PM, produto digital, tech-for-good | [`pt-br/01-tech-pm-br.md`](pt-br/01-tech-pm-br.md) |
 | 3 | **🚀 Sumænimá** | Aceleradoras, investidores, editais, parceiros | [`pt-br/03-sumaenima-br.md`](pt-br/03-sumaenima-br.md) |
 
 ### 🇺🇸 English
@@ -51,6 +52,7 @@ The projects described here total **~8M+ lines and growing** (includes source co
 | 1b | **📊 Tech / Business Data** | Businesses, local enterprises, data consulting and process diagnostics | [`en-us/01-tech-business-data-en.md`](en-us/01-tech-business-data-en.md) |
 | 2 | **🌳 Socioenvironmental-Tech** | NGOs, research institutes, international organizations, impact projects | [`en-us/02-socioenvironmental-tech-en.md`](en-us/02-socioenvironmental-tech-en.md) |
 | 2b | **🏛️ Socioenvironmental (Institutional)** | Government bodies, PCT policy, institutional roles | [`en-us/02-socioenvironmental-niche-en.md`](en-us/02-socioenvironmental-niche-en.md) |
+| 1c | **🎯 Product Manager** | PM roles, digital product, tech-for-good | [`en-us/01-tech-pm-en.md`](en-us/01-tech-pm-en.md) |
 | 3 | **🚀 Sumænimá** | Accelerators, investors, grants, partners | [`en-us/03-sumaenima-en.md`](en-us/03-sumaenima-en.md) |
 
 ---
@@ -309,4 +311,4 @@ Este repositório inclui o **cvcheck**, uma versão reduzida e portátil do Stê
 
 ---
 
-🕐 *Última atualização / Last updated: junho 2026*
+🕐 *Última atualização / Last updated: julho 2026*

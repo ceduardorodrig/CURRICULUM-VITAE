@@ -10,7 +10,7 @@
 
 ## 👤 Perfil
 
-Arquiteto de dados e produto que constrói pontes entre tecnologia open-source e pesquisa qualitativa. Experiência comprovada em projetar pipelines de IA local (Whisper, LLMs, GroundingDINO, SAM 2), orquestrar clusters Docker Swarm multi-nó e gerenciar produtos de dados completos, do conceito à entrega. Uso engenhoso de hardware reaproveitado e software livre para entregar soluções de IA privadas, offline e economicamente viáveis — sem depender de infraestrutura de big tech. Projetou o StênioKernel — um Kernel proprietário de Governança para Agentes de IA (21.435 linhas, 132 drivers, 10 camadas anti-bypass) que governa o comportamento de agentes através de integridade criptográfica, correção automatizada com rollback e análise de tendências. Formação em Antropologia pela UnB como base para design de produto centrado em humanos.
+Arquiteto de dados e produto que constrói pontes entre tecnologia open-source e pesquisa qualitativa. Experiência comprovada em projetar pipelines de IA local (Whisper, LLMs, GroundingDINO, SAM 2), orquestrar clusters Docker Swarm multi-nó e gerenciar produtos de dados completos, do conceito à entrega. Uso engenhoso de hardware reaproveitado e software livre para entregar soluções de IA privadas, offline e economicamente viáveis — sem depender de infraestrutura de big tech. Projetou o StênioKernel — um Kernel proprietário de Governança para Agentes de IA (21.435 linhas, 132 drivers, 10 camadas anti-bypass) que governa o comportamento de agentes por meio de integridade criptográfica, correção automatizada com rollback e análise de tendências. Formação em Antropologia pela UnB como base para design de produto centrado em humanos.
 
 ---
 
