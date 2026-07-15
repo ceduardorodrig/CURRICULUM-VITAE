@@ -39,6 +39,7 @@
 | **Definition of Done (DoD)** | 15 min | Scrum Guide |
 | **Acceptance Criteria** | 15 min | Mountain Goat Software |
 | **AARRR / Pirate Metrics** | 30 min | Dave McClure original (Slideshare) + "Pirate Metrics" no ProductPlan |
+| **Metabase (BI autosserviço)** | 2h | metabase.com/docs + tutorial de setup Docker + deploy no seu próprio stack |
 
 ### 🟡 Prioridade Média
 
@@ -46,6 +47,7 @@
 |---|---|---|
 | **SLI / SLO** | 30 min | Conceito (mais relevante em times de plataforma) |
 | **Rollout Strategy / Release Plan** | 30 min | Artigos sobre estratégia de lançamento |
+| **Amplitude / Mixpanel (Product Analytics)** | 1h | Conceitos: event tracking, funis, cohorts, retention. Docs do Amplitude + "Product Analytics for PMs" |
 
 ### ⬜ Prioridade Livre
 
@@ -95,6 +97,9 @@ Sand + Pebbles, T-shirt sizes, Risk Management, Gantt, Agile/Scrum.
 
 > ~~"Conduziu discovery..."~~ →
 > **Produziu PRDs** para cada módulo do StênioBOT, documentando requisitos funcionais e critérios de aceitação, usados como fonte única de verdade pelo time
+
+> ~~"Geria métricas..."~~ →
+> **Implementou** **Metabase** como camada de BI autosserviço sobre PostgreSQL, permitindo que stakeholders (IPEA, IEB) consumissem métricas de produto em tempo real sem dependência de engenharia
 
 **IPAM:**
 
@@ -152,7 +157,7 @@ Histórias completas no formato **S**ituação → **T**arefa → **A**ção →
 
 | Fase | Duração | O que faz |
 |---|---|---|
-| **Fase 1 — Estudar** | 1 semana | ICE/RICE, OKR, PRD, DoD, Acceptance Criteria, Feature Flags, **AARRR**, podcasts |
+| **Fase 1 — Estudar** | 1 semana | ICE/RICE, OKR, PRD, DoD, Acceptance Criteria, Feature Flags, AARRR, **Metabase**, podcasts |
 | **Fase 2 — Atualizar CV** | 1 dia | Skills table + bullets reformulados + STAR stories |
 | **Fase 3 — Entrevista** | Contínuo | Pitch verbal 30s/60s/120s + simulação de perguntas PM |
 
@@ -167,6 +172,9 @@ Histórias completas no formato **S**ituação → **T**arefa → **A**ção →
 - [RACI Matrix — PMI](https://www.pmi.org/learning/library/raci-matrix-decisions-5959)
 - [Definition of Done — Scrum Guide](https://scrumguides.org/)
 - [Feature Flags — Martin Fowler](https://martinfowler.com/articles/feature-flags.html)
+- [Metabase Docs](https://www.metabase.com/docs/)
+- [Amplitude — Product Analytics Guide](https://amplitude.com/blog/product-analytics)
+- [Mixpanel — Analytics for Product Managers](https://mixpanel.com/blog/)
 
 ### Cursos Gratuitos
 
