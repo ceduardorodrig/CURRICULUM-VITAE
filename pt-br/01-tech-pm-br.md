@@ -1,6 +1,6 @@
 # 👤 Carlos Eduardo Rodrigues
 
-**Product Manager — Dados & Impacto**
+**Arquiteto de Dados & Produto | Governança de IA | Fundador @ Sumænimá**
 
 [ceduardorodrig@gmail.com](mailto:ceduardorodrig@gmail.com) | +55 (61) 9-9803-3546 | Brasília-DF
 
@@ -29,7 +29,7 @@ Product Manager com trajetória em produtos de dados e impacto socioambiental. C
 
 ## 💼 Experiência
 
-### 🚀 Sumænimá — Fundador & Product Manager
+### 🚀 Sumænimá — Fundador & Product Owner
 *2016 — presente · Brasília-DF / Remoto*
 
 - **Liderou** o ciclo de vida completo do StênioBOT, definindo roadmap e priorizando funcionalidades em 4 módulos com base em discovery de campo com 5+ parceiros institucionais
@@ -41,7 +41,7 @@ Product Manager com trajetória em produtos de dados e impacto socioambiental. C
 ### 🌳 IPAM — Instituto de Pesquisa Ambiental da Amazônia
 *2022 — 2025 · Brasília-DF*
 
-**Líder de Produto Digital / Scrum Master** (2024–2025) · **Assistente** (2022–2024)
+**Líder de Produto Digital** (2024–2025) · **Assistente de Comunicação** (2023–2024) · **Estagiário** (2022–2023)
 
 - **Liderou** estratégia digital data-driven que gerou +143,3% de crescimento no Facebook e +100% no Instagram em 5 canais, alcançando 2M+ usuários com 66,7K interações
 - **Liderou** time multifuncional de designers, redatores e analistas como Scrum Master, implementando sprint planning, retrospectivas e métricas de entrega
@@ -52,7 +52,7 @@ Product Manager com trajetória em produtos de dados e impacto socioambiental. C
 ### 🗺️ ISPN — Instituto Sociedade, População e Natureza
 *2017 — 2021 · Brasília-DF*
 
-**Líder de Product Discovery — Tô no Mapa**
+**Assessor Técnico Júnior** (2019–2021) · **Estagiário** (2017–2019)
 
 - **Conduziu** discovery de produto com 50+ comunidades tradicionais do Cerrado, aplicando métodos etnográficos para descobrir necessidades não atendidas em mapeamento territorial
 - **Traduziu** pesquisa de campo em requisitos de produto adotados pelo Ministério Público Federal (MPF), hoje empoderando milhares de usuários

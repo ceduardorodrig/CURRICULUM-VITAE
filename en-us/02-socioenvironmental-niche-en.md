@@ -1,6 +1,6 @@
 # 👤 Carlos Eduardo Rodrigues
 
-**Anthropologist — Research, Reporting and Management with Traditional Peoples and Communities**
+**Data & Product Architect | AI Governance | Founder @ Sumænimá**
 
 [ceduardorodrig@gmail.com](mailto:ceduardorodrig@gmail.com) | +55 (61) 9-9803-3546 | Brasília-DF, Brazil
 
@@ -49,7 +49,7 @@ Multi-institutional articulation in Chapada dos Veadeiros to create an ecologica
 ### 🌳 IPAM — Amazon Environmental Research Institute
 *2022 — 2025 · Brasília-DF, Brazil*
 
-**Communication Analyst** (2024–2025) · **Assistant** (2023–2024) · **Trainee** (2022–2023)
+**Digital Product Lead** (2024–2025) · **Communications Assistant** (2023–2024) · **Trainee** (2022–2023)
 
 Digital leadership for one of Brazil's leading climate research institutes:
 - **+143.3%** Facebook, **+100%** Instagram, **2+ million** reach, **66.7K** interactions
@@ -64,7 +64,7 @@ Digital leadership for one of Brazil's leading climate research institutes:
 
 Support for the centralization and systematization of COVID-19 data among Indigenous Peoples in Brazil, amidst the dismantling of public health command and control mechanisms during the pandemic.
 
-### 🚀 Sumænimá — Founder
+### 🚀 Sumænimá — Founder & Product Owner
 *2016 — present · Brasília-DF / Remote*
 
 Life project integrating anthropology, technology, and data to support PCT policy reporting and documentation. Development of a proprietary 100% local AI data capture and systematization system, applied to ethnographic reporting and event documentation. Born from the conviction that sensitive community data should not depend on big tech infrastructure.

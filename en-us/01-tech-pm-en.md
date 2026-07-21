@@ -1,6 +1,6 @@
 # 👤 Carlos Eduardo Rodrigues
 
-**Product Manager — Data & Impact**
+**Data & Product Architect | AI Governance | Founder @ Sumænimá**
 
 [ceduardorodrig@gmail.com](mailto:ceduardorodrig@gmail.com) | +55 (61) 9-9803-3546 | Brasília-DF, Brazil
 
@@ -29,7 +29,7 @@ Product Manager with a track record in data products and socio-environmental imp
 
 ## 💼 Experience
 
-### 🚀 Sumænimá — Founder & Product Manager
+### 🚀 Sumænimá — Founder & Product Owner
 *2016 — present · Brasília-DF / Remote*
 
 - **Led** end-to-end product lifecycle for StênioBOT, defining roadmap and prioritizing features across 4 modules based on field discovery with 5+ institutional partners
@@ -41,7 +41,7 @@ Product Manager with a track record in data products and socio-environmental imp
 ### 🌳 IPAM — Amazon Environmental Research Institute
 *2022 — 2025 · Brasília-DF, Brazil*
 
-**Digital Product Lead / Scrum Master** (2024–2025) · **Assistant** (2022–2024)
+**Digital Product Lead** (2024–2025) · **Communications Assistant** (2023–2024) · **Trainee** (2022–2023)
 
 - **Drove** data-driven digital strategy achieving +143.3% audience growth on Facebook and +100% on Instagram across 5 channels, reaching 2M+ users with 66.7K interactions
 - **Led** cross-functional team of designers, writers and analysts as Scrum Master, implementing sprint planning, retrospectives and delivery metrics
@@ -52,7 +52,7 @@ Product Manager with a track record in data products and socio-environmental imp
 ### 🗺️ ISPN — Institute for Society, Population and Nature
 *2017 — 2021 · Brasília-DF, Brazil*
 
-**Product Discovery Lead — Tô no Mapa**
+**Junior Technical Advisor** (2019–2021) · **Trainee** (2017–2019)
 
 - **Conducted** product discovery with 50+ traditional Cerrado communities, applying ethnographic methods to uncover unmet needs in territorial mapping
 - **Translated** field research into product requirements adopted by Brazil's Federal Public Ministry (MPF), now empowering thousands of users

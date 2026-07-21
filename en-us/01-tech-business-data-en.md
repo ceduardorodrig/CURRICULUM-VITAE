@@ -1,6 +1,6 @@
 # 👤 Carlos Eduardo Rodrigues
 
-**Data Consultant & Process Audit**
+**Data & Product Architect | AI Governance | Founder @ Sumænimá**
 
 [ceduardorodrig@gmail.com](mailto:ceduardorodrig@gmail.com) | +55 (61) 9-9803-3546 | Brasília-DF, Brazil
 
@@ -16,7 +16,7 @@ Data consultant specialized in **data auditing and organization for the culture 
 
 ## 💼 Experience
 
-### 🚀 Sumænimá — Founder & Data Consultant
+### 🚀 Sumænimá — Founder & Product Owner
 *2016 — present · Brasília-DF / Remote*
 
 Sumænimá is my life project — nearly 10 years integrating technology, data, and research to solve complex information problems. The dream is to build a **Data Bureau** serving businesses, institutions, and communities with precise audits and tailored solutions.
@@ -54,14 +54,14 @@ Other contributions:
 ### 🦎 Participatory Fauna Monitoring Network
 *2020 — 2022 · Cavalcante-GO, Brazil*
 
-**Communications Specialist**
+**Stakeholder Facilitator**
 
 Multi-institutional articulation in Chapada dos Veadeiros bringing together ICMBio, UnB, landowners, and communities. Facilitated the inaugural meeting and produced the complete executive report. Direct work with **André Rodrigues de Aquino** (Lead Environmental Specialist, World Bank) and **Daniel Ferreira** (Itamaraty diplomat).
 
 ### 🌳 IPAM — Amazon Environmental Research Institute
 *2022 — 2025 · Brasília-DF, Brazil*
 
-**Communication Analyst** (2024–2025) · **Communication Assistant** (2023–2024) · **Trainee** (2022–2023)
+**Digital Product Lead** (2024–2025) · **Communications Assistant** (2023–2024) · **Trainee** (2022–2023)
 
 **Case: Data-Driven Strategy — 143% Growth Through Metrics**
 

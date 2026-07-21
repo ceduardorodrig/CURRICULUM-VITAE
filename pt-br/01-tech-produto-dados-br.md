@@ -60,14 +60,14 @@ Stack: FastAPI (async) + React 19 + TypeScript 6 + PostgreSQL 16 + Valkey 8 + Do
 ### 🦎 Rede de Monitoria Participativa da Fauna
 *2020 — 2022 · Cavalcante-GO*
 
-**Especialista em Comunicação**
+**Stakeholder Facilitator**
 
 Trabalhei diretamente com **André Rodrigues de Aquino** (Lead Environmental Specialist do World Bank, então gerente sênior de recursos naturais) e **Daniel Ferreira** (diplomata do Itamaraty), proprietários da **Reserva Natural Veredas dos Buritis** — que fica **dentro** da Fazenda Canadá, área do meu TCC. Apoiei a facilitação da reunião inaugural da Rede de Monitoria, que buscava criar um corredor ecológico entre o Parque Nacional da Chapada dos Veadeiros e o Sítio Histórico Kalunga, reunindo ICMBio, UnB, ONGs e proprietários rurais. Produzi relatório executivo completo (concepção, redação, fotografia, diagramação).
 
 ### 🌳 IPAM — Instituto de Pesquisa Ambiental da Amazônia
 *2022 — 2025 · Brasília-DF*
 
-**Analista de Comunicação** (2024–2025) · **Assistente de Comunicação** (2023–2024) · **Estagiário** (2022–2023)
+**Líder de Produto Digital** (2024–2025) · **Assistente de Comunicação** (2023–2024) · **Estagiário** (2022–2023)
 
 **Case: Scaling Digital Engagement — +143% de crescimento em comunicação científica climática**
 

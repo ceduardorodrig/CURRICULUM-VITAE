@@ -1,6 +1,6 @@
 # 👤 Carlos Eduardo Rodrigues
 
-**Antropólogo — Pesquisa, Relatoria e Gestão com Povos e Comunidades Tradicionais**
+**Arquiteto de Dados & Produto | Governança de IA | Fundador @ Sumænimá**
 
 [ceduardorodrig@gmail.com](mailto:ceduardorodrig@gmail.com) | +55 (61) 9-9803-3546 | Brasília-DF
 
@@ -49,7 +49,7 @@ Articulação multi-institucional na Chapada dos Veadeiros para criação de um 
 ### 🌳 IPAM — Instituto de Pesquisa Ambiental da Amazônia
 *2022 — 2025 · Brasília-DF*
 
-**Analista de Comunicação** (2024–2025) · **Assistente** (2023–2024) · **Estagiário** (2022–2023)
+**Líder de Produto Digital** (2024–2025) · **Assistente de Comunicação** (2023–2024) · **Estagiário** (2022–2023)
 
 Liderança digital de um dos principais institutos de pesquisa climática do Brasil:
 - **+143,3%** Facebook, **+100%** Instagram, **2+ milhões** de alcance, **66,7K** interações
@@ -64,7 +64,7 @@ Liderança digital de um dos principais institutos de pesquisa climática do Bra
 
 Apoio à centralização e sistematização de dados sobre COVID-19 entre Povos Indígenas, em meio ao desmonte dos mecanismos públicos de comando e controle sanitário durante a pandemia.
 
-### 🚀 Sumænimá — Fundador
+### 🚀 Sumænimá — Fundador & Product Owner
 *2016 — presente · Brasília-DF / Remoto*
 
 Projeto de vida que integra antropologia, tecnologia e dados para apoiar relatoria e documentação de políticas PCT. Desenvolvimento de sistema próprio de captura e sistematização de dados com IA 100% local, aplicado a relatoria etnográfica e documentação de eventos. Nasceu da convicção de que dados sensíveis de comunidades tradicionais não devem depender de infraestrutura de big tech.

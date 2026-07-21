@@ -1,6 +1,6 @@
 # 👤 Carlos Eduardo Rodrigues
 
-**Consultor de Dados & Auditoria de Processos**
+**Arquiteto de Dados & Produto | Governança de IA | Fundador @ Sumænimá**
 
 [ceduardorodrig@gmail.com](mailto:ceduardorodrig@gmail.com) | +55 (61) 9-9803-3546 | Brasília-DF
 
@@ -16,7 +16,7 @@ Consultor de dados especializado em **auditoria e organização de dados para o 
 
 ## 💼 Experiência
 
-### 🚀 Sumænimá — Fundador & Consultor de Dados
+### 🚀 Sumænimá — Fundador & Product Owner
 *2016 — presente · Brasília-DF / Remoto*
 
 Sumænimá é meu projeto de vida — quase 10 anos integrando tecnologia, dados e pesquisa para resolver problemas complexos de informação. O sonho é construir um **Bureau de Dados** que atenda negócios, instituições e comunidades com auditorias precisas e soluções sob medida.
@@ -54,14 +54,14 @@ Outras contribuições:
 ### 🦎 Rede de Monitoria Participativa da Fauna
 *2020 — 2022 · Cavalcante-GO*
 
-**Especialista em Comunicação**
+**Stakeholder Facilitator**
 
 Articulação multi-institucional na Chapada dos Veadeiros reunindo ICMBio, UnB, proprietários rurais e comunidades. Facilitação da reunião inaugural e produção de relatório executivo completo. Trabalho direto com **André Rodrigues de Aquino** (Lead Environmental Specialist, World Bank) e **Daniel Ferreira** (diplomata, Itamaraty).
 
 ### 🌳 IPAM — Instituto de Pesquisa Ambiental da Amazônia
 *2022 — 2025 · Brasília-DF*
 
-**Analista de Comunicação** (2024–2025) · **Assistente de Comunicação** (2023–2024) · **Estagiário** (2022–2023)
+**Líder de Produto Digital** (2024–2025) · **Assistente de Comunicação** (2023–2024) · **Estagiário** (2022–2023)
 
 **Case: Estratégia Data-Driven — +143% de crescimento com base em métricas**
 

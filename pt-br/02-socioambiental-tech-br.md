@@ -1,6 +1,6 @@
 # 👤 Carlos Eduardo Rodrigues
 
-**Antropólogo & Arquiteto de Soluções Tech-Socioambientais**
+**Arquiteto de Dados & Produto | Governança de IA | Fundador @ Sumænimá**
 
 [ceduardorodrig@gmail.com](mailto:ceduardorodrig@gmail.com) | +55 (61) 9-9803-3546 | Brasília-DF
 
@@ -59,14 +59,14 @@ Outras contribuições:
 ### 🦎 Rede de Monitoria Participativa da Fauna
 *2020 — 2022 · Cavalcante-GO*
 
-**Especialista em Comunicação**
+**Stakeholder Facilitator**
 
 Trabalhei diretamente com **André Rodrigues de Aquino** (Lead Environmental Specialist do World Bank, então gerente sênior de recursos naturais) e **Daniel Ferreira** (diplomata do Itamaraty), proprietários da **Reserva Natural Veredas dos Buritis** — que fica **dentro** da Fazenda Canadá, área do meu TCC. Apoiei a facilitação da reunião inaugural da Rede de Monitoria, que buscava criar um corredor ecológico entre o Parque Nacional da Chapada dos Veadeiros e o Sítio Histórico Kalunga, reunindo ICMBio, UnB, ONGs e proprietários rurais. Produzi relatório executivo completo.
 
 ### 🌳 IPAM — Instituto de Pesquisa Ambiental da Amazônia
 *2022 — 2025 · Brasília-DF*
 
-**Analista de Comunicação** (2024–2025) · **Assistente de Comunicação** (2023–2024) · **Estagiário** (2022–2023)
+**Líder de Produto Digital** (2024–2025) · **Assistente de Comunicação** (2023–2024) · **Estagiário** (2022–2023)
 
 - Liderança digital de um dos principais institutos de pesquisa climática da Amazônia: **+143,3% Facebook, +100% Instagram, 2+ milhões de alcance, 66,7K interações**
 - Alcance consolidado de **2+ milhões** de usuários (1,6M canais principais) no gerenciamento de 5 redes sociais

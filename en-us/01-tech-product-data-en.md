@@ -60,14 +60,14 @@ Stack: FastAPI (async) + React 19 + TypeScript 6 + PostgreSQL 16 + Valkey 8 + Do
 ### 🦎 Participatory Fauna Monitoring Network
 *2020 — 2022 · Cavalcante-GO, Brazil*
 
-**Communications Specialist**
+**Stakeholder Facilitator**
 
 Worked directly with **André Rodrigues de Aquino** (Lead Environmental Specialist at the World Bank, former Senior Natural Resources Manager) and **Daniel Ferreira** (Itamaraty diplomat), owners of the **Reserva Natural Veredas dos Buritis** — located **inside** the Fazenda Canadá area, the subject of my undergraduate thesis. Supported the facilitation of the network's inaugural meeting, bringing together ICMBio, UnB, NGOs, and rural landowners to structure a wildlife corridor between Chapada dos Veadeiros National Park and the Kalunga Historical Site. Produced the complete executive report.
 
 ### 🌳 IPAM — Amazon Environmental Research Institute
 *2022 — 2025 · Brasília-DF, Brazil*
 
-**Communication Analyst** (2024–2025) · **Communication Assistant** (2023–2024) · **Trainee** (2022–2023)
+**Digital Product Lead** (2024–2025) · **Communications Assistant** (2023–2024) · **Trainee** (2022–2023)
 
 **Case: Scaling Digital Engagement — Driving 143% Growth for Climate Science Communication**
 
